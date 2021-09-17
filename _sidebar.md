@@ -1,0 +1,12 @@
+- lowi.ro 下载站
+  - [获取安装包](/)
+  - [快捷充值记忆源点](purchase.md)
+- 更多信息
+  - [关于本站](about.md)
+  - [疑问解答](faq.md)
+  - [使用条款](tos.md)
+  - [隐私政策](privacy.md)
+  - [未成年人保护](minor.md)
+  - [更新日志](changelog.md)
+- 友情链接
+  - [616.sb](https://616.sb)
