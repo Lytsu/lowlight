@@ -1,3 +1,5 @@
+!> **本站目前仍然处于测试阶段，欢迎前往 [BiliBili:梨梓Rytsu](space.bilibili.com/5899551) 留下您宝贵的意见。**
+
 # lowi.ro - 快速获得 Arcaea 安装包
 
 Arcaea 是由 lowiro limited 开发的移动端/ Nintendo Switch 游戏。通过本网站，您可快速获得 Arcaea 的 Android 端安装包。 
@@ -19,3 +21,4 @@ Arcaea 是由 lowiro limited 开发的移动端/ Nintendo Switch 游戏。通过
 ?> 这是从 Play 商店提取的版本。该版本需要通过 Play 商店充值记忆源点，同时接入了 Play Games 服务。部分地区可能无法使用以上服务。
 
 暂时没有下载链接
+
