@@ -1,10 +1,22 @@
 !> **本站目前仍然处于测试阶段，欢迎前往 [BiliBili:梨梓Rytsu](space.bilibili.com/5899551) 留下您宝贵的意见。**
 
+!> **请注意，本网页与 lowiro limited 无任何关联。**
+
 # lowi.ro - 快速获得 Arcaea 安装包
 
 Arcaea 是由 lowiro limited 开发的移动端/ Nintendo Switch 游戏。通过本网站，您可快速获得 Arcaea 的 Android 端安装包。 
 
-!> **请注意，本网页与 lowiro limited 无任何关联。**
+
+
+> **未成年人保护相关信息**
+>
+> 根据 Google Play 提供的分级信息，Arcaea 可供参考的分级认证信息如下：
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（娱乐软件分级委员会/北美）: Everyone（适合所有人）
+>
+> PEGI（泛欧洲游戏信息组织）: 3
 
 
 
