@@ -8,6 +8,4 @@
   - [隐私政策](privacy.md)
   - [未成年人保护](minor.md)
   - [更新日志](changelog.md)
-- 友情链接
-  - [616.sb](https://616.sb)
 
