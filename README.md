@@ -2,9 +2,9 @@
 
 !> **请注意，本网页与 lowiro limited 无任何关联。**
 
-# lowi.ro - 提供一些音游的小站
+# lowi.ro - 提供一些音游下载的小站
 
-目前只有 Arcaea 提供。
+话是这么说，目前只有 Arcaea 提供。
 
 
 ## Arcaea
