@@ -12,15 +12,15 @@
 <details>
 <summary><b>未成年人保护资讯</b></summary>
 
-**Arcaea 可供参考的分级认证信息如下：**
-
-IARC（国际年龄评级联盟系统）: 3+
-
-ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
-
-PEGI（欧洲/泛欧洲游戏信息组织）: 3
-
-App Store 年龄分级 : 4+
+> **Arcaea 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+>
+> App Store 年龄分级 : 4+
 
 </details>
 
@@ -44,15 +44,16 @@ App Store 年龄分级 : 4+
 <details>
 <summary><b>未成年人保护资讯</b></summary>
 
-**Phigros 可供参考的分级认证信息如下：**
+> **Phigros 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 12+
+>
+> ESRB（美洲/娱乐软件分级委员会）: Teen（青少年）
+>
+> PEGI（欧洲/泛欧洲游戏信息组织）: 12
+>
+> App Store 年龄分级 : 12+
 
-IARC（国际年龄评级联盟系统）: 12+
-
-ESRB（美洲/娱乐软件分级委员会）: Teen（青少年）
-
-PEGI（欧洲/泛欧洲游戏信息组织）: 12
-
-App Store 年龄分级 : 12+
 
 </details>
 
