@@ -24,19 +24,19 @@ App Store 年龄分级 : 4+
 
 </details>
 
-### 3.8.4c
+### 3.8.6c(2021/9/29)
 
 ?> 版本号后含有 c 的是 lowiro 提供的中国大陆版本。该版本没有接入 Google Play 的有关服务，对中国大陆玩家更加友好。同时，该版本可以直接通过支付宝充值记忆源点。您可以直接覆盖 Play 版本来安装本版本，而无需事先卸载。
 
-[日本东京节点](https://jp.rytsu.org/arcaea_3.8.4c.apk)
+[日本东京节点](https://jp.rytsu.org/arcaea_3.8.6c.apk)
 
-[美西节点](https://liusw.rytsu.org/arcaea_3.8.4c.apk)
+[美西节点](https://liusw.rytsu.org/arcaea_3.8.6c.apk)
 
-### 3.8.4
+### 3.8.6(2021/9/29)
 
 ?> 这是从 Play 商店提取的版本。该版本需要通过 Play 商店充值记忆源点，同时接入了 Play Games 服务。部分地区可能无法使用以上服务。
 
-暂时没有下载链接
+即将更新下载链接
 
 ## Phigros
 
