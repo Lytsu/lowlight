@@ -1,11 +1,20 @@
 - ⌈提供一些音游下载的小站⌋
   - [下载游戏](/)
   - [快捷充值记忆源点](purchase.md)
-- 更多信息
+- 一些文档
+  - [站点疑问解答](faq.md)
+  - [.XAPK 安装教程](sai.md)
+  - [注册 Apple ID](appleid.md)
+- 站点信息
   - [关于本站](about.md)
-  - [疑问解答](faq.md)
   - [使用条款](tos.md)
   - [隐私政策](privacy.md)
   - [未成年人保护](minor.md)
   - [更新日志](changelog.md)
+- 友情链接
+  - [616.sb](https://616.sb)
+  - [mhy.sb](https://mhy.sb)
+  - [维咔 ACG 社区](https://vikacg.com)
+  - [Rsplwe's Blog](https://www.rsplwe.com)
+  - [Karyl 工具箱](https://bilibili.red)
 
