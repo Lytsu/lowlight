@@ -3,7 +3,7 @@
   - [快捷充值记忆源点](purchase.md)
 - 一些文档
   - [站点疑问解答](faq.md)
-  - [.XAPK 安装教程](sai.md)
+  - [特殊安装包安装教程](sai.md)
   - [注册 Apple ID](appleid.md)
 - 站点信息
   - [关于本站](about.md)

@@ -46,7 +46,11 @@
 
 ### 3.8.6 (2021/09/29)
 
-Coming Soon
+[美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.8.6.apks)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/arcaea_3.8.6.apks)
+
+[东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6.apks)
 
 ### 3.5.3c (2021/04/01 愚人节)
 
@@ -97,6 +101,29 @@ Coming Soon
 
 [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)
 
+## Malody
+
+<details>
+<summary><font color="#DA0B84"><b>未成年人保护资讯</b></font></summary>
+
+> 由于 Malody 是由玩家社区驱动的游戏，故无法单纯从其提交的分级信息中判断真实的适用年龄。
+>
+> 本站建议您或您的监护人自行确认该游戏的分级。
+
+</details>
+
+### PC/Windows - 4.7.3
+
+[美西 Linode 节点](https://liusw.rytsu.org/Malody_Windows_4.3.7.7z)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/Malody_Windows_4.3.7.7z)
+
+### Android(安卓) - 4.7.3
+
+[美西 Linode 节点](https://liusw.rytsu.org/Malody_Andoid_4.3.7.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/Malody_Andoid_4.3.7.apk)
+
 ## BanG Dream! Girls Band Party!
 
 <details>
@@ -118,7 +145,7 @@ Coming Soon
 <details>
 <summary><font color="#DA0B84"><b>资源引用说明</b></font></summary>
 
-?> 日服 GBP 游戏资源转载至 https://bangdream.fun ，你也可以前往该站下载其他区服版本的 GBP。
+?> 日服 GBP 游戏资源转载至 https://bangdream.fun ，并在本站服务器存放。你也可以前往该站，下载其他区服版本的 GBP。
 
 </details>
 
