@@ -73,15 +73,11 @@ Coming Soon
 
 </details>
 
-### TapTap Games
+### Phigros 官方
 
-[TapTap 上的 Phigros](https://www.taptap.com/app/165287)
+[TapTap 官网](https://www.taptap.com/app/165287)
 
-### Tencent MyApp
-
-[腾讯应用宝上的 Phigros](https://sj.qq.com/myapp/detail.htm?apkName=com.PigeonGames.Phigros)
-
-### 1.6.11
+### v1.6.11
 
 [美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.11.apk)
 
@@ -89,7 +85,7 @@ Coming Soon
 
 [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.11.apk)
 
-### 1.6.5 (2021/04/01 愚人节)
+### v1.6.5 (2021/04/01 愚人节)
 
 [美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.5.apk)
 
@@ -132,9 +128,7 @@ Coming Soon
 
 ### [简中] 梦想协奏曲！少女乐团派对！
 
-#### bilibili Games
-
-[哔哩哔哩游戏上的梦想协奏曲！少女乐团派对！](https://game.bilibili.com/bangdream/)
+[你总不会连这个都找不到吧？（](https://game.bilibili.com/bangdream/)
 
 ## D4DJ Groovy Mix
 
