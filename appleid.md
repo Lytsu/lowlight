@@ -34,7 +34,7 @@
 
 2. 按照网页要求和实际情况填写信息，如图所示：
 
-   <img src="https://i.loli.net/2021/09/30/VovCtJqxEHud12G.png" alt="image-20210930145617009" style="zoom:150%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/VovCtJqxEHud12G.png" alt="image-20210930145617009" />
    
    - 名称：可以使用任何姓名，真名假名都可；
    - 国家或地区：**选择你要注册的国家或地区**，如日区就选日本；
@@ -45,13 +45,13 @@
 
 3. 接收邮箱和手机上的验证码：
 
-  <img src="https://i.loli.net/2021/09/30/aw2E6z1OfLmlW9Y.png" alt="image-20210930145633643" style="zoom:50%;" />
+  <img fancy="yep" src="https://i.loli.net/2021/09/30/aw2E6z1OfLmlW9Y.png" alt="image-20210930145633643" />
 
-  <img src="https://i.loli.net/2021/09/30/Q23y5atHVnqkYRW.png" alt="image-20210930150712683" style="zoom:50%;" />
+  <img fancy="yep" src="https://i.loli.net/2021/09/30/Q23y5atHVnqkYRW.png" alt="image-20210930150712683" />
 
 4. 完成注册，转到下一个步骤：
 
-  ![image-20210930145822373](https://i.loli.net/2021/09/30/AVqh8XtsERuwfM7.png)
+  <img fancy="yep" src="https://i.loli.net/2021/09/30/AVqh8XtsERuwfM7.png" alt="image-20210930145822373" />
 
 ## 2. 在 App Store 上填写付款方式和账单信息
 
@@ -63,37 +63,37 @@
 
      1. 请找到⌈媒体与购买项目⌋，并在子菜单中找到⌈退出登录⌋，退出 App Store；
 
-        <img src="https://i.loli.net/2021/09/30/vyZT8WNV6FIjg5M.jpg" alt="IMG_3332" style="zoom: 50%;" />
+        <img fancy="yep" src="https://i.loli.net/2021/09/30/vyZT8WNV6FIjg5M.jpg" alt="IMG_3332" />
 
      2. 再次点击⌈媒体与购买项目⌋，在弹出的提示框中选择第二项⌈不是 xxxx ?⌋；
 
-        <img src="https://i.loli.net/2021/09/30/ACu9xyXWqgslDOa.jpg" alt="IMG_3333" style="zoom: 50%;" />
+        <img fancy="yep" src="https://i.loli.net/2021/09/30/ACu9xyXWqgslDOa.jpg" alt="IMG_3333" />
 
      3. 登陆之前注册的 Apple ID，期间会向之前的手机号上发送短信验证码；
 
-        <img src="https://i.loli.net/2021/09/30/WMc35koYFTqVl2G.jpg" alt="IMG_3335" style="zoom: 50%;" />
+        <img fancy="yep" src="https://i.loli.net/2021/09/30/WMc35koYFTqVl2G.jpg" alt="IMG_3335" />
 
-        <img src="https://i.loli.net/2021/09/30/HbxhymtSTc85WNX.jpg" alt="IMG_3336" style="zoom: 50%;" />
+        <img fancy="yep" src="https://i.loli.net/2021/09/30/HbxhymtSTc85WNX.jpg" alt="IMG_3336" />
 
      4. 登陆成功后，会在⌈媒体与购买项目⌋上显示这个 Apple ID 的邮箱。
 
 2. 进入 App Store，随便找个免费 App 下载，输入密码进行购买。
 
-   <img src="https://i.loli.net/2021/09/30/vhJKqmzaVbnPfGp.jpg" alt="IMG_3337" style="zoom: 50%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/vhJKqmzaVbnPfGp.jpg" alt="IMG_3337" />
 
-   <img src="https://i.loli.net/2021/09/30/E9nUf2z8QCMedgs.jpg" alt="IMG_3338" style="zoom: 50%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/E9nUf2z8QCMedgs.jpg" alt="IMG_3338" />
 
 3. 会提示⌈（日语）这个 Apple ID 还未在 iTunes Store 使用过⌋，点击右边的⌈レビュー（检查）⌋即可进行下一步。
 
-   <img src="https://i.loli.net/2021/09/30/29AonQ3JMhRFGWa.jpg" alt="IMG_3339" style="zoom: 50%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/29AonQ3JMhRFGWa.jpg" alt="IMG_3339" />
 
 4. 在弹出的页面中，勾选⌈（日语）同意使用条款与条件⌋，然后点击右上角的⌈次へ（下一步）⌋继续。
 
-   <img src="https://i.loli.net/2021/09/30/R4By1KWSMpO5dLA.jpg" alt="IMG_3341" style="zoom: 50%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/R4By1KWSMpO5dLA.jpg" alt="IMG_3341" />
 
 5. 在接下来弹出的窗口中按图中要求填写信息，填写完成后按右上角的⌈次へ（下一步）⌋继续。
 
-   <img src="https://i.loli.net/2021/09/30/ZDX2AJSpv9PtuOb.png" alt="IMG_3347(20210930-223223)" style="zoom: 80%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/ZDX2AJSpv9PtuOb.png" alt="IMG_3347(20210930-223223)" />
    
    > **以下信息供您参考填写使用：**
    >
@@ -117,7 +117,7 @@
    
 6. 注册完成，现在可以使用这个 Apple ID 了。
 
-   <img src="https://i.loli.net/2021/09/30/7ntmaDAzjeJKZ2B.jpg" alt="IMG_3345" style="zoom: 50%;" />
+   <img fancy="yep" src="https://i.loli.net/2021/09/30/7ntmaDAzjeJKZ2B.jpg" alt="IMG_3345" />
 
 ## 问题解答
 
