@@ -112,13 +112,13 @@
 
 </details>
 
-### PC/Windows - 4.7.3
+### PC/Windows - 4.3.7
 
 [美西 Linode 节点](https://liusw.rytsu.org/Malody_Windows_4.3.7.7z)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/Malody_Windows_4.3.7.7z)
 
-### Android(安卓) - 4.7.3
+### Android(安卓) - 4.3.7
 
 [美西 Linode 节点](https://liusw.rytsu.org/Malody_Andoid_4.3.7.apk)
 
