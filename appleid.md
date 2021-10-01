@@ -6,21 +6,23 @@
 
 以日本区的 Apple ID 为例，本文会详细介绍注册其他地区 Apple ID 的办法。
 
+?> 移动端的同学如果看不清下面的某些图片，可以双指放大查看。
+
 ## 0. 准备工作
 
 您需要准备以下内容：
 
-1. 一部搭载 iOS 10.3 及以上的 iPhone、iPad 或 iPod Touch；
+1. **一部搭载 iOS 10.3 及以上的 iPhone、iPad 或 iPod Touch；**
 
    如果没有 iOS 设备的话，可以去借一台设备注册，记得注册完后退号就行。
 
-2. 一个电子邮箱；
+2. **一个电子邮箱；**
 
    **不要使用临时邮箱或共享邮箱**，一定要确保你的邮箱是长期可用的。
 
-3. 一个手机号码。
+3. **一个手机号码。**
 
-   同样的，**不要使用接码服务或临时手机号**，一定要确保你的手机号是长期可用的；
+   同样的，**不要使用接码服务或临时手机号**，一定要确保你的手机号是长期可用的。
 
    您可以使用**任何国家或地区**的手机号码；
 
@@ -32,7 +34,14 @@
 
 2. 按照网页要求和实际情况填写信息，如图所示：
 
-   ![image-20210930145617009](https://i.loli.net/2021/09/30/VovCtJqxEHud12G.png)
+   <img src="https://i.loli.net/2021/09/30/VovCtJqxEHud12G.png" alt="image-20210930145617009" style="zoom:150%;" />
+   
+   - 名称：可以使用任何姓名，真名假名都可；
+   - 国家或地区：**选择你要注册的国家或地区**，如日区就选日本；
+   - 出生日期：可随意填写，但最好大于 18 岁；
+   - 邮箱：选择自己没用过的邮箱，**不要使用临时邮箱**，保证之后你自己**不会忘记或扔掉这个邮箱**；如果提示邮箱无效，就换一个邮箱或者再注册一个新邮箱；
+   - 密码：按网页要求填写即可；
+   - 手机号：找一个**能长期使用的手机号**，比如你自己或家人的；**不要使用临时号码或接码服务**，不然过不了二步验证；**之前注册过 Apple ID 的手机号也能用**，只要使用次数不是太多；Google Voice 等虚拟号码也可用。
 
 3. 接收邮箱和手机上的验证码：
 
@@ -54,41 +63,61 @@
 
      1. 请找到⌈媒体与购买项目⌋，并在子菜单中找到⌈退出登录⌋，退出 App Store；
 
-        <img src="https://i.loli.net/2021/09/30/vyZT8WNV6FIjg5M.jpg" alt="IMG_3332" style="zoom:33%;" />
+        <img src="https://i.loli.net/2021/09/30/vyZT8WNV6FIjg5M.jpg" alt="IMG_3332" style="zoom: 50%;" />
 
      2. 再次点击⌈媒体与购买项目⌋，在弹出的提示框中选择第二项⌈不是 xxxx ?⌋；
 
-        <img src="https://i.loli.net/2021/09/30/ACu9xyXWqgslDOa.jpg" alt="IMG_3333" style="zoom:33%;" />
+        <img src="https://i.loli.net/2021/09/30/ACu9xyXWqgslDOa.jpg" alt="IMG_3333" style="zoom: 50%;" />
 
      3. 登陆之前注册的 Apple ID，期间会向之前的手机号上发送短信验证码；
 
-        <img src="https://i.loli.net/2021/09/30/WMc35koYFTqVl2G.jpg" alt="IMG_3335" style="zoom:33%;" />
+        <img src="https://i.loli.net/2021/09/30/WMc35koYFTqVl2G.jpg" alt="IMG_3335" style="zoom: 50%;" />
 
-        <img src="https://i.loli.net/2021/09/30/HbxhymtSTc85WNX.jpg" alt="IMG_3336" style="zoom:33%;" />
+        <img src="https://i.loli.net/2021/09/30/HbxhymtSTc85WNX.jpg" alt="IMG_3336" style="zoom: 50%;" />
 
      4. 登陆成功后，会在⌈媒体与购买项目⌋上显示这个 Apple ID 的邮箱。
 
 2. 进入 App Store，随便找个免费 App 下载，输入密码进行购买。
 
-   <img src="https://i.loli.net/2021/09/30/vhJKqmzaVbnPfGp.jpg" alt="IMG_3337" style="zoom:33%;" />
+   <img src="https://i.loli.net/2021/09/30/vhJKqmzaVbnPfGp.jpg" alt="IMG_3337" style="zoom: 50%;" />
 
-   <img src="https://i.loli.net/2021/09/30/E9nUf2z8QCMedgs.jpg" alt="IMG_3338" style="zoom:33%;" />
+   <img src="https://i.loli.net/2021/09/30/E9nUf2z8QCMedgs.jpg" alt="IMG_3338" style="zoom: 50%;" />
 
 3. 会提示⌈（日语）这个 Apple ID 还未在 iTunes Store 使用过⌋，点击右边的⌈レビュー（检查）⌋即可进行下一步。
 
-   <img src="https://i.loli.net/2021/09/30/29AonQ3JMhRFGWa.jpg" alt="IMG_3339" style="zoom:33%;" />
+   <img src="https://i.loli.net/2021/09/30/29AonQ3JMhRFGWa.jpg" alt="IMG_3339" style="zoom: 50%;" />
 
 4. 在弹出的页面中，勾选⌈（日语）同意使用条款与条件⌋，然后点击右上角的⌈次へ（下一步）⌋继续。
 
-   <img src="https://i.loli.net/2021/09/30/R4By1KWSMpO5dLA.jpg" alt="IMG_3341" style="zoom:33%;" />
+   <img src="https://i.loli.net/2021/09/30/R4By1KWSMpO5dLA.jpg" alt="IMG_3341" style="zoom: 50%;" />
 
 5. 在接下来弹出的窗口中按图中要求填写信息，填写完成后按右上角的⌈次へ（下一步）⌋继续。
 
-   <img src="https://i.loli.net/2021/09/30/ZDX2AJSpv9PtuOb.png" alt="IMG_3347(20210930-223223)" style="zoom: 67%;" />
-
+   <img src="https://i.loli.net/2021/09/30/ZDX2AJSpv9PtuOb.png" alt="IMG_3347(20210930-223223)" style="zoom: 80%;" />
+   
+   > **以下信息供您参考填写使用：**
+   >
+   > 姓（注音）：ミヤマ
+   >
+   > 名（注音）：ミズキ
+   >
+   > 姓：深山
+   >
+   > 名：瑞希
+   >
+   > 住所1：北沢3-23-14
+   >
+   > 市区町村：世田谷区
+   >
+   > 都道府县：東京都
+   >
+   > 邮编：191-9810
+   >
+   > 电话：893 1145-1419
+   
 6. 注册完成，现在可以使用这个 Apple ID 了。
 
-   <img src="https://i.loli.net/2021/09/30/7ntmaDAzjeJKZ2B.jpg" alt="IMG_3345" style="zoom:33%;" />
+   <img src="https://i.loli.net/2021/09/30/7ntmaDAzjeJKZ2B.jpg" alt="IMG_3345" style="zoom: 50%;" />
 
 ## 问题解答
 
@@ -102,26 +131,4 @@
 
    答：……〇宝和〇多多也有卖 Apple ID 的，看你想白嫖还是想方便了。
 
-3. **能把你账号中填写的信息发我一份么？**
-
-   答：当然可以。不过最好改一改再写。
-
-   > 姓：深山
-   >
-   > 名：瑞希
-   >
-   > 姓（注音）：ミヤマ
-   >
-   > 名（注音）：ミズキ
-   >
-   > 
-   >
-   > 住所1：北沢3-23-14
-   >
-   > 市区町村：世田谷区
-   >
-   > 都道府县：東京都
-   >
-   > 邮编：191-9810
-   >
-   > 电话：893 1145-1419
+   

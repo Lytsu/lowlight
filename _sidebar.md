@@ -13,8 +13,7 @@
   - [更新日志](changelog.md)
 - 友情链接
   - [616.sb](https://616.sb)
-  - [mhy.sb](https://mhy.sb)
-  - [维咔 ACG 社区](https://vikacg.com)
   - [Rsplwe's Blog](https://www.rsplwe.com)
   - [Karyl 工具箱](https://bilibili.red)
+  - [维咔 ACG 社区](https://vikacg.com)
 
