@@ -50,6 +50,11 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2.6.1/dist/docsify-pagination.min.js"></script>
   <!-- FancyBox  -->
   <script src="//cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.5/dist/fancybox.umd.js"></script>
-  <script src="fancybox-loader.js"></script>
+  <script src="js/fancybox-loader.js"></script>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('js/sw.js')
+    }
+  </script>
 </body>
 </html>
