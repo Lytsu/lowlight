@@ -30,8 +30,21 @@ lowi.ro 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护�
 
 Email: yuk1zuna@outlook.com 
 
-## 技术细节
+## Technical Details
 
 Powered by [docsify](https://docsify.js.org/), a magical documentation site generator.
 
 This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). The site hosted on Github Pages.
+
+## Staff
+
+- Lytsu：站长，全权运营；
+- Rsplwe：技术协助，~~负责骂站长，给站长的傻逼行为擦屁股~~；
+
+## Special Thanks
+
+- 马尾理科：提供了十分宝贵的经验，永远值得学习；
+- 偷税师柑也：提供了早期测试，也提出不少意见；
+- judjdigj 的 D4DJ 群的群友们：给了很多支持，早期用户群；
+- 作为用户的您
+
