@@ -145,7 +145,7 @@
 <details>
 <summary><font color="#DA0B84"><b>资源引用说明</b></font></summary>
 
-?> 日服 GBP 游戏资源转载至 https://bangdream.fun ，并在本站服务器存放。你也可以前往该站，下载其他区服版本的 GBP。
+?> 日服 GBP 游戏资源转载自 https://bangdream.fun ，并将资源存放在本站服务器。你也可以前往该站，下载其他区服版本的 GBP。
 
 </details>
 
@@ -202,6 +202,52 @@
 [美西 Linode 节点](https://liusw.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
+
+## Love Live! School idol festival
+
+<details>
+<summary><font color="#DA0B84"><b>未成年人保护资讯</b></font></summary>
+
+> **LoveLive! SIF 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+>
+> App Store 年龄分级 : 4+
+
+</details>
+
+<details>
+<summary><font color="#DA0B84"><b>资源引用说明</b></font></summary>
+
+?> 日服 SIF 游戏资源转载自 https://jp.llsif.cn/ ，并将资源存放在本站服务器。你也可以前往该站，下载其他修改版本的 SIF，包括共存修改版及 Root 版等。
+
+</details>
+
+### [日] ラブライブ！スクールアイドルフェスティバル（スクフェス）
+
+#### 9.2.2(2021/08/10)
+
+[美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_v9.2.2.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_v9.2.2.apk)
+
+### [国际] Love Live! School idol festival
+
+#### 9.2.2(2021/08/10)
+
+[美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
+
+### [简中] **LoveLive！学园偶像祭**
+
+#### Shengqu Games
+
+[盛趣游戏上的 LoveLive！学园偶像祭](https://ll.sdo.com)
 
 ## Project Sekai Colorful Stage Feat. Hatsune Miku
 
