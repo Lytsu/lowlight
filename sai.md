@@ -14,29 +14,30 @@
 
 ## 使用方法
 
+?> 移动端的同学如果看不清图片，可以双指放大。
+
 1. [点击下载 SAI](https://liusw.rytsu.org/SAI-4.5.apk) ，或者，[GitHub Releases](https://github.com/Aefyr/SAI/releases) ；
 
 2. 安装后，授予 SAI ⌈存储⌋权限，同时允许 SAI ⌈安装未知应用程序⌋；
 
-   ![Screenshot_20210930-004802_Settings.jpg](https://i.loli.net/2021/09/30/Lq18HV6M9g2pXny.jpg ':size=40%')
-   ![Screenshot_20210930-004731_Permission controller.jpg](https://i.loli.net/2021/09/30/vknNwfyLrt27BAp.jpg ':size=40%')
+   <img src="https://i.loli.net/2021/09/30/Lq18HV6M9g2pXny.jpg" alt="Screenshot_20210930-004802_Settings.jpg" title=":size=40%" style="zoom:50%;" />
+   <img src="https://i.loli.net/2021/09/30/vknNwfyLrt27BAp.jpg" alt="Screenshot_20210930-004731_Permission controller.jpg" title=":size=40%" style="zoom:50%;" />
 
 3. 打开 SAI ，在 SAI 内置文件选择器中选择你下载好的  .xapk/.apks 文件；
 
-   ![Screenshot_20210930-004930_SAI.jpg](https://i.loli.net/2021/09/30/4qaohwF1tB9yTQM.jpg ':size=40%')
-   ![Screenshot_20210930-005221_SAI.jpg](https://i.loli.net/2021/09/30/DXLJEoN7Ty9eMpI.jpg ':size=40%')
-
+   <img src="https://i.loli.net/2021/09/30/DXLJEoN7Ty9eMpI.jpg" alt="Screenshot_20210930-005221_SAI.jpg" title=":size=40%" style="zoom:50%;" />
+   
 4. 在弹出的页面（如果有）按默认选项进行安装；
 
-   ![Screenshot_20210930-005240_SAI.jpg](https://i.loli.net/2021/09/30/QDUHaFEJx2nNcv3.jpg ':size=40%')
+   <img src="https://i.loli.net/2021/09/30/QDUHaFEJx2nNcv3.jpg" alt="Screenshot_20210930-005240_SAI.jpg" title=":size=40%" style="zoom:50%;" />
 
 5. 如果能成功安装自然最好；如果页面提示⌈提供的文件不是 APK 文件⌋，则可能需要在 SAI 的设置中开启⌈专业模式⌋和⌈使用 ZIP File API⌋这两个选项，然后再次执行 3 和 4 的步骤。
 
-   ![Screenshot_20210930-005454_SAI.jpg](https://i.loli.net/2021/09/30/GXpENBk3z9THgno.jpg ':size=40%')
-   ![Screenshot_20210930-005645_SAI.jpg](https://i.loli.net/2021/09/30/SROrBgULKCa7ih4.jpg ':size=40%')
+   <img src="https://i.loli.net/2021/09/30/GXpENBk3z9THgno.jpg" alt="Screenshot_20210930-005454_SAI.jpg" title=":size=40%" style="zoom:50%;" />
+   <img src="https://i.loli.net/2021/09/30/SROrBgULKCa7ih4.jpg" alt="Screenshot_20210930-005645_SAI.jpg" title=":size=40%" style="zoom:50%;" />
 
 6. 如果一切无误，这个文件将会被成功安装。
 
-   ![Screenshot_20210930-010138_SAI.jpg](https://i.loli.net/2021/09/30/2MFiNJyXSdghBoL.jpg ':size=40%')
+   <img src="https://i.loli.net/2021/09/30/2MFiNJyXSdghBoL.jpg" alt="Screenshot_20210930-010138_SAI.jpg" title=":size=40%" style="zoom:50%;" />
    
    

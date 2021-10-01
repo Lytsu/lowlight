@@ -175,7 +175,7 @@ Coming Soon
 <details>
 <summary><font color="#DA0B84"><b>未成年人保护资讯</b></font></summary>
 
-> ** Project Sekai 可供参考的分级认证信息如下：**
+> **Project Sekai 可供参考的分级认证信息如下：**
 >
 > IARC（国际年龄评级联盟系统）: 12+
 >
@@ -186,10 +186,11 @@ Coming Soon
 > App Store 年龄分级 : 12+
 
 </details>
+
 <details>
 <summary><b><font color="#DA0B84">有关繁中服的信息</font></b></summary>
 
-?> 繁中服可能需要**除中国大陆和日本外的亚洲地区 IP **登陆，请提前做好相关准备
+?> 繁中服可能需要**除中国大陆和日本外的亚洲地区 IP** 登陆，请提前做好相关准备。
 
 </details>
 
