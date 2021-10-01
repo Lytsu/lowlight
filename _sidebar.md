@@ -10,6 +10,7 @@
   - [使用条款](tos.md)
   - [隐私政策](privacy.md)
   - [未成年人保护](minor.md)
+  - [转载规范](repost.md)
   - [更新日志](changelog.md)
 - 友情链接
   - [616.sb](https://616.sb)
