@@ -93,7 +93,7 @@
 
 5. 在接下来弹出的窗口中按图中要求填写信息，填写完成后按右上角的⌈次へ（下一步）⌋继续。
 
-   ![image-20211002151616231](https://i.loli.net/2021/10/02/tEjaGlVcInmDL41.png)
+   <img fancy="yep" src="https://i.loli.net/2021/10/02/tEjaGlVcInmDL41.png" alt="image-20211002151616231" />
    
    > **以下信息供您参考填写使用：**
    >

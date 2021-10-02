@@ -1,4 +1,4 @@
-# 疑难回答
+# 疑难解答
 
 ## 常见问题解答(FAQ)
 
@@ -8,7 +8,7 @@
 
 - **Q: 下载站里的游戏版本没更新怎么办？**
 
-  **A:** 因为我不可能时时刻刻盯着游戏更新，~~有时候 616 八点放出更新的时候也未必起得来床~~，所以有时候会出现游戏已更新，但下载站首页还是旧版链接的情况。如果下载站上的游戏安装包已成为旧版本，请您直接私信 [BiliBili:梨梓Rytsu](https://space.bilibili.com/5899551) 或 [BiliBili:芳澤](https://space.bilibili.com/299364) 或在下面的置顶动态评论。
+  **A:** 因为我不可能时时刻刻盯着游戏更新，~~有时候 616 八点放出更新的时候也未必起得来床~~，所以有时候会出现游戏已更新，但下载站首页还是旧版链接的情况。如果下载站上的游戏安装包已成为旧版本，请您直接私信 [BiliBili:楼外楼Offical](https://space.bilibili.com/319171871) 或在下面的置顶动态评论。
   
 - **Q: 有考虑过收录其他音游吗？**
 
@@ -25,5 +25,4 @@
 
 ## 联络我们
 
-如果您的问题在 FAQ 中没有得到解答，或者您有其他的建议和反馈，可以联络 [BiliBili:梨梓Rytsu](https://space.bilibili.com/5899551) 或 [BiliBili:芳澤](https://space.bilibili.com/299364)，还有电子邮件 yuk1zuna@outlook.com 供您联络使用。
-
+如果您的问题在 FAQ 中没有得到解答，或者您有其他的建议和反馈，可以联络 [BiliBili:楼外楼Offical](https://space.bilibili.com/319171871) ，还有电子邮件 yuk1zuna@outlook.com 供您联络使用。

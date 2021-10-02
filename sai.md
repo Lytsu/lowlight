@@ -14,7 +14,7 @@
 
 ## 使用方法
 
-?> 移动端的同学如果看不清图片，可以双指放大。
+?> 移动端的同学如果看不清图片，可以点击查看或放大。
 
 1. [点击下载 SAI](https://liusw.rytsu.org/SAI-4.5.apk) ，或者，[GitHub Releases](https://github.com/Aefyr/SAI/releases) ；
 
