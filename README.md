@@ -20,9 +20,9 @@
 >
 > IARC（国际年龄评级联盟系统）: 3+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
 >
 > App Store 年龄分级 : 4+
 
@@ -31,7 +31,7 @@
 <details>
 <summary><font color="#DA0B84"><b>有关 c 版的信息</b></font></summary>
 
-?> 版本号后含有 c 的是 lowiro 提供的中国大陆版本。该版本没有接入 Google Play 的有关服务，对中国大陆玩家更加友好。同时，该版本可以直接通过支付宝充值记忆源点。您可以直接覆盖 Play 版本来安装本版本，而无需事先卸载。
+?> 版本号后含有 c 的是 lowiro 提供的中国大陆版本。该版本没有接入 Google Play 的有关服务，对中国大陆玩家更加友好。同时，该版本[可以直接通过支付宝充值记忆源点](purchase)。您可以直接覆盖 Play 版本来安装本版本，而无需事先卸载。
 
 </details>
 <details>
@@ -40,8 +40,19 @@
 ?>  Play 版本需要通过 Play 商店充值记忆源点，同时部分地区可能无法使用 Play Games 服务。如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
 </details>
+<details>
+<summary><b><font color="#DA0B84">有关 Arcaea 官网下载</font></b></summary>
 
-### 3.8.6c (2021/09/29)
+!> 如果你需要从官网进行下载，请注意使用中国大陆 IP，也就是说，不要挂代理。
+
+</details>
+
+
+### lowiro limited
+
+[Arcaea 官网上的 Arcaea](https://arcaea.lowiro.com)
+
+### 3.8.6c (2021/09/29|China Special)
 
 [美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.8.6c.apk)
 
@@ -49,7 +60,7 @@
 
 [东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6c.apk)
 
-### 3.8.6 (2021/09/29)
+### 3.8.6 (2021/09/29|Play 版本)
 
 [美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.8.6.apks)
 
@@ -57,7 +68,7 @@
 
 [东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6.apks)
 
-### 3.5.3c (2021/04/01 愚人节)
+### 3.5.3c (2021/04/01|愚人节)
 
 [美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.5.3c.apk)
 
@@ -74,9 +85,9 @@
 >
 > IARC（国际年龄评级联盟系统）: 12+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Teen（青少年）
+> ESRB（美洲|娱乐软件分级委员会）: Teen（青少年）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 12
+> PEGI（欧洲|泛欧洲游戏信息组织）: 12
 >
 > App Store 年龄分级 : 12+
 
@@ -98,7 +109,7 @@
 
 [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.11.apk)
 
-### 1.6.5 (2021/04/01 愚人节)
+### 1.6.5 (2021/04/01|愚人节)
 
 [美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.5.apk)
 
@@ -138,11 +149,11 @@
 >
 > IARC（国际年龄评级联盟系统）: 3+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
 >
-> CADPA（中国大陆/中国数字音像协会）：8+
+> CADPA（中国大陆|中国数字音像协会）：8+
 >
 > App Store 年龄分级 : 4+
 
@@ -177,9 +188,9 @@
 >
 > IARC（国际年龄评级联盟系统）: 3+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
 >
 > App Store 年龄分级 : 4+
 
@@ -217,9 +228,11 @@
 >
 > IARC（国际年龄评级联盟系统）: 3+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Everyone（适合所有人）
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 3
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
+>
+> CADPA（中国大陆|中国数字音像协会）：12+
 >
 > App Store 年龄分级 : 4+
 
@@ -263,9 +276,9 @@
 >
 > IARC（国际年龄评级联盟系统）: 12+
 >
-> ESRB（美洲/娱乐软件分级委员会）: Teen（青少年）
+> ESRB（美洲|娱乐软件分级委员会）: Teen（青少年）
 >
-> PEGI（欧洲/泛欧洲游戏信息组织）: 12
+> PEGI（欧洲|泛欧洲游戏信息组织）: 12
 >
 > App Store 年龄分级 : 12+
 
