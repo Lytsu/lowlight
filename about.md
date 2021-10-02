@@ -18,15 +18,13 @@ lowi.ro 是个目前为止只提供少数音游的下载站，或许以后也会
 
 **2021 年 9 月 30 日**
 
-## 服务运营与控制
+## 运营与控制
 
 lowi.ro 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
 
 ## 联系方式
 
-[BiliBili:梨梓Rytsu](https://space.bilibili.com/5899551) 
-
-[BiliBili:芳澤](https://space.bilibili.com/299364)
+[BiliBili:楼外楼Official](https://space.bilibili.com/319171871) 
 
 Email: yuk1zuna@outlook.com 
 
@@ -34,7 +32,11 @@ Email: yuk1zuna@outlook.com
 
 Powered by [docsify](https://docsify.js.org/), a magical documentation site generator.
 
-This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). The site hosted on Github Pages.
+This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). 
+
+The site hosted on Github Pages.
+
+[Rsplwe](https://github.com/Rsplwe) made a huge contribution to this project.
 
 ## Staff
 
@@ -45,6 +47,6 @@ This project is maintained by [Lytsu](https://github.com/Lytsu), you can view th
 
 - 马尾理科：提供了十分宝贵的经验，永远值得学习；
 - 偷税师柑也：提供了早期测试，也提出不少意见；
-- judjdigj 的 D4DJ 群的群友们：给了很多支持，早期用户群；
-- 作为用户的您
+- judjdigj 的 D4DJ 群的群友们：给了很多支持，是本站的早期用户群；
+- 作为用户的您。
 

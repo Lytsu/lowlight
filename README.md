@@ -1,10 +1,14 @@
-!> **本站目前仍然处于公开测试阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。**
+!> **请注意，虽然域名类似，但本网页与 [lowiro limited](https://lowiro.com) 无任何关联。**
 
-!> **请注意，本网页与 lowiro limited 无任何关联。**
+!> **使用 lowi.ro 的服务，即代表您已知悉并同意[使用条款](tos.md)。**
 
 # lowi.ro - 提供一些音游下载的小站
 
 移动端用户点开左上角的菜单按钮就可以看到其他东西了。
+
+本站目前处于公开测试运营阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。
+
+催更、请求音游收录、提建议、~~骂我~~：[BiliBili:楼外楼Offical](https://space.bilibili.com/319171871) 
 
 
 ## Arcaea
@@ -23,6 +27,7 @@
 > App Store 年龄分级 : 4+
 
 </details>
+
 <details>
 <summary><font color="#DA0B84"><b>有关 c 版的信息</b></font></summary>
 
