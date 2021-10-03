@@ -25,4 +25,5 @@
 
 ## 联络我们
 
-如果您的问题在 FAQ 中没有得到解答，或者您有其他的建议和反馈，可以联络 [BiliBili:楼外楼Offical](https://space.bilibili.com/319171871) ，还有电子邮件 yuk1zuna@outlook.com 供您联络使用。
+如果您的问题在 FAQ 中没有得到解答，或者您有其他的建议和反馈，可以联络 [BiliBili:楼外楼Offical](https://space.bilibili.com/319171871) ，[Telegram: @lowi_ro](https//t.me/lowi_ro)，还有电子邮件 yuk1zuna@outlook.com 供您联络使用。
+
