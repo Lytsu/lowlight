@@ -22,9 +22,15 @@ lowi.ro 是个目前为止只提供少数音游的下载站，或许以后也会
 
 lowi.ro 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
 
+## 版权说明
+
+本网站中所使用的数据等，其著作权属于原著作权人，仅以介绍为目的引用，您不得利用这些数据进行任何商业活动。
+
 ## 联系方式
 
 [BiliBili:楼外楼Official](https://space.bilibili.com/319171871) 
+
+【Telegram: @lowi_ro](https//t.me/lowi_ro)
 
 Email: yuk1zuna@outlook.com 
 
@@ -34,7 +40,7 @@ Powered by [docsify](https://docsify.js.org/), a magical documentation site gene
 
 This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). 
 
-The site hosted on Github Pages.
+This site hosted on Github Pages.
 
 [Rsplwe](https://github.com/Rsplwe) made a huge contribution to this project.
 
