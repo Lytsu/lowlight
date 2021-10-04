@@ -304,7 +304,7 @@
 
 [美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1P.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
 ### [繁中] 世界計畫 繽紛舞台！ feat. 初音未來
 
