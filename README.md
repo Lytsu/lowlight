@@ -101,7 +101,7 @@
 
 [腾讯应用宝上的 Phigros](https://sj.qq.com/myapp/detail.htm?apkName=com.PigeonGames.Phigros)
 
-### 1.6.11
+### 1.6.11(2021/07/25)
 
 [美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.11.apk)
 
