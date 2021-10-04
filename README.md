@@ -300,11 +300,11 @@
 
 ### [日] プロジェクトセカイ カラフルステージ！ feat. 初音ミク
 
-#### 1.10.0(2021/09/27)
+#### 1.10.1(2021/10/04)
 
-[美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.0.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.0.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
 ### [繁中] 世界計畫 繽紛舞台！ feat. 初音未來
 
