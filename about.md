@@ -30,7 +30,7 @@ lowi.ro 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护�
 
 [BiliBili:楼外楼Official](https://space.bilibili.com/319171871) 
 
-【Telegram: @lowi_ro](https//t.me/lowi_ro)
+[Telegram: @lowi_ro](https//t.me/lowi_ro)
 
 Email: yuk1zuna@outlook.com 
 
