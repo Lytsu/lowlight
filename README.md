@@ -28,7 +28,7 @@
 
 </details>
 
-<details>
+<detail
 <summary><font color="#DA0B84"><b>有关 c 版的信息</b></font></summary>
 
 ?> 版本号后含有 c 的是 lowiro 提供的中国大陆版本。该版本没有接入 Google Play 的有关服务，对中国大陆玩家更加友好。同时，该版本[可以直接通过支付宝充值记忆源点](purchase)。您可以直接覆盖 Play 版本来安装本版本，而无需事先卸载。
@@ -300,11 +300,11 @@
 
 ### [日] プロジェクトセカイ カラフルステージ！ feat. 初音ミク
 
-#### 1.10.0(2021/09/27)
+#### 1.10.1(2021/10/04)
 
-[美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.0.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.0.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1P.apk)
 
 ### [繁中] 世界計畫 繽紛舞台！ feat. 初音未來
 
