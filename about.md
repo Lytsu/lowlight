@@ -2,11 +2,11 @@
 
 ## 简介
 
-你好，我是 lowi.ro 的站长梨梓/Rytsu。
+你好，我是微光 Lowlight 下载站的站长梨梓/Rytsu。
 
-lowi.ro 是个目前为止只提供少数音游的下载站，或许以后也会提供其他的什么玩意。
+微光 Lowlight 是个目前为止只提供少数音游的下载站，或许以后也会提供其他的什么玩意。
 
-诞生的契机也很简单，之前买了这个域名，后来 616.sb 因为不可名状的原因暂停业务了，然后就打算顺势开一个站。
+诞生的契机也很简单，之前买了 lowi.ro 这个域名，后来 616.sb 因为不可名状的原因暂停业务了，然后就打算顺势开一个站。
 
 由于站长是个菜狗加懒 B ，所以倒也暂时没有想做成 616.sb 那么大一个站的野心，事实上单纯就是想做个分流~~（抢流量）~~罢了。
 
@@ -16,11 +16,11 @@ lowi.ro 是个目前为止只提供少数音游的下载站，或许以后也会
 
 **Rytsu**
 
-**2021 年 9 月 30 日**
+**2021 年 10 月 7 日**
 
 ## 运营与控制
 
-lowi.ro 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
+微光 Lowlight 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
 
 ## 版权说明
 
@@ -36,11 +36,11 @@ Email: yuk1zuna@outlook.com
 
 ## Technical Details
 
-Powered by [docsify](https://docsify.js.org/), a magical documentation site generator.
+Powered by [docsify](https://docsify.js.org/), a magical documentation site generator. The theme [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) by [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable) is used for this site.
 
 This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). 
 
-This site hosted on Github Pages.
+This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pages](https://pages.cloudflare.com/).
 
 [Rsplwe](https://github.com/Rsplwe) made a huge contribution to this project.
 
