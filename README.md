@@ -1,8 +1,6 @@
-!> **请注意，虽然域名类似，但本网页与 [lowiro limited](https://lowiro.com) 无任何关联。**
+!> **使用微光 Lowlight 的服务，即代表您已知悉并同意[使用条款](tos.md)。**
 
-!> **使用 lowi.ro 的服务，即代表您已知悉并同意[使用条款](tos.md)。**
-
-# lowi.ro - 提供一些音游下载的小站
+# 微光 Lowlight  - 提供一些音游下载的小站
 
 移动端用户点开左上角的菜单按钮就可以看到其他东西了。
 
@@ -103,19 +101,27 @@
 
 ### 1.6.11(2021/07/25)
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.11.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.11.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros_v1.6.11.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
 
 [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.11.apk)
 
-### 1.6.5 (2021/04/01|愚人节)
+### 历史版本
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros_v1.6.5.apk)
+| 版本  |  释出日期  |     注释      |                           下载链接                           |
+| :---: | :--------: | :-----------: | :----------------------------------------------------------: |
+| 1.6.5 | 2021/04/01 |  2021 愚人节  | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk) |
+|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk) |
+|       |            |               |   [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)   |
+| 1.4.3 | 2020/05/18 | 可以无限刷 MB | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.3.apk) |
+|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk) |
+| 1.4.1 | 2020/03/30 |  2020 愚人节  | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk) |
+|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk) |
+| 1.0.0 | 2019/08/28 |     初版      | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk) |
+|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk) |
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros_v1.6.5.apk)
-
-[东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)
+------
 
 ## Malody
 
@@ -139,6 +145,8 @@
 [美西 Linode 节点](https://liusw.rytsu.org/Malody_Andoid_4.3.7.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/Malody_Andoid_4.3.7.apk)
+
+------
 
 ## BanG Dream! Girls Band Party!
 

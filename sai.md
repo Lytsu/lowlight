@@ -18,7 +18,7 @@
 
 1. [点击下载 SAI](https://liusw.rytsu.org/SAI-4.5.apk) ，或者，[GitHub Releases](https://github.com/Aefyr/SAI/releases) ；
 
-2. 安装后，授予 SAI ⌈存储⌋权限，同时允许 SAI ⌈安装未知应用程序⌋；
+2. 安装后，授予 SAI 「存储」权限，同时允许 SAI「安装未知应用」；
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/Lq18HV6M9g2pXny.jpg" alt="Screenshot_20210930-004802_Settings.jpg" />
    <img fancy="yep" src="https://i.loli.net/2021/09/30/vknNwfyLrt27BAp.jpg" alt="Screenshot_20210930-004731_Permission controller.jpg" />
@@ -31,7 +31,7 @@
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/QDUHaFEJx2nNcv3.jpg" alt="Screenshot_20210930-005240_SAI.jpg" />
 
-5. 如果能成功安装自然最好；如果页面提示⌈提供的文件不是 APK 文件⌋，则可能需要在 SAI 的设置中开启⌈专业模式⌋和⌈使用 ZIP File API⌋这两个选项，然后再次执行 3 和 4 的步骤。
+5. 如果能成功安装自然最好；如果页面提示「提供的文件不是 APK 文件」，则可能需要在 SAI 的设置中开启「专业模式」和「使用 ZIP File API」这两个选项，然后再次执行 3 和 4 的步骤。
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/GXpENBk3z9THgno.jpg" alt="Screenshot_20210930-005454_SAI.jpg" />
    <img fancy="yep" src="https://i.loli.net/2021/09/30/SROrBgULKCa7ih4.jpg" alt="Screenshot_20210930-005645_SAI.jpg" />

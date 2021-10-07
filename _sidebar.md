@@ -1,20 +1,19 @@
-- ⌈提供一些音游下载的小站⌋
-  - [下载游戏](/)
-  - [快捷充值记忆源点](purchase.md)
+- [「提供一些音游下载的小站」](/)
 - 一些文档
   - [站点疑问解答](faq.md)
+  - [快捷充值记忆源点](purchase.md)
   - [特殊安装包安装教程](sai.md)
-  - [注册 Apple ID](appleid.md)
+  - [注册其他区 Apple ID](appleid.md)
 - 站点信息
   - [关于本站](about.md)
   - [使用条款](tos.md)
   - [隐私政策](privacy.md)
   - [未成年人保护](minor.md)
   - [转载规范](repost.md)
+  - [收录原则](inclusion.md)
   - [更新日志](changelog.md)
 - 友情链接
-  - [616.sb](https://616.sb)
+  - [Konmai 音游下载站](https://616.sb)
   - [Rsplwe's Blog](https://www.rsplwe.com)
   - [Karyl 工具箱](https://bilibili.red)
   - [维咔 ACG 社区](https://vikacg.com)
-

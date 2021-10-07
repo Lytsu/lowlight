@@ -55,13 +55,13 @@
 
 ## 2. 在 App Store 上填写付款方式和账单信息
 
-1. 打开您 iOS 设备上的⌈设置⌋，找到账号选项（设置项的第一个）:
+1. 打开您 iOS 设备上的「设置」，找到账号选项（设置项的第一个）:
 
    - 如果您之前未登陆过任何账号，直接登录之前注册的 Apple ID 即可；
 
    - 如果您之前已经登陆了一个账号：
 
-     1. 请找到⌈媒体与购买项目⌋，并在子菜单中找到⌈退出登录⌋，退出 App Store；
+     1. 请找到「媒体与购买项目」，并在子菜单中找到「退出登录」，退出 App Store；
 
         <img fancy="yep" src="https://i.loli.net/2021/09/30/vyZT8WNV6FIjg5M.jpg" alt="IMG_3332" />
 
@@ -75,7 +75,7 @@
 
         <img fancy="yep" src="https://i.loli.net/2021/09/30/HbxhymtSTc85WNX.jpg" alt="IMG_3336" />
 
-     4. 登陆成功后，会在⌈媒体与购买项目⌋上显示这个 Apple ID 的邮箱。
+     4. 登陆成功后，会在「媒体与购买项目」上显示这个 Apple ID 的邮箱。
 
 2. 进入 App Store，随便找个免费 App 下载，输入密码进行购买。
 
@@ -83,15 +83,15 @@
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/E9nUf2z8QCMedgs.jpg" alt="IMG_3338" />
 
-3. 会提示⌈（日语）这个 Apple ID 还未在 iTunes Store 使用过⌋，点击右边的⌈レビュー（检查）⌋即可进行下一步。
+3. 会提示「（日语）这个 Apple ID 还未在 iTunes Store 使用过」，点击右边的「レビュー（检查）」即可进行下一步。
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/29AonQ3JMhRFGWa.jpg" alt="IMG_3339" />
 
-4. 在弹出的页面中，勾选⌈（日语）同意使用条款与条件⌋，然后点击右上角的⌈次へ（下一步）⌋继续。
+4. 在弹出的页面中，勾选「（日语）同意使用条款与条件」，然后点击右上角的「次へ（下一步）」继续。
 
    <img fancy="yep" src="https://i.loli.net/2021/09/30/R4By1KWSMpO5dLA.jpg" alt="IMG_3341" />
 
-5. 在接下来弹出的窗口中按图中要求填写信息，填写完成后按右上角的⌈次へ（下一步）⌋继续。
+5. 在接下来弹出的窗口中按图中要求填写信息，填写完成后按右上角的「次へ（下一步）」继续。
 
    <img fancy="yep" src="https://i.loli.net/2021/10/02/tEjaGlVcInmDL41.png" alt="image-20211002151616231" />
    
