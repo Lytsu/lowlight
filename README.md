@@ -113,15 +113,10 @@
 
 | 版本  |  释出日期  |     注释      |                           下载链接                           |
 | :---: | :--------: | :-----------: | :----------------------------------------------------------: |
-| 1.6.5 | 2021/04/01 |  2021 愚人节  | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk) |
-|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk) |
-|       |            |               |   [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)   |
-| 1.4.3 | 2020/05/18 | 可以无限刷 MB | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.3.apk) |
-|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk) |
-| 1.4.1 | 2020/03/30 |  2020 愚人节  | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk) |
-|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk) |
-| 1.0.0 | 2019/08/28 |     初版      | [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk) |
-|       |            |               | [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk) |
+| 1.6.5 | 2021/04/01 |  2021 愚人节  | [美西 Linode ](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk)\| [东京 Linode](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk) \| [东京 BGP](https://jp.rytsu.org/phigros_v1.6.5.apk) |
+| 1.4.3 | 2020/05/18 | 可以无限刷 MB | [美西 Linode](https://liusw.rytsu.org/phigros/phigros_1.4.3.apk) \| [东京 Linode](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk) |
+| 1.4.1 | 2020/03/30 |  2020 愚人节  | [美西 Linode](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk) \| [东京 Linode](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk) |
+| 1.0.0 | 2019/08/28 |     初版      | [美西 Linode](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk) \| [东京 Linode](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk) |
 
 ------
 
