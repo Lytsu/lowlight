@@ -4,6 +4,16 @@
 
 ## 2021 年 10 月
 
+### 2021/10/11
+
+- 重新设计页面，更换主题色为 `#8e4bbc` ；
+- 新增 Tab 样式，目前 Arcaea 和 Phigros 已应用本样式；
+- 新域名：[lowlight.pages.dev](https://lowlight.pages.dev) ；
+- 新增 GitHub repo 快速入口；
+- **新增了站娘！！！由 [Kuriko](https://space.bilibili.com/7847180) 绘制；**
+- Add [donating methods](donate) ；
+- 其他一些改动。
+
 ### 2021/10/07
 
 - 由于新增了域名，本站名义正式更换至 「微光 Lowlight」；

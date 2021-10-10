@@ -12,8 +12,10 @@
   - [转载规范](repost.md)
   - [收录原则](inclusion.md)
   - [更新日志](changelog.md)
+  - [Donate](donate.md)
 - 友情链接
   - [Konmai 音游下载站](https://616.sb)
   - [Rsplwe's Blog](https://www.rsplwe.com)
   - [Karyl 工具箱](https://bilibili.red)
   - [维咔 ACG 社区](https://vikacg.com)
+

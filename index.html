@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>微光 Lowlight - 音游下载小站</title>
@@ -12,17 +13,28 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.5/dist/fancybox.min.css">
   <style>
     :root {
-      /* Reduce the font size */
       --base-font-size: 16px;
+      --theme-color: #8e4bbc;
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-highlight-color: #8e4bbc;
+    }
 
-      /* Change the theme color hue */
-      --theme-hue: 325;
-
-      /* Change the sidebar bullets */
-      --sidebar-nav-link-before-content: '';
+    .tab-badge {
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(35%, -45%);
+      padding: 0.25em 0.35em;
+      border-radius: 3px;
+      background: red;
+      color: white;
+      font-family: sans-serif;
+      font-size: 11px;
+      font-weight: bold;
     }
   </style>
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -31,9 +43,22 @@
       auto2top: true,
       loadSidebar: true,
       subMaxLevel: 2,
+      repo:'true',
+      corner: {
+        url: "https://github.com/Lytsu/sailouddown",
+        icon: "github",
+      },
+      logo:'images/maid.png',
       themeable: {
-          readyTransition : true, // default
-          responsiveTables: true  // default
+        readyTransition: true,
+        responsiveTables: true
+      },
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'material',
+        tabComments: true,
+        tabHeadings: true
       },
       pagination: {
         previousText: '上一篇',
@@ -53,11 +78,13 @@
       notFoundPage: true,
     }
   </script>
-  <!-- Docsify v4 -->
+  <!-- Docsify & Plugins-->
   <script src="//cdn.jsdelivr.net/npm/docsify@4.12.1/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination@2.6.1/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!-- FancyBox  -->
   <script src="//cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.5/dist/fancybox.umd.js"></script>
   <script src="js/fancybox-loader.js"></script>
@@ -67,4 +94,5 @@
     }
   </script>
 </body>
+
 </html>

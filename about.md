@@ -28,11 +28,23 @@
 
 ## 联系方式
 
-[BiliBili:楼外楼Official](https://space.bilibili.com/319171871) 
+[bilibili:微光Lowlight](https://space.bilibili.com/319171871) 
 
 [Telegram: @lowi_ro](https//t.me/lowi_ro)
 
 Email: yuk1zuna@outlook.com 
+
+## Domains
+
+### Held by Rytsu
+
+- [lowi.ro](https://lowi.ro)
+- [nhe.lv](https://nhe.lv)
+
+### CloudFlare Pages
+
+- [lowlight.pages.dev](https://lowlight.pages.dev)
+
 
 ## Technical Details
 
@@ -53,6 +65,7 @@ This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pa
 
 - 马尾理科：提供了十分宝贵的经验，永远值得学习；
 - 偷税师柑也：提供了早期测试，也提出不少意见；
+- Kuriko：绘制了站娘（
 - judjdigj 的 D4DJ 群的群友们：给了很多支持，是本站的早期用户群；
 - 账号 梨梓Rytsu 的粉丝们；
 - 作为用户的您。
