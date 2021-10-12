@@ -49,6 +49,8 @@
 
 [东京 Linode 节点](https://litokyo.rytsu.org/arcaea_3.8.6c.apk)
 
+[香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+
 [东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6c.apk)
 
 #### **Play 版本**
@@ -136,6 +138,8 @@
 [美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk)
+
+[香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
 
 [东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)
 
