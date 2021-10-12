@@ -6,6 +6,8 @@
 
 移动端用户点开左上角的菜单按钮就可以看到其他东西了。
 
+本页默认只提供 Android （安卓）安装包，您可前往[桌面端专页](desktop)查看本站收录的部分桌面端游戏。
+
 本站目前处于公开测试运营阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。
 
 催更、请求音游收录、提建议、~~骂我~~：[bilibili:微光Lowlight](https://space.bilibili.com/319171871) 
@@ -170,17 +172,28 @@
 
 </details>
 
-### PC/Windows - 4.3.7
-
-[美西 Linode 节点](https://liusw.rytsu.org/Malody_Windows_4.3.7.7z)
-
-[东京 Linode 节点](https://litokyo.rytsu.org/Malody_Windows_4.3.7.7z)
-
-### Android(安卓) - 4.3.7
+### 4.3.7
 
 [美西 Linode 节点](https://liusw.rytsu.org/Malody_Andoid_4.3.7.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/Malody_Andoid_4.3.7.apk)
+
+## Sonolus
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> 由于 Sonolus 是由玩家社区驱动的游戏，故无法单纯从其提交的分级信息中判断真实的适用年龄。
+>
+> 本站建议您或您的监护人自行确认该游戏的分级。
+
+</details>
+
+### 0.5.8
+
+[美西 Linode 节点](https://liusw.rytsu.org/Sonolus_0.5.8.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/Sonolus_0.5.8.apk)
 
 ## BanG Dream! Girls Band Party!
 
