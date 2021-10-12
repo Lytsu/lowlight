@@ -16,7 +16,13 @@ If you insist on donating, I suggest you first donate to the community-driven rh
 
 ## Donating Methods
 
-- ETH: `0x620FC0D815DE319c17aF6b3B9Cf7db8d217926C1`
-- BTC: `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
+- ETH: 
+
+  `0x620FC0D815DE319c17aF6b3B9Cf7db8d217926C1`
+
+- BTC: 
+
+  `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
+
 - [爱发电|afdian.net](https://afdian.net/@toyamaworks) 
 
