@@ -1,10 +1,10 @@
 # Donate
 
-If you find my work valuable, and would like to encourage the development of the site, you can do it by donating.
+If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
 
 ## Story
 
-First of all, welcome to this donation page. However, I'm sorry to say that this page will not be available in Simplified Chinese, although the overall language used on the site is Simplified Chinese.
+Welcome to this donation page. 
 
 Lowlight is a website that provides some rhythm games downloading. Lowlight started out as *[lowi.ro](https://lowi.ro)* and got the name it has today after the site got more domains like *[nhe.lv](https://nhe.lv)* and *[lowlight.pages.dev](https://lowlight.pages.dev)*. 
 
@@ -24,5 +24,7 @@ If you insist on donating, I suggest you first donate to the community-driven rh
 
   `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
 
-- [爱发电|afdian.net](https://afdian.net/@toyamaworks) 
+- [爱发电|afdian.net](https://afdian.net/@toyamaworks)
+
+- [Patreon](https://www.patreon.com/lowlight_delight)
 
