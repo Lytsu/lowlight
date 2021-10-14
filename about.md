@@ -55,18 +55,3 @@ This project is maintained by [Lytsu](https://github.com/Lytsu), you can view th
 This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pages](https://pages.cloudflare.com/).
 
 [Rsplwe](https://github.com/Rsplwe) made a huge contribution to this project.
-
-## Staff
-
-- Lytsu：站长，全权运营；
-- Rsplwe：技术协助，~~负责骂站长，给站长的傻逼行为擦屁股~~；
-
-## Special Thanks
-
-- 马尾理科：提供了十分宝贵的经验，永远值得学习；
-- 偷税师柑也：提供了早期测试，也提出不少意见；
-- Kuriko：绘制了站娘（
-- judjdigj 的 D4DJ 群的群友们：给了很多支持，是本站的早期用户群；
-- 账号 梨梓Rytsu 的粉丝们；
-- 作为用户的您。
-
