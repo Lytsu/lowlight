@@ -62,7 +62,7 @@ Re:Stage! Prism Step
 
 SEVEN's CODE
 
-Sonolus (安装包在sonolus.com)
+~~Sonolus (安装包在sonolus.com)~~
 
 Stellights
 
@@ -78,4 +78,4 @@ VOEZ
 
 Zyon
 
-22/7 Ongaku No Jikan
+~~22/7 Ongaku No Jikan~~
