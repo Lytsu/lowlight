@@ -13,6 +13,7 @@
 - The docsify theme [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) by [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable) is used for this site.
 - A number of docsify plugins are used for this site from [Awesome docsify](https://docsify.js.org/#/zh-cn/awesome).
 - The [server status page](https://status.lowi.ro/status/) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
+- Some of the pages used [Fancybox](https://fancyapps.com/docs/ui/fancybox) to create overlay windows containing images.
 
 ## 赞助者
 
@@ -28,7 +29,7 @@ N/A
 
 > 排名不分先后。
 
-马尾理科 / 偷税师柑也 / judjdigj / T喵丶TerryM / XS_Charles / 北巢北丶 / Winload_Refuge / MBRjun / 暗百砂理Official / 8岁时光 / 胖达荣荣 / Fuxfantx / Yoshizawa / 大使ML / 厄夜 / 233 / 山奈 / 杏碧茗叶 / 昭庭玲秋 / 是梨呀呀呀 / 南山D鸢乐 / ……
+马尾理科 / 偷税师柑也 / judjdigj / T喵丶TerryM / XS_Charles / 北巢北丶 / Winload_Refuge / MBRjun / 暗百砂理Official / 8岁时光 / 胖达荣荣 / Fuxfantx / Zris / Yoshizawa / 大使ML / 厄夜 / 233 / 山奈 / 杏碧茗叶 / 昭庭玲秋 / 是梨呀呀呀 / 南山D鸢乐 / ……
 
 账号 [梨梓Rytsu](https://space.bilibili.com/5899551/dynamic) 的关注者 / 账号 [微光Lowlight](https://space.bilibili.com/319171871) 的关注者 / 账号 [芳澤](https://space.bilibili.com/299364/dynamic) 的关注者 / 频道 [@lowi_ro](https://t.me/lowi_ro) 的关注者 / ……
 

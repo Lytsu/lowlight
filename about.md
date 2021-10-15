@@ -50,7 +50,7 @@ Email: yuk1zuna@outlook.com
 
 Powered by [docsify](https://docsify.js.org/), a magical documentation site generator. The theme [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) by [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-themeable) is used for this site.
 
-This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/sailouddown](https://github.com/Lytsu/sailouddown). 
+This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/lowlight](https://github.com/Lytsu/lowlight). 
 
 This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pages](https://pages.cloudflare.com/).
 
