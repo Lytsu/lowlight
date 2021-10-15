@@ -1,4 +1,6 @@
 > **使用微光 Lowlight 的服务，即代表您已知悉并同意[使用条款](tos.md)。**
+>
+> 本站目前处于公开测试运营阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。
 
 # 微光 Lowlight  - 提供一些音游下载的小站
 
@@ -7,8 +9,6 @@
 移动端用户点开左上角的菜单按钮就可以看到其他东西了。
 
 本页默认只提供 Android （安卓）安装包，您可前往[桌面端专页](desktop)查看本站收录的部分桌面端游戏。
-
-本站目前处于公开测试运营阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。
 
 催更、请求音游收录、提建议、~~骂我~~：[bilibili:微光Lowlight](https://space.bilibili.com/319171871) 
 
@@ -64,9 +64,9 @@
 
 ### 3.8.6 (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.8.6.apks)
+[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea_3.8.6.apks)
+[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
 [东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6.apks)
 
@@ -82,13 +82,50 @@
 
 ### 3.5.3c (2021/04/01|愚人节)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.5.3c.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea_3.5.3c.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 [东京 BGP 节点](https://jp.rytsu.org/arcaea_3.5.3c.apk)
 
 <!-- tabs:end -->
+
+## Orzmic
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> **Orzmic 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
+
+</details>
+
+<!-- tabs:start -->
+
+#### **TapTap**
+
+### TapTap Games
+
+[TapTap 上的 Orzmic](https://www.taptap.com/app/194778)
+
+#### **本站**
+
+### 1.10.12(2021/10/10)
+
+N/A
+
+#### **旧版本**
+
+### 1.8.22(2021/08/21)
+
+[美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
 ## Phigros
 
@@ -187,9 +224,9 @@
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
 
-> 由于 Sonolus 是由玩家社区驱动的游戏，故无法单纯从其提交的分级信息中判断真实的适用年龄。
+> 由于 Sonolus 没有正式上架，故没有可用的分级资讯。
 >
-> 本站建议您或您的监护人自行确认该游戏的分级。
+> 本站建议您或您的监护人自行确认该游戏的适用年龄。
 
 </details>
 
@@ -372,3 +409,4 @@
 [美西 Linode 节点](https://liusw.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
+
