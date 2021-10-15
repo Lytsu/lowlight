@@ -42,7 +42,7 @@ Liminality
 
 Noah's Bottle
 
-Orzmic (Taptap)
+~~Orzmic (Taptap)~~
 
 OSU! Droid
 
@@ -66,7 +66,7 @@ SEVEN's CODE
 
 Stellights
 
-TAKUMI³
+~~TAKUMI³~~
 
 Touhou Danmaku Kagura
 

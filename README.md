@@ -56,7 +56,7 @@
 #### **Play 版本**
 
 <details>
-<summary><b><font color="#8e4bbc">有关 Play 版本的信息</font></b></summary>
+<summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
 
 ?>  Play 版本需要通过 Play 商店充值记忆源点，同时部分地区可能无法使用 Play Games 服务。如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
@@ -115,17 +115,29 @@
 
 #### **本站**
 
+<details>
+<summary><b><font color="#8e4bbc">有关年龄鉴别系统</font></b></summary>
+
+?> 由于中国大陆地区相关的法律法规文件要求，Orzmic 的最新版本已经接入了中国大陆实名认证和未成年人防沉迷系统，敬请留意。
+
+</details>
+
 ### 1.10.12(2021/10/10)
 
-N/A
+[美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.10.12.apk)
 
-#### **旧版本**
+[东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.10.12.apk)
 
-### 1.8.22(2021/08/21)
+
+#### **其他版本**
+
+### 1.8.22(2021/08/21) - 未添加年龄鉴别的版本
 
 [美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.8.22.apk)
+
+<!-- tabs:end -->
 
 ## Phigros
 
@@ -202,6 +214,29 @@ N/A
 
 <!-- tabs:end -->
 
+## TAKUMI³
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> **TAKUMI³ 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
+>
+> App Store 年龄分级 : 4+
+
+</details>
+
+### 3.57(2021/10/8)
+
+[美西 Linode 节点](https://liusw.rytsu.org/TAKUMI³_3.57.apk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/TAKUMI³_3.57.apk)
+
 ## Malody
 
 <details>
@@ -236,7 +271,7 @@ N/A
 
 [东京 Linode 节点](https://litokyo.rytsu.org/Sonolus_0.5.8.apk)
 
-## BanG Dream! Girls Band Party!
+## BanG Dream! 少女乐团派对！(ガルパ/GBP)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
@@ -266,19 +301,23 @@ N/A
 
 </details>
 
-### [日] バンドリ！ ガールズバンドパーティ！
+<!-- tabs:start -->
 
-#### 5.6.0(2021/09/23)
+#### **日服**
+
+### 5.6.0(2021/09/23)
 
 [美西 Linode 节点](https://liusw.rytsu.org/5.6.0.jp.co.craftegg.band.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/5.6.0.jp.co.craftegg.band.apk)
 
-### [简中] 梦想协奏曲！少女乐团派对！
+#### **简中服**
 
-#### bilibili Games
+### bilibili Games
 
 [哔哩哔哩游戏上的梦想协奏曲！少女乐团派对！](https://game.bilibili.com/bangdream/)
+
+<!-- tabs:end -->
 
 ## D4DJ Groovy Mix
 
@@ -297,30 +336,34 @@ N/A
 
 </details>
 
+<!-- tabs:start -->
+
+#### **日服**
+
 <details>
-<summary><b><font color="#8e4bbc">有关 Play 版本的信息</font></b></summary>
+<summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
 
 ?>  如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
 </details>
 
-### [日] D4DJ Groovy Mix(グルミク)
-
-#### 2.5.4(2021/09/17) 
+### 2.5.4(2021/09/17) 
 
 [美西 Linode 节点](https://liusw.rytsu.org/com.bushiroad.d4dj_2.5.4.xapk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/com.bushiroad.d4dj_2.5.4.xapk)
 
-### [国际] D4DJ Groovy Mix
+#### **国际服 | 英语**
 
-#### 1.3.3(2021/09/27)
+### 1.3.3(2021/09/27)
 
 [美西 Linode 节点](https://liusw.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
 
-## Love Live! School idol festival
+<!-- tabs:end -->
+
+## LoveLive! School idol festival (LLSIF)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
@@ -346,29 +389,33 @@ N/A
 
 </details>
 
-### [日] ラブライブ！スクールアイドルフェスティバル（スクフェス）
+<!-- tabs:start -->
 
-#### 9.2.2(2021/08/10)
+#### **日服**
+
+### 9.2.2(2021/08/10)
 
 [美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_v9.2.2.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_v9.2.2.apk)
 
-### [国际] Love Live! School idol festival
+####  **简中服**
 
-#### 9.2.2(2021/08/10)
+### Shengqu Games
+
+[盛趣游戏上的 LoveLive！学园偶像祭](https://ll.sdo.com)
+
+#### **国际服 | 英语**
+
+### 9.2.2(2021/08/10)
 
 [美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
 
-### [简中] **LoveLive！学园偶像祭**
+<!-- tabs:end -->
 
-#### Shengqu Games
-
-[盛趣游戏上的 LoveLive！学园偶像祭](https://ll.sdo.com)
-
-## Project Sekai Colorful Stage Feat. Hatsune Miku
+## 世界计划 多彩舞台(プロセカ/PRSK/PJSK)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
@@ -388,25 +435,28 @@ N/A
 </details>
 
 <details>
-<summary><b><font color="#8e4bbc">有关繁中服的信息</font></b></summary>
+<summary><b><font color="#8e4bbc">有关亚洲（繁中）服的信息</font></b></summary>
 
-?> 繁中服可能需要**除中国大陆和日本外的亚洲地区 IP** 登陆，请提前做好相关准备。
+?> 亚服（繁中）可能需要**除中国大陆和日本外的亚洲地区 IP** 登陆，请提前做好相关准备。
 
 </details>
 
-### [日] プロジェクトセカイ カラフルステージ！ feat. 初音ミク
+<!-- tabs:start -->
 
-#### 1.10.1(2021/10/04)
+#### **日服**
+
+### 1.10.1(2021/10/04)
 
 [美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1.apk)
 
-### [繁中] 世界計畫 繽紛舞台！ feat. 初音未來
+#### **亚服 | 繁中**
 
-#### 1.7.3(2021/09/29)
+### 1.7.3(2021/09/29)
 
 [美西 Linode 节点](https://liusw.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 [东京 Linode 节点](https://litokyo.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
+<!-- tabs:end -->
