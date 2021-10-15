@@ -2,7 +2,15 @@
 
 见证本站历史的地方。
 
+更新日志实际上是对过去一段时间内众多 commits 的总结，更详细的更新改动记录可以查看 [GitHub 上本项目的 commits](https://github.com/Lytsu/lowlight/commits/main) 。
+
 ## 2021 年 10 月
+
+### 2021/10/15
+
+- 新增游戏：Orzmic；
+- 新增[支持与感谢](support)页面；
+- 文本细节打磨。
 
 ### 2021/10/12
 
