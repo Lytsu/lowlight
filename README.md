@@ -45,13 +45,13 @@
 
 ### 3.8.6c (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
-[香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
-[东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6c.apk)
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
 #### **Play 版本**
 
@@ -64,11 +64,13 @@
 
 ### 3.8.6 (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6.apks)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6.apks)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
-[东京 BGP 节点](https://jp.rytsu.org/arcaea_3.8.6.apks)
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6.apks)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
 #### **Arcaea 官网**
 
@@ -82,11 +84,13 @@
 
 ### 3.5.3c (2021/04/01|愚人节)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.5.3c.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
-[东京 BGP 节点](https://jp.rytsu.org/arcaea_3.5.3c.apk)
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea_3.5.3c.apk)
 
 <!-- tabs:end -->
 
@@ -124,18 +128,18 @@
 
 ### 1.10.12 (2021/10/10)
 
-[美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.10.12.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.10.12.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.10.12.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.10.12.apk)
 
 
 #### **其他版本**
 
 ### 1.8.22 (2021/08/21) - 未添加年龄鉴别的版本
 
-[美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.8.22.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
 <!-- tabs:end -->
 
@@ -174,43 +178,57 @@
 
 ### 1.6.11 (2021/07/25)
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.11.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.11.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
 
-[东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.11.apk)
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.11.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.11.apk)
 
 #### **愚人节**
 
 ### 1.6.5 (2021 愚人节)
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.5.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk)
 
-[香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
 
-[东京 BGP 节点](https://jp.rytsu.org/phigros_v1.6.5.apk)
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.5.apk)
 
 ### 1.4.1 (2020 愚人节)
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk)
+
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.1.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.4.1.apk)
 
 #### **其他版本**
 
 ### 1.4.3 (2020/05/18) - 可以无限刷 MB 的版本
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.3.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.3.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk)
+
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.3.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org//phigros/phigros_1.4.3.apk)
 
 ### 1.0.0 (2019/08/28) - 初版
 
-[美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk)
+
+[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.0.0.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.0.0.apk)
 
 <!-- tabs:end -->
 
@@ -233,9 +251,9 @@
 
 ### 3.57 (2021/10/08)
 
-[美西 Linode 节点](https://liusw.rytsu.org/TAKUMI³_3.57.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/TAKUMI³_3.57.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/TAKUMI³_3.57.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/TAKUMI³_3.57.apk)
 
 ## Malody
 
@@ -250,9 +268,9 @@
 
 ### 4.3.7
 
-[美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 ## Sonolus
 
@@ -267,9 +285,9 @@
 
 ### 0.5.8 Alpha
 
-[美西 Linode 节点](https://liusw.rytsu.org/Sonolus_0.5.8.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/Sonolus_0.5.8.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/Sonolus_0.5.8.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/Sonolus_0.5.8.apk)
 
 ## BanG Dream! 少女乐团派对！(ガルパ/GBP)
 
@@ -307,9 +325,9 @@
 
 ### 5.6.1 (2021/10/01)
 
-[美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
 #### **简中服**
 
@@ -349,17 +367,17 @@
 
 ### 2.5.6 (2021/10/07) 
 
-[美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
 #### **国际服 | 英语**
 
 ### 2.4.5 (2021/10/14)
 
-[美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 <!-- tabs:end -->
 
@@ -402,9 +420,9 @@
 
 ### 9.3 (2021/10/11)
 
-[美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
 ####  **简中服**
 
@@ -416,9 +434,9 @@
 
 ### 9.3 (2021/10/11)
 
-[美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 <!-- tabs:end -->
 
@@ -454,16 +472,16 @@
 
 ### 1.10.1 (2021/10/04)
 
-[美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
 
 #### **亚服 | 繁中**
 
 ### 1.7.3 (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 <!-- tabs:end -->

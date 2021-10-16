@@ -9,7 +9,7 @@
 - 站点信息
   - [关于本站](about.md)
   - [更新日志](changelog.md)
-  - [Donate](donate.md)
+  - [捐赠与赞助](donate.md)
   - [支持与感谢](support.md)
 - [查看服务器状态](https://status.lowi.ro/status/)
 - 友情链接
