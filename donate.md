@@ -1,20 +1,8 @@
-# Donate
+# 捐赠
 
 If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
 
-## Story
-
-Welcome to this donation page. 
-
-Lowlight is a website that provides some rhythm games downloading. Lowlight started out as *[lowi.ro](https://lowi.ro)* and got the name it has today after the site got more domains like *[nhe.lv](https://nhe.lv)* and *[lowlight.pages.dev](https://lowlight.pages.dev)*. 
-
-So what does "Lowlight" mean? I expressed it as "a faint light". As a "light", it should be more of an emanation of its own light, and "light" does not ask others for donations.
-
-Frankly speaking, I am not willing to charge anyone even for a donation. I think that in the absence of actual content, donations are actually a kind of begging in disguise. Starting a download site is not a big deal, especially when my predecessor, *[Konmai Academy](https://616.sb)*, shines on my achievements.
-
-If you insist on donating, I suggest you first donate to the community-driven rhythm games (like *Malody*) offered on this site, and then consider donating to this site.
-
-## Donating Methods
+## 捐赠方式
 
 - ETH: 
 
@@ -24,7 +12,43 @@ If you insist on donating, I suggest you first donate to the community-driven rh
 
   `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
 
-- [爱发电|afdian.net](https://afdian.net/@toyamaworks)
+- [爱发电](https://afdian.net/@toyamaworks)
 
 - [Patreon](https://www.patreon.com/lowlight_delight)
+
+## 钱款去向
+
+本站收到的钱款，主要应用在以下方面：
+
+- ~~贪污~~用作站长的一部分生活费；
+- 服务器、域名等的正常开销；
+- 捐赠给其他音游项目和本站使用过的开源项目。
+
+由于本站收入比较杂乱，因此只公布支出事宜。
+
+### 已支持的项目
+
+没打勾的项目，代表未来有捐赠这个项目的计划。
+
+您也可以点击对应的链接进行捐赠。
+
+- [x] [Pigeon Games - Rizline](https://afdian.net/@pigeongames)
+- [x] [Sekai Viewer | 爱发电](https://afdian.net/@sekaiviewer)
+- [x] [Sekai Viewer | Pateron](https://www.patreon.com/SekaiViewer)
+- [ ] [Burrito - Sonolus](https://afdian.net/@Sonolus)
+- [ ] [DIYgod - RSSHub](https://afdian.net/@diygod)
+
+### 服务开销
+
+#### 服务器
+
+- Linode - Fremont | US$10/mo
+- Linode - Tokyo | US$10/mo
+- Tokyo CN2/BBTEC | US$20/mo
+- Hong Kong CMI | US$50/yr
+
+#### 域名
+
+- nhe.lv | US$12.25/yr
+- lowi.ro | US$9.69/yr
 
