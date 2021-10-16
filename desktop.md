@@ -6,7 +6,7 @@
 
 ### Windows - 4.3.7
 
-[美西 Linode 节点](https://liusw.rytsu.org/Malody_Windows_4.3.7.7z)
+[美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Windows_4.3.7.7z)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/Malody_Windows_4.3.7.7z)
+[东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Windows_4.3.7.7z)
 

@@ -1,4 +1,4 @@
-> **使用微光 Lowlight 的服务，即代表您已知悉并同意[使用条款](tos.md)。**
+> **使用微光 Lowlight 的服务，即代表您已知悉并同意[使用条款](tos)。**
 >
 > 本站目前处于公开测试运营阶段，欢迎填写[问卷调查](https://wj.qq.com/s2/1091099/5c62)来支持我们的工作。
 
@@ -45,9 +45,9 @@
 
 ### 3.8.6c (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/arcaea_3.8.6c.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/arcaea_3.8.6c.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
 [香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
@@ -122,7 +122,7 @@
 
 </details>
 
-### 1.10.12(2021/10/10)
+### 1.10.12 (2021/10/10)
 
 [美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.10.12.apk)
 
@@ -131,7 +131,7 @@
 
 #### **其他版本**
 
-### 1.8.22(2021/08/21) - 未添加年龄鉴别的版本
+### 1.8.22 (2021/08/21) - 未添加年龄鉴别的版本
 
 [美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
@@ -231,7 +231,7 @@
 
 </details>
 
-### 3.57(2021/10/8)
+### 3.57 (2021/10/08)
 
 [美西 Linode 节点](https://liusw.rytsu.org/TAKUMI³_3.57.apk)
 
@@ -250,9 +250,9 @@
 
 ### 4.3.7
 
-[美西 Linode 节点](https://liusw.rytsu.org/Malody_Andoid_4.3.7.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/Malody_Andoid_4.3.7.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 ## Sonolus
 
@@ -265,7 +265,7 @@
 
 </details>
 
-### 0.5.8
+### 0.5.8 Alpha
 
 [美西 Linode 节点](https://liusw.rytsu.org/Sonolus_0.5.8.apk)
 
@@ -305,11 +305,11 @@
 
 #### **日服**
 
-### 5.6.0(2021/09/23)
+### 5.6.1 (2021/10/01)
 
-[美西 Linode 节点](https://liusw.rytsu.org/5.6.0.jp.co.craftegg.band.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/5.6.0.jp.co.craftegg.band.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
 #### **简中服**
 
@@ -347,19 +347,19 @@
 
 </details>
 
-### 2.5.4(2021/09/17) 
+### 2.5.6 (2021/10/07) 
 
-[美西 Linode 节点](https://liusw.rytsu.org/com.bushiroad.d4dj_2.5.4.xapk)
+[美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.bushiroad.d4dj_2.5.4.xapk)
+[东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
 #### **国际服 | 英语**
 
-### 1.3.3(2021/09/27)
+### 2.4.5 (2021/10/14)
 
-[美西 Linode 节点](https://liusw.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.bushiroad.en.d4dj_1.3.3.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 <!-- tabs:end -->
 
@@ -393,11 +393,18 @@
 
 #### **日服**
 
-### 9.2.2(2021/08/10)
+<details>
+<summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
 
-[美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_v9.2.2.apk)
+?>  如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
-[东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_v9.2.2.apk)
+</details>
+
+### 9.3 (2021/10/11)
+
+[美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
+
+[东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
 ####  **简中服**
 
@@ -407,11 +414,11 @@
 
 #### **国际服 | 英语**
 
-### 9.2.2(2021/08/10)
+### 9.3 (2021/10/11)
 
-[美西 Linode 节点](https://liusw.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/klb.android.lovelive_en_v9.2.2.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 <!-- tabs:end -->
 
@@ -445,18 +452,18 @@
 
 #### **日服**
 
-### 1.10.1(2021/10/04)
+### 1.10.1 (2021/10/04)
 
-[美西 Linode 节点](https://liusw.rytsu.org/com.sega.pjsekai_1.10.1.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/com.sega.pjsekai_1.10.1.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
 
 #### **亚服 | 繁中**
 
-### 1.7.3(2021/09/29)
+### 1.7.3 (2021/09/29)
 
-[美西 Linode 节点](https://liusw.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
-[东京 Linode 节点](https://litokyo.rytsu.org/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 <!-- tabs:end -->
