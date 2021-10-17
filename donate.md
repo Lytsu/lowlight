@@ -38,7 +38,7 @@ If you find my work valuable, and would like to encourage the development of the
 - [ ] [Burrito - Sonolus](https://afdian.net/@Sonolus)
 - [ ] [DIYgod - RSSHub](https://afdian.net/@diygod)
 
-### 服务开销
+### 服务支撑开销
 
 #### 服务器
 
@@ -51,4 +51,4 @@ If you find my work valuable, and would like to encourage the development of the
 
 - nhe.lv | US$12.25/yr
 - lowi.ro | US$9.69/yr
-
+- sega.sbs | US$7.52/yr

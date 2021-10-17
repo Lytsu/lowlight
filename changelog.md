@@ -10,6 +10,9 @@
 
 - 为所有游戏的下载链接增加了「适合的运营商」标识；
   - 就是 移动/联通/电信/通用 这些；
+- 新增以下游戏：
+  - osu! (Windows Classic)；
+  - osu! Lazer (Windows/macOS/Linux/Android)；
 - 启用域名：[sega.sbs](https://sega.sbs)；
 - 其他细节优化。
 

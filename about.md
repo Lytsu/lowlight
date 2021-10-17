@@ -40,6 +40,7 @@ Email: yuk1zuna@outlook.com
 
 - [lowi.ro](https://lowi.ro)
 - [nhe.lv](https://nhe.lv)
+- [sega.sbs](https://sega.sbs)
 
 ### CloudFlare Pages
 

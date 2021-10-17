@@ -74,7 +74,7 @@
 
 #### **Arcaea 官网**
 
-!> 如果你需要从官网进行下载，请注意使用中国大陆 IP，也就是说，不要挂代理。
+> 如果你需要从官网进行下载，请注意使用中国大陆 IP，也就是说，不要挂代理。
 
 ### lowiro limited
 
@@ -135,7 +135,7 @@
 
 #### **其他版本**
 
-### 1.8.22 (2021/08/21) - 未添加年龄鉴别的版本
+### 1.8.22 (2021/08/21) - 最后一个未添加年龄鉴别的版本
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.8.22.apk)
 
@@ -262,15 +262,52 @@
 
 > 由于 Malody 是由玩家社区驱动的游戏，故无法单纯从其提交的分级信息中判断真实的适用年龄。
 >
-> 本站建议您或您的监护人自行确认该游戏的分级。
+> 本站建议您或您的监护人自行确认该游戏的适用年龄。
 
 </details>
+
+<!-- tabs:start -->
+
+#### **Android**
 
 ### 4.3.7
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
+
+#### **Windows**
+
+[前往桌面端专页查看](/desktop?id=malody)
+
+<!-- tabs:end -->
+
+## osu! Lazer
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> 由于 osu! Lazer 没有正式上架，故没有可用的分级资讯。
+>
+> 本站建议您或您的监护人自行确认该游戏的适用年龄。
+
+</details>
+
+<!-- tabs:start -->
+
+#### **Android**
+
+### 2021.1016.0
+
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/sh.ppy.osulazer_2020.10.16.0.apk)
+
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/sh.ppy.osulazer_2020.10.16.0.apk)
+
+#### **桌面端**
+
+[前往桌面端专页查看](/desktop?id=osu)
+
+<!-- tabs:end -->
 
 ## Sonolus
 
