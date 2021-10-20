@@ -49,7 +49,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6c.apk)
 
@@ -68,7 +68,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6.apks)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
@@ -88,7 +88,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea_3.5.3c.apk)
 
@@ -182,7 +182,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.11.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.11.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.11.apk)
 
@@ -194,7 +194,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.5.apk)
 
@@ -204,7 +204,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.1.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.1.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.4.1.apk)
 
@@ -216,7 +216,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.3.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.3.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org//phigros/phigros_1.4.3.apk)
 
@@ -226,7 +226,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk)
 
-[移动 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.0.0.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.0.0.apk)
 
 [联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.0.0.apk)
 
@@ -509,9 +509,9 @@
 
 ### 1.10.1 (2021/10/04)
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.1.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
 #### **亚服 | 繁中**
 
