@@ -43,7 +43,7 @@
 
 </details>
 
-### 3.8.6c (2021/10/21)
+### 3.8.8c (2021/10/21)
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
