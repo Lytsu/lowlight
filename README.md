@@ -51,8 +51,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.8c.apk)
-
 #### **Play 版本**
 
 <details>
@@ -69,8 +67,6 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6.apks)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6.apks)
 
 #### **Arcaea 官网**
 
@@ -89,8 +85,6 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 <!-- tabs:end -->
 
@@ -238,8 +232,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/takumi/TAKUMI³_3.57.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/takumi/TAKUMI³_3.57.apk)
-
 ## Malody
 
 <details>
@@ -262,8 +254,6 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 #### **Windows**
 
@@ -318,8 +308,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/sonolus/Sonolus_0.5.8.apk)
-
 ## BanG Dream! 少女乐团派对！(ガルパ/GBP)
 
 <details>
@@ -356,13 +344,11 @@
 
 ### 5.6.1 (2021/10/01)
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/bbtec.co.craftegg.band_5.6.1.apk)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/bbtec.co.craftegg.band_5.6.1.apk)
 
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/bbtec.co.craftegg.band_5.6.1.apk)
 
 #### **简中服**
 
@@ -408,8 +394,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
-
 #### **国际服 | 英语**
 
 ### 2.4.5 (2021/10/14)
@@ -419,8 +403,6 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 <!-- tabs:end -->
 
@@ -446,7 +428,7 @@
 <details>
 <summary><font color="#8e4bbc"><b>资源引用说明</b></font></summary>
 
-?> 日服 SIF 游戏资源转载自 https://jp.llsif.cn/ ，并将资源存放在本站服务器。你也可以前往该站，下载其他修改版本的 SIF，包括共存修改版及 Root 版等。
+?> 日服 SIF 游戏资源转载自 https://bbtec.llsif.cn/ ，并将资源存放在本站服务器。你也可以前往该站，下载其他修改版本的 SIF，包括共存修改版及 Root 版等。
 
 </details>
 
@@ -469,8 +451,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
-
 ####  **简中服**
 
 ### Shengqu Games
@@ -486,8 +466,6 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 <!-- tabs:end -->
 
@@ -529,8 +507,6 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
-
 #### **亚服 | 繁中**
 
 ### 1.7.3 (2021/09/29)
@@ -540,7 +516,5 @@
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 <!-- tabs:end -->
