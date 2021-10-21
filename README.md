@@ -90,7 +90,7 @@
 
 [通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea_3.5.3c.apk)
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 <!-- tabs:end -->
 
@@ -182,9 +182,6 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
 
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.11.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.11.apk)
 
 #### **愚人节**
 
@@ -194,19 +191,11 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.5.apk)
 
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.6.5.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.6.5.apk)
-
 ### 1.4.1 (2020 愚人节)
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.4.1.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk)
-
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.1.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.4.1.apk)
 
 #### **其他版本**
 
@@ -216,19 +205,11 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.3.apk)
 
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.4.3.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org//phigros/phigros_1.4.3.apk)
-
 ### 1.0.0 (2019/08/28) - 初版
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.0.0.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.0.0.apk)
-
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/phigros/phigros_1.0.0.apk)
-
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/phigros/phigros_1.0.0.apk)
 
 <!-- tabs:end -->
 
@@ -251,9 +232,13 @@
 
 ### 3.57 (2021/10/08)
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/TAKUMI³_3.57.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/takumi/TAKUMI³_3.57.apk)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/TAKUMI³_3.57.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/takumi/TAKUMI³_3.57.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/takumi/TAKUMI³_3.57.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/takumi/TAKUMI³_3.57.apk)
 
 ## Malody
 
@@ -275,6 +260,10 @@
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 #### **Windows**
 
@@ -303,6 +292,7 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/sh.ppy.osulazer_2020.10.16.0.apk)
 
+
 #### **桌面端**
 
 [前往桌面端专页查看](/desktop?id=osu)
@@ -322,9 +312,13 @@
 
 ### 0.5.8 Alpha
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/Sonolus_0.5.8.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/Sonolus_0.5.8.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/sonolus/Sonolus_0.5.8.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/sonolus/Sonolus_0.5.8.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
 ## BanG Dream! 少女乐团派对！(ガルパ/GBP)
 
@@ -365,6 +359,10 @@
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
 
 #### **简中服**
 
@@ -408,6 +406,10 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+
 #### **国际服 | 英语**
 
 ### 2.4.5 (2021/10/14)
@@ -415,6 +417,10 @@
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
 
 <!-- tabs:end -->
 
@@ -461,6 +467,10 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
+
 ####  **简中服**
 
 ### Shengqu Games
@@ -474,6 +484,10 @@
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 <!-- tabs:end -->
 
@@ -513,6 +527,10 @@
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
+
 #### **亚服 | 繁中**
 
 ### 1.7.3 (2021/09/29)
@@ -520,5 +538,9 @@
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 [联通 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 <!-- tabs:end -->
