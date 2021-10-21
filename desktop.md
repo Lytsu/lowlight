@@ -19,9 +19,13 @@
 
 ### 4.3.7
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Windows_4.3.7.7z)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Windows_4.3.7.7z)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Windows_4.3.7.7z)
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/malody/Malody_Windows_4.3.7.7z)
+
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/malody/Malody_Windows_4.3.7.7z)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Windows_4.3.7.7z)
 
 #### **Android**
 
@@ -61,9 +65,9 @@
 >
 > 但如果你想有更好的游玩体验，还是建议你具备比较好的网络条件，或使用加速器等学术上网代理工具。
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/osuclassic/osu!_Classic_Windows_20211014.zip)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/osuclassic/osu!_Classic_Windows_20211014.zip)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osuclassic/osu!_Classic_Windows_20211014.zip)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/osuclassic/osu!_Classic_Windows_20211014.zip)
 
 #### **官方**
 
@@ -81,21 +85,21 @@
 
 #### **Windows**
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_Windows_2021.10.16.0.exe)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_Windows_2021.10.16.0.exe)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_Windows_2021.10.16.0.exe)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_Windows_2021.10.16.0.exe)
 
 #### **macOS**
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_macOS_2021.10.16.0.app.zip)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_macOS_2021.10.16.0.app.zip)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_macOS_2021.10.16.0.app.zip)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_macOS_2021.10.16.0.app.zip)
 
 #### **Linux**
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_Linux_2021.10.16.0.AppImage)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/osulazer/osu_Linux_2021.10.16.0.AppImage)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_Linux_2021.10.16.0.AppImage)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/osulazer/osu_Linux_2021.10.16.0.AppImage)
 
 #### **Android**
 
