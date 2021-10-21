@@ -507,7 +507,7 @@
 
 #### **日服**
 
-### 1.10.1 (2021/10/04)
+### 1.10.3 (2021/10/21)
 
 [通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
