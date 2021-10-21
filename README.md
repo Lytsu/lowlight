@@ -43,15 +43,15 @@
 
 </details>
 
-### 3.8.6c (2021/09/29)
+### 3.8.6c (2021/10/21)
 
-[通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
-[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[联通 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
-[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[通用 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
-[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.6c.apk)
+[联通&电信 | 东京 BBTEC 节点](https://jp.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
 #### **Play 版本**
 
