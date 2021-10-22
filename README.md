@@ -399,7 +399,7 @@
 
 #### **日服**
 
-### 5.6.4 (2021/10/15)
+### 5.6.4 (2021/10/22)
 
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
@@ -466,15 +466,15 @@
 
 #### **国际服 | 英语**
 
-### 2.4.5 (2021/10/14)
+### 2.5.3 (2021/10/21)
 
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
-[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.4.5.apk)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
 <!-- tabs:end -->
 
