@@ -55,4 +55,4 @@ This project is maintained by [Lytsu](https://github.com/Lytsu), you can view th
 
 This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pages](https://pages.cloudflare.com/).
 
-[Rsplwe](https://github.com/Rsplwe) made a huge contribution to this project.
+[Rsplwe](https://github.com/Rsplwe) and [Forte.EXE](https://github.com/ForteEXE) made a huge contribution to this project.

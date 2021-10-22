@@ -14,7 +14,6 @@
 
 站娘由 [Kuriko](https://space.bilibili.com/7847180) 绘制（
 
-
 ## Arcaea
 
 <details>
@@ -94,6 +93,29 @@
 
 <!-- tabs:end -->
 
+## Lanota
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> **Lanota 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
+>
+> App Store 年龄分级 : 4+
+
+</details>
+
+### 2.6.4(2021/10/20)
+
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/lanota/lanota_2.6.4.apk)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/lanota/lanota_2.6.4.apk)
+
 ## Orzmic
 
 <details>
@@ -116,22 +138,6 @@
 ### TapTap Games
 
 [TapTap 上的 Orzmic](https://www.taptap.com/app/194778)
-
-#### **本站**
-
-<details>
-<summary><b><font color="#8e4bbc">有关年龄鉴别系统</font></b></summary>
-
-?> 由于中国大陆地区相关的法律法规文件要求，Orzmic 的最新版本已经接入了中国大陆实名认证和未成年人防沉迷系统，敬请留意。
-
-</details>
-
-### 1.10.12 (2021/10/10)
-
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/orzmic/orzmic_1.10.12.apk)
-
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/orzmic/orzmic_1.10.12.apk)
-
 
 #### **其他版本**
 
@@ -174,15 +180,6 @@
 
 [腾讯应用宝上的 Phigros](https://sj.qq.com/myapp/detail.htm?apkName=com.PigeonGames.Phigros)
 
-#### **本站**
-
-### 1.6.11 (2021/07/25)
-
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.11.apk)
-
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
-
-
 #### **愚人节**
 
 ### 1.6.5 (2021 愚人节)
@@ -198,6 +195,12 @@
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.4.1.apk)
 
 #### **其他版本**
+
+### 1.6.11 (2021/07/25) - 最后一个未添加年龄鉴别的版本
+
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/phigros/phigros_1.6.11.apk)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/phigros/phigros_1.6.11.apk)
 
 ### 1.4.3 (2020/05/18) - 可以无限刷 MB 的版本
 
@@ -239,6 +242,48 @@
 [联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/takumi/TAKUMI³_3.57.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/takumi/TAKUMI³_3.57.apk)
+
+## Cytoid
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> 由于 Cytoid 没有正式上架，故没有可用的分级资讯。
+>
+> 本站建议您或您的监护人自行确认该游戏的适用年龄。
+
+</details>
+
+### 2.0.2(2020/10/28)
+
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/cytoid/cytoid_2.0.2.apk)
+
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/cytoid/cytoid_2.0.2.apk)
+
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/cytoid/cytoid_2.0.2.apk)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/cytoid/cytoid_2.0.2.apk)
+
+## Dynamite
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> 由于 Dynamite 没有正式上架，故没有可用的分级资讯。
+>
+> 本站建议您或您的监护人自行确认该游戏的适用年龄。
+
+</details>
+
+### 1.0.1 Rev10
+
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
+
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
+
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/dynamite/Dynamite.1.0.1.rev10.apk)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
 
 ## Malody
 
@@ -320,7 +365,7 @@
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
-## BanG Dream! 少女乐团派对！(ガルパ/GBP)
+## BanG Dream! 少女乐团派对！(ガルパ/GBP/~~邦邦~~)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
@@ -354,15 +399,15 @@
 
 #### **日服**
 
-### 5.6.1 (2021/10/01)
+### 5.6.4 (2021/10/15)
 
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
-[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/bandori/jp.co.craftegg.band_5.6.1.apk)
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/bandori/jp.co.craftegg.band_5.6.4.apk)
 
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.1.apk)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
 #### **简中服**
 
@@ -388,6 +433,15 @@
 > App Store 年龄分级 : 4+
 
 </details>
+<details>
+<summary><b><font color="#8e4bbc">D4DJ 配置要求说明</font></b></summary>
+
+> 根据 Play Store 页面的要求，您的设备需要满足以下条件：
+>
+> - 最低兼容：Android 5.0 以上；
+> - 推荐设备：处理器性能相当于 Snapdragon 835 或更强的设备（注：2018 年以后的机型大多满足该条件）。
+
+</details>
 
 <!-- tabs:start -->
 
@@ -396,7 +450,7 @@
 <details>
 <summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
 
-?>  如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
+> 如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
 </details>
 
@@ -424,7 +478,66 @@
 
 <!-- tabs:end -->
 
-## LoveLive! School idol festival (LLSIF)
+## 偶像梦幻祭 Music！(偶像梦幻祭2/あんスタ/ES2)
+
+<details>
+<summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
+
+> **Ensemble Stars!! 可供参考的分级认证信息如下：**
+>
+> IARC（国际年龄评级联盟系统）: 3+
+>
+> ESRB（美洲|娱乐软件分级委员会）: Everyone（适合所有人）
+>
+> PEGI（欧洲|泛欧洲游戏信息组织）: 3
+>
+> CAPDA（中国大陆|中国数字音像协会）：12+
+>
+> App Store 年龄分级 : 4+
+
+</details>
+
+<!-- tabs:start -->
+
+#### **日服**
+
+<details>
+<summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
+
+> 如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
+
+</details>
+<details>
+<summary><b><font color="#8e4bbc">ES2 配置要求说明</font></b></summary>
+
+> 根据 Play Store 页面的要求，您的设备需要满足以下条件：
+>
+> - 最低兼容：Android 5.0 以上（推荐 Android 6.0 以上）；
+> - 推荐设备：处理器性能相当于 Snapdragon 835 或更强的设备（注：2018 年以后的机型大多满足该条件）；
+> - **如果设备的 USB 调试设置为开启，游戏将无法启动，需要关闭 USB 调试**；
+> - **被监测到 root 或非法修改的设备无法启动游戏**。
+
+</details>
+
+### 1.0.56(2021/10/04)
+
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/es2/es2_1.0.56.xapk)
+
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/es2/es2_1.0.56.xapk)
+
+[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/es2/es2_1.0.56.xapk)
+
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/es2/es2_1.0.56.xapk)
+
+#### **简中服**
+
+### Happy Elements
+
+[乐元素上的偶像梦幻祭2](https://es2.happyelements.cn/)
+
+<!-- tabs:end -->
+
+## LoveLive! School idol festival (LLSIF/SIF)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
@@ -457,7 +570,7 @@
 <details>
 <summary><b><font color="#8e4bbc">需要 SAI 安装器安装，点击查看</font></b></summary>
 
-?>  如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
+> 如果您下载的文件为 .xapk/.apks 格式，请参照[这里](sai)进行安装。
 
 </details>
 
@@ -491,7 +604,7 @@
 
 <!-- tabs:end -->
 
-## 世界计划 多彩舞台(プロセカ/PRSK/PJSK)
+## 世界计划 多彩舞台(プロセカ/PRSK/PJSK/~~啤酒烧烤~~)
 
 <details>
 <summary><font color="#8e4bbc"><b>未成年人保护资讯</b></font></summary>
