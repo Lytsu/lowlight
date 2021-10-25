@@ -28,7 +28,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/website/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -36,7 +36,7 @@ const config = {
                 /*blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/website/blog/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/blog/',
                 },*/
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -108,11 +108,11 @@ const config = {
                             to: 'policies/minor',
                         },
                         {
-                            label: '转载规范',
+                            label: '资源转载规范',
                             to: 'policies/repost',
                         },
                         {
-                            label: '收录标准',
+                            label: '游戏收录标准',
                             to: 'policies/inclusion',
                         },
                     ]
@@ -135,10 +135,14 @@ const config = {
                             label: 'Karyl 工具箱',
                             href: 'https://bilibili.red',
                         },
+                        {
+                            label: '空',
+                            href: 'https://minasan.xyz',
+                        },
                     ],
                 },
                 {
-                    title: '社区',
+                    title: '关注我们',
                     items: [
                         /*{
                                                     label: '博客',
