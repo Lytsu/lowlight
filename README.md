@@ -48,8 +48,6 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/arcaea/arcaea_3.8.8c.apk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.8c.apk)
 
 #### **Play 版本**
@@ -66,8 +64,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.8.8.apks)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.8.8.apks)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/arcaea/arcaea_3.8.8.apks)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.8.8.apks)
 
@@ -86,8 +82,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/arcaea/arcaea_3.5.3c.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/arcaea/arcaea_3.5.3c.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/arcaea/arcaea_3.5.3c.apk)
 
@@ -239,8 +233,6 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/takumi/TAKUMI³_3.57.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/takumi/TAKUMI³_3.57.apk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/takumi/TAKUMI³_3.57.apk)
 
 ## Cytoid
@@ -260,8 +252,6 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/cytoid/cytoid_2.0.2.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/cytoid/cytoid_2.0.2.apk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/cytoid/cytoid_2.0.2.apk)
 
 ## Dynamite
@@ -280,8 +270,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/dynamite/Dynamite.1.0.1.rev10.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/dynamite/Dynamite.1.0.1.rev10.apk)
 
@@ -305,8 +293,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/malody/Malody_Andoid_4.3.7.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/malody/Malody_Andoid_4.3.7.apk)
 
@@ -361,8 +347,6 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/sonolus/Sonolus_0.5.8.apk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/sonolus/Sonolus_0.5.8.apk)
 
 ## BanG Dream! 少女乐团派对！(ガルパ/GBP/~~邦邦~~)
@@ -404,8 +388,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/bandori/jp.co.craftegg.band_5.6.4.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/bandori/jp.co.craftegg.band_5.6.4.apk)
 
@@ -454,11 +436,9 @@
 
 </details>
 
-### 2.5.6 (2021/10/07) 
+### 3.0.0 (2021/10/24) 
 
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/bandori/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
 
@@ -471,8 +451,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.en.d4dj_2.5.3.apk)
 
@@ -524,8 +502,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/es2/es2_1.0.56.xapk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/es2/es2_1.0.56.xapk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/es2/es2_1.0.56.xapk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/es2/es2_1.0.56.xapk)
 
@@ -580,8 +556,6 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/llsif/klb.android.lovelive_9.3.xapk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_9.3.xapk)
 
 ####  **简中服**
@@ -597,8 +571,6 @@
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/llsif/klb.android.lovelive_en_9.3.apk)
 
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/llsif/klb.android.lovelive_en_9.3.apk)
 
@@ -640,17 +612,13 @@
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/pjsekai/com.sega.pjsekai_1.10.3.apk)
-
 [备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/com.sega.pjsekai_1.10.3.apk)
 
 #### **亚服 | 繁中**
 
-### 1.7.3 (2021/09/29)
+### 1.7.3 (2021/10/25)
 
 [三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
-
-[联通电信 | 东京 BBTEC 节点](https://bbtec.rytsu.org:9000/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
 [移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
 
