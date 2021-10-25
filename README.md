@@ -438,11 +438,11 @@
 
 ### 3.0.0 (2021/10/24) 
 
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/d4dj/com.bushiroad.d4dj_3.0.0.xapk)
 
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/d4dj/com.bushiroad.d4dj_3.0.0.xapk)
 
-[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.d4dj_2.5.6.xapk)
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/d4dj/com.bushiroad.d4dj_3.0.0.xapk)
 
 #### **国际服 | 英语**
 
@@ -616,12 +616,12 @@
 
 #### **亚服 | 繁中**
 
-### 1.7.3 (2021/10/25)
+### 1.7.4 (2021/10/25)
 
-[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[三网通用 | 美西 Linode 节点](https://liusw.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.4.apk)
 
-[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[移动最佳 | 香港 CMI 节点](https://hkcmi.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.4.apk)
 
-[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.3.apk)
+[备用线路 | 东京 Linode 节点](https://litokyo.rytsu.org/pjsekai/pjsk_com.hermes.mk.asia_1.7.4.apk)
 
 <!-- tabs:end -->
