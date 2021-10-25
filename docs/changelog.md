@@ -47,7 +47,7 @@
   - D4DJ 日服 → 2.5.6；
   - D4DJ 英文服 → 2.4.5；
   - LLSIF 日服/国际服 → 9.3；
-- 新增[支持与感谢](support)页面；
+- 新增[支持与感谢](sideinfo/support)页面；
 - 页面重新排版；
 - 文本细节打磨。
 
@@ -55,7 +55,7 @@
 
 - 新增游戏：Sonolus；
 - 为了节省侧边栏空间，将~~根本没人看的~~网站条款和政策挪到了导航栏；
-- 新增[桌面端音游专页](desktop)；
+- 新增[桌面端音游专页](games/desktop)；
 - 增加[查看服务器状态](https://status.lowi.ro/status/)入口；
 - 其他一些更新。
 
@@ -66,7 +66,7 @@
 - 新域名：[lowlight.pages.dev](https://lowlight.pages.dev) ；
 - 新增 GitHub repo 快速入口；
 - **新增了站娘！！！由 [Kuriko](https://space.bilibili.com/7847180) 绘制；**
-- Add [donating methods](donate) ；
+- Add [donating methods](sideinfo/donate) ；
 - 其他一些改动。
 
 #### 2021/10/07
@@ -74,7 +74,7 @@
 - 由于新增了域名，本站名义正式更换至 「微光 Lowlight」；
 - 因下载站名义更换，所有政策均有更新；
 - 新增 Phigros 的数个旧版本；
-- 增加[收录规则](inclusion)；
+- 增加[收录规则](policies/inclusion)；
 - 侧边栏排版优化；
 - 技术细节信息优化；
 - 文本瑕疵优化；
@@ -98,9 +98,9 @@
   - Malody（Win/安卓）
   - LLSIF（日/国际/简中）
 - 新增以下文档：
-  - [SAI 教程](sai)
-  - [Apple ID 注册教程](appleid)
-- 新增[转载规范](repost)，同时更新了部分条款；
+  - [SAI 教程](documents/sai)
+  - [Apple ID 注册教程](documents/appleid)
+- 新增[转载规范](policies/repost)，同时更新了部分条款；
 - 新增以下功能和特性：
   - 搜索（位于侧边栏）
   - 友链区域（位于侧边栏）
