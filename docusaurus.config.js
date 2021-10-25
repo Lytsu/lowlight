@@ -10,7 +10,7 @@ const config = {
     tagline: '提供一些音游下载的小站',
     url: 'https://lowi.ro',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     i18n: {
@@ -19,7 +19,6 @@ const config = {
     },
     organizationName: 'Lytsu', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
-    trailingSlash: false,
 
     presets: [
         [
@@ -57,7 +56,7 @@ const config = {
             },
             items: [{
                     type: 'doc',
-                    docId: 'games/games',
+                    docId: 'games',
                     position: 'left',
                     label: 'A Faint Light',
                 },

@@ -12,7 +12,6 @@
 
 - Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a project for building, deploying, and maintaining open source project websites easily.
 - The [server status page](https://status.lowi.ro/status/) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
-- Some of the pages used [Fancybox](https://fancyapps.com/docs/ui/fancybox) to create overlay windows containing images.
 
 ## 赞助者
 

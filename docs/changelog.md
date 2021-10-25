@@ -2,7 +2,24 @@
 
 见证本站历史的地方。
 
-更新日志实际上是对过去一段时间内众多 commits 的总结，更详细的改动记录可以查看 [GitHub 上本项目的 commits](https://github.com/Lytsu/lowlight/commits/main) 。
+更新日志实际上是对过去一段时间内众多 commits 的总结，更详细的改动记录可以查看 [GitHub 上本项目的 commits](https://github.com/Lytsu/lowlight) 。
+
+## 2.x
+
+### 2021 年 10 月
+
+#### 2021/10/25
+
+- 采用  [Docusaurus v2](https://docusaurus.io/zh-CN) 构建了全新的网页！
+
+- 更新游戏：
+
+  - 世界计划 多彩舞台 繁中 1.7.3→1.7.4
+  - D4DJ 日服 2.5.6→3.0.0
+
+-----
+
+<details><summary>1.x Changelog</summary><div>
 
 ## 1.x
 
@@ -47,7 +64,7 @@
   - D4DJ 日服 → 2.5.6；
   - D4DJ 英文服 → 2.4.5；
   - LLSIF 日服/国际服 → 9.3；
-- 新增[支持与感谢](sideinfo/support)页面；
+- 新增支持与感谢页面；
 - 页面重新排版；
 - 文本细节打磨。
 
@@ -55,7 +72,7 @@
 
 - 新增游戏：Sonolus；
 - 为了节省侧边栏空间，将~~根本没人看的~~网站条款和政策挪到了导航栏；
-- 新增[桌面端音游专页](games/desktop)；
+- 新增桌面端音游专页)；
 - 增加[查看服务器状态](https://status.lowi.ro/status/)入口；
 - 其他一些更新。
 
@@ -66,7 +83,6 @@
 - 新域名：[lowlight.pages.dev](https://lowlight.pages.dev) ；
 - 新增 GitHub repo 快速入口；
 - **新增了站娘！！！由 [Kuriko](https://space.bilibili.com/7847180) 绘制；**
-- Add [donating methods](sideinfo/donate) ；
 - 其他一些改动。
 
 #### 2021/10/07
@@ -74,7 +90,7 @@
 - 由于新增了域名，本站名义正式更换至 「微光 Lowlight」；
 - 因下载站名义更换，所有政策均有更新；
 - 新增 Phigros 的数个旧版本；
-- 增加[收录规则](policies/inclusion)；
+- 增加收录规则；
 - 侧边栏排版优化；
 - 技术细节信息优化；
 - 文本瑕疵优化；
@@ -98,9 +114,9 @@
   - Malody（Win/安卓）
   - LLSIF（日/国际/简中）
 - 新增以下文档：
-  - [SAI 教程](documents/sai)
-  - [Apple ID 注册教程](documents/appleid)
-- 新增[转载规范](policies/repost)，同时更新了部分条款；
+  - SAI 教程
+  - Apple ID 注册教程
+- 新增转载规范，同时更新了部分条款；
 - 新增以下功能和特性：
   - 搜索（位于侧边栏）
   - 友链区域（位于侧边栏）
@@ -119,3 +135,6 @@
 #### 2021/09/28
 
 - 加了一台 Linode 机子，由此可以说本站可以正式开始稳定运营了。顺便准备准备明天更新的 Arcaea 。
+
+</div>
+</details>
