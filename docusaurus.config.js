@@ -28,7 +28,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/2.x/website/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/website/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -36,7 +36,7 @@ const config = {
                 /*blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/2.x/website/blog/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/website/blog/',
                 },*/
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -67,7 +67,7 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/Lytsu/lowlight',
                     label: 'GitHub',
                     position: 'right',
                 },
