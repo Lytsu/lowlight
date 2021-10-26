@@ -28,16 +28,25 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
                 },
-                /*blog: {
+                blog: {
+                    path: 'blog',
+                    blogTitle: 'Lowlight 博客',
+                    blogSidebarTitle: '所有文章',
+                    blogSidebarCount: 'ALL',
                     showReadingTime: true,
+                    postsPerPage: 5,
+                    feedOptions: {
+                        type: 'all',
+                        copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC.`,
+                    },
                     // Please change this to your repo.
                     editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/blog/',
-                },*/
+                },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
                 },
@@ -60,7 +69,7 @@ const config = {
                     position: 'left',
                     label: 'A Faint Light',
                 },
-                //{ to: '/blog', label: '博客', position: 'left' },
+                { to: '/blog', label: '博客', position: 'left' },
                 {
                     label: 'Changelog',
                     to: 'changelog',
@@ -143,11 +152,10 @@ const config = {
                 },
                 {
                     title: '关注我们',
-                    items: [
-                        /*{
-                                                    label: '博客',
-                                                    to: '/blog',
-                                                },*/
+                    items: [{
+                            label: '博客',
+                            to: '/blog',
+                        },
                         {
                             label: 'GitHub',
                             href: 'https://github.com/Lytsu/lowlight',
