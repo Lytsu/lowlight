@@ -1,0 +1,127 @@
+---
+title: 微光 Lowlight 2.x 功能更新一览
+authors: [Lytsu]
+tags: [更新, Features]
+image: /img/blog/92309081_p0.jpg
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+我们~~实际上只有我自己~~十分自豪的宣布，我们已经准备好更新到微光 Lowlight 的 2.x 版本！
+
+在实际部署到生产环境供大家使用之前，请允许作为微光 Lowlight 站长的我，对微光 Lowlight 2.x 的新功能和特性进行介绍。如无特殊说明，以下所有预览图都是  `2.0-beta.2` 版本的内容。
+
+![92309081](/img/blog/92309081_p0.jpg)
+
+<!--truncate-->
+
+*头图：由 [苮宇xy_Wang](https://www.pixiv.net/users/30486172) 绘制的 [「群愿（夏）」](https://www.pixiv.net/artworks/92309081) 。感谢原画师的授权！*
+
+## 美观的主页
+
+在把网站主体切换到 [Docusaurus](https://docusaurus.io/zh-CN/) 之后，我们便对原来 Docusaurus 预设的页面进行了大刀阔斧的改造~~边做边学 CSS~~。
+
+我们新增了新的[主页](/)，虽然看起来没什么用，~~实际上也确实没什么用~~，但作为网站的门面，我们还是尽力对首页进行了美化。
+
+<details>
+<summary><b>预览图</b></summary>
+
+<Tabs>
+<TabItem value="desktop" label="🖥️桌面端" default>
+
+🌞：![](https://i.loli.net/2021/10/28/UjuCcXDtKTGaMEA.jpg)
+
+🌜：![](https://i.loli.net/2021/10/28/mEf3F79BjN6QDhs.jpg)
+
+</TabItem>
+<TabItem value="mobile" label="📱移动端">
+
+**长图警告！（真的很长！）**
+
+<details>
+<summary><b>执意打开看看</b></summary>
+
+🌞：![](https://i.loli.net/2021/10/28/brzMIO5QS9tcCan.jpg)
+🌜：![](https://i.loli.net/2021/10/28/v5EeMiwQkmjLgYS.jpg)
+
+</details>
+
+</TabItem>
+</Tabs>
+
+</details>
+
+*注：首页封面使用的两张图片均已标注清楚来源，并向源作者取得了授权。*
+
+## Deep♂Dark♂Mode
+
+之前网站使用的 Docsify 构建工具有一个很大的缺陷就是**缺乏对黑暗模式(Dark Mode)的适配**。在 2.x 版本中，我们新增了黑暗模式，这对于黑暗模式的拥趸(dŭn)者而言无疑是巨大的福音。
+
+您可以在下图所示的位置找到黑暗模式的切换开关。
+
+<details>
+<summary><b>我超，黑！</b></summary>
+
+<Tabs>
+<TabItem value="desktop" label="🖥️桌面端" default>
+
+![](https://i.loli.net/2021/10/28/v3lFGZj5mszaVHP.png)
+
+</TabItem>
+<TabItem value="mobile" label="📱移动端">
+
+![](https://i.loli.net/2021/10/28/2ahgrDZjFO7P4SN.jpg)
+
+</TabItem>
+</Tabs>
+
+</details>
+
+## 博客
+
+[博客](/blog)功能是我最终选择 [Docusaurus](https://docusaurus.io/zh-CN/) 作为 Lowlight 2.x 版本构建工具的重要原因之一。具体原因可以阅读[这篇文章](blog/2021/10/26/hello)。
+
+有了博客，站长终于有地方可以把自己想写的长篇文章自由地放上去了。
+
+博客还支持 Atom Feed 和 RSS Feed，感兴趣的朋友可以订阅看看。
+
+## 其他更新
+
+我在这里列举了些其他对你们可能有帮助的功能更新：
+
+- **侧边栏结构优化：** 1.x 版本因为构建工具限制，只能把所有东西都一股脑的塞进侧边栏，导致侧边栏略显混乱；现在不会出现这种问题了；
+- **更合理的告示块：** 现在有更多种类的告示块了，且支持多段落；
+- **总之就是十分好看：** 想不出什么其他点了，反正比 1.x 版本好看。
+
+## 目前发现的问题
+
+目前的 2.x 版本似乎还是有些小问题的，而这些问题我之后会尝试更新来解决。部分问题受限于构建工具，暂时没有很好的办法处理。
+
+- 部分移动设备在显示标签卡的时候可能会有文字错版问题，如下图： ![](https://i.loli.net/2021/10/28/OjtBlMNTRpEQu2I.png)
+- 不再支持 IE 11 了；~~都 1202 年了，除了部分公家的东西，到底谁还在用 IE~~
+- 换用新的构建工具后提及变得不再那么「轻量」，有时候加载可能不会太快。
+
+如果你在使用时发现了其他问题，欢迎[向我反馈](sideinfo/about#联系方式)。我会尽快进行修复。
+
+## 1.x 版本相关
+
+使用 Docsify 作为构建工具的 Lowlight 1.x 版本，在 2.x 正式部署到主站页面之后，就会结束生命周期，届时用户将无法再直接访问 1.x 版本。
+
+我会对 1.x 版本进行存档，同时打一个名为 1.0-final 的 tag。虽然 1.x 版本在本站可能不会继续使用了，但我仍然认为应该留个合理的存档，保不齐什么时候会再用到呢。毕竟 Docsify 的功能实际上还是很全的。
+
+## 结语
+
+经过大概三天的工作（期间甚至丢失过一次代码，10+ 小时的工作全部泡汤，又花了三小时去修），我成功把 2.x 版本实现了出来。
+
+一部分用户对 1.x 版本的 UI 不甚满意，是我开始做 2.x 版本的主要原因。从原本使用的 Docsify 转移到 Docusaurus，这中间的工作量不亚于从头开始。只有之前留下的一堆 Markdown 是现成的，其他都需要自己去实现。
+
+好在我也收获了些东西，大概总结如下：
+
+- CSS 是个好文明，我的建议是任何人都应该学学 HTML 和 CSS；
+- 之前 [Konmai](https://konmai.cn) 用的 [VuePress](https://v2.vuepress.vuejs.org/zh/) 对我而言是真丁日难用，但有些人也许会喜欢它；
+- [MDN Web 文档](https://developer.mozilla.org/zh-CN/) 是个学习前端技术的好地方，好好看看；
+- 自己造轮子真的是件难事，很幸运能找到一堆现成的项目供我~~照搬~~借鉴；
+- 一定要记住，**无论如何先提交 commit ，再去干 git pull 或者其他什么玩意**，不然就可以像我一样轻松丢掉垒了 10+ 小时的代码。
+
+感谢您对微光 Lowlight 一如既往的支持！

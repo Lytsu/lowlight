@@ -21,7 +21,7 @@ const sidebars = {
         {
             type: 'category',
             label: '站点信息',
-            collapsed: false,
+            collapsed: true,
             items: [
                 'sideinfo/about',
                 'sideinfo/donate',
