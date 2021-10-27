@@ -48,15 +48,15 @@ a.button.button--primary {
 }
 
 .footer {
-    background-color: #1a1a1a;
+    background-color: #262626;
 }
 
 hr {
-    border-color: #0001;
+    border-color: #0002;
     padding: 0 4px;
     border-width: 0.5px;
 }
 
 html[data-theme='dark'] hr {
-    border-color: #404040;
+    border-color: #595959;
 }
