@@ -182,7 +182,7 @@ const config = {
                 },
             ],
             copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC. 使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建。<br>
-            首页封面图 Pixiv ID: <a herf="https://www.pixiv.net/artworks/79558921">79558921</a> / <a herf="https://www.pixiv.net/artworks/82358027">82358027</a> `,
+            首页封面图 Pixiv ID: <a href="https://www.pixiv.net/artworks/79558921">79558921</a> | <a href="https://www.pixiv.net/artworks/82358027">82358027</a> `,
         },
         prism: {
             theme: lightCodeTheme,
