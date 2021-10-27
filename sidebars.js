@@ -20,16 +20,6 @@ const sidebars = {
         "faq",
         {
             type: 'category',
-            label: '指南文档',
-            collapsed: false,
-            items: [
-                'documents/purchase',
-                'documents/sai',
-                'documents/appleid',
-            ],
-        },
-        {
-            type: 'category',
             label: '站点信息',
             collapsed: false,
             items: [
