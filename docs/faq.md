@@ -4,7 +4,7 @@
 
 - **Q: iOS 的游戏能在这里下载么？**
 
-  **A:** 不能。如果您是 iOS 用户，请在 App Store 下载您想下载的游戏。部分游戏在部分地区的 App Store 不可用，有关如何进入 App Store 其他区，[请参考本教程](documents/appleid)。
+  **A:** 不能。如果您是 iOS 用户，请在 App Store 下载您想下载的游戏。部分游戏在部分地区的 App Store 不可用，有关如何进入 App Store 其他区，[请参考本教程](blog/2021/09/30/appleid)。
 
 - **Q: 下载站里的游戏版本没更新怎么办？**
 

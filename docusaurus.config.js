@@ -57,6 +57,13 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+        announcementBar: {
+            id: 'support_us',
+            content: '使用微光 Lowlight 的服务，即代表您已知悉并同意本站的<a href="policies/tos">使用条款</a>和<a href="policies/privacy">隐私政策</a>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            backgroundColor: '#a26ac8',
+            textColor: '#fff',
+            isCloseable: false,
+        },
         navbar: {
             title: '微光 Lowlight',
             logo: {
@@ -71,7 +78,7 @@ const config = {
                 },
                 { to: '/blog', label: '博客', position: 'left' },
                 {
-                    label: 'Changelog',
+                    label: '更新日志',
                     to: 'changelog',
                     position: 'right',
                 },
@@ -81,12 +88,11 @@ const config = {
                     position: 'right',
                 },
                 {
-                    label: 'bilibili',
+                    label: '哔哩哔哩',
                     href: 'https://space.bilibili.com/319171871',
                     position: 'right',
                 }
             ],
-            hideOnScroll: true,
         },
         footer: {
             style: 'dark',
@@ -97,7 +103,7 @@ const config = {
                             href: 'https://status.lowi.ro/status/',
                         },
                         {
-                            label: 'Changelog',
+                            label: '更新日志',
                             to: 'changelog',
                         },
                     ],
@@ -127,6 +133,26 @@ const config = {
                     ]
                 },
                 {
+                    title: '关注我们',
+                    items: [{
+                            label: '博客',
+                            to: '/blog',
+                        },
+                        {
+                            label: 'GitHub',
+                            href: 'https://github.com/Lytsu/lowlight',
+                        },
+                        {
+                            label: '哔哩哔哩',
+                            href: 'https://space.bilibili.com/319171871',
+                        },
+                        {
+                            label: 'Telegram',
+                            href: 'https://t.me/lowi.ro',
+                        },
+                    ],
+                },
+                {
                     title: '友情链接',
                     items: [{
                             label: 'Konmai 音游下载站',
@@ -148,30 +174,15 @@ const config = {
                             label: '空',
                             href: 'https://minasan.xyz',
                         },
-                    ],
-                },
-                {
-                    title: '关注我们',
-                    items: [{
-                            label: '博客',
-                            to: '/blog',
-                        },
                         {
-                            label: 'GitHub',
-                            href: 'https://github.com/Lytsu/lowlight',
-                        },
-                        {
-                            label: 'bilibili',
-                            href: 'https://space.bilibili.com/319171871',
-                        },
-                        {
-                            label: 'Telegram',
-                            href: 'https://t.me/lowi.ro',
-                        },
+                            label: '空白白白白白',
+                            href: 'https://thneden.github.io',
+                        }
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC. 使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建。`,
+            copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC. 使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建。<br>
+            首页封面图 Pixiv ID: <a herf="https://www.pixiv.net/artworks/79558921">79558921</a> / <a herf="https://www.pixiv.net/artworks/82358027">82358027</a> `,
         },
         prism: {
             theme: lightCodeTheme,

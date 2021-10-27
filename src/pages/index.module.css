@@ -4,20 +4,48 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-image: url(/img/bg.jpg);
+    background-position: center 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+    color: white;
 }
 
 @media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+    .heroBanner {
+        background-image: url(/img/bg_mobi.jpg);
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 16rem 0;
+    }
 }
 
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div[class^="announcementBar"] {
+    height: auto;
+}
+
+div[class^="announcementBarContent"] {
+    font-size: 18px;
+    padding: 8px 30px;
+}
+
+div[class^="announcementBarContent"] a {
+    text-decoration: underline;
+    display: inline-block;
+    color: #f5abff !important;
+}
+
+div[class^="announcementBarContent"] a:hover {
+    color: #fff !important;
 }

@@ -34,3 +34,19 @@ html[data-theme='dark'] {
 html[data-theme='dark'] .docusaurus-highlight-code-line {
     background-color: rgba(0, 0, 0, 0.3);
 }
+
+a.button.button--secondary {
+    color: white!important;
+    background-color: #0e1d47;
+    border: none;
+}
+
+a.button.button--primary {
+    color: white!important;
+    background-color: #1748b1;
+    border: none;
+}
+
+.footer {
+    background-color: #1a1a1a;
+}
