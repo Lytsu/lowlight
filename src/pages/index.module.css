@@ -36,7 +36,7 @@ div[class^="announcementBar"] {
 }
 
 div[class^="announcementBarContent"] {
-    font-size: 18px;
+    font-size: 14px;
     padding: 8px 30px;
 }
 
