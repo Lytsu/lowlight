@@ -1,0 +1,20 @@
+- [「提供一些音游下载的小站」](/)
+- [桌面端音游专页](desktop.md)
+- [一些奇怪的东西](secret.md)
+- 一些文档
+  - [站点疑问解答](faq.md)
+  - [快捷充值记忆源点](purchase.md)
+  - [特殊安装包安装教程](sai.md)
+  - [注册其他区 Apple ID](appleid.md)
+- 站点信息
+  - [关于本站](about.md)
+  - [更新日志](changelog.md)
+  - [捐赠与赞助](donate.md)
+  - [支持与感谢](support.md)
+- [查看服务器状态](https://status.lowi.ro/status/)
+- 友情链接
+  - [Konmai 音游下载站](https://616.sb)
+  - [Rsplwe's Blog](https://www.rsplwe.com)
+  - [Karyl 工具箱](https://bilibili.red)
+  - [维咔 ACG 社区](https://vikacg.com)
+
