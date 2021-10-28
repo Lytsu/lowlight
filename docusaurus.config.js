@@ -28,7 +28,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -45,7 +45,7 @@ const config = {
                         copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC.`,
                     },
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/v2/blog/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/blog/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
