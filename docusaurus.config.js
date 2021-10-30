@@ -146,10 +146,6 @@ const config = {
                             label: '哔哩哔哩',
                             href: 'https://space.bilibili.com/319171871',
                         },
-                        {
-                            label: 'Telegram',
-                            href: 'https://t.me/lowi.ro',
-                        },
                     ],
                 },
                 {
@@ -181,7 +177,13 @@ const config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} Intelligence office of Sailoud LLC. 使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建。<br>
+            logo: {
+                alt: 'Lowlight Academy Logo',
+                src: 'img/academy_logo.png',
+                href: 'https://space.bilibili.com/319171871',
+            },
+            copyright: `Copyright © ${new Date().getFullYear()} Lowlight Academy, a proud part of Intelligence office of <a href="https://sailoud.com">Sailoud LLC</a>. <br>
+            本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。<br>
             首页封面图 Pixiv ID: <a href="https://www.pixiv.net/artworks/79558921">79558921</a> | <a href="https://www.pixiv.net/artworks/82358027">82358027</a> `,
         },
         prism: {

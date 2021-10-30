@@ -30,7 +30,7 @@
 
 [bilibili:微光Lowlight](https://space.bilibili.com/319171871) 
 
-[Telegram: @lowi_ro](https://t.me/lowi_ro)
+[QQ群: 582810347](https://jq.qq.com/?_wv=1027&k=WAZFYeVn)
 
 Email: yuk1zuna@outlook.com 
 
