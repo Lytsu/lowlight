@@ -23,9 +23,9 @@ const sidebars = {
             label: '站点信息',
             collapsed: true,
             items: [
-                'sideinfo/about',
-                'sideinfo/donate',
-                'sideinfo/support',
+                'info/about',
+                'info/donate',
+                'info/support',
             ],
         },
         "changelog",
