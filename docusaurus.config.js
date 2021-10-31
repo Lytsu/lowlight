@@ -19,7 +19,66 @@ const config = {
     },
     organizationName: 'Lytsu', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
-
+    plugins: [
+        [
+            '@docusaurus/plugin-pwa',
+            {
+                debug: true,
+                offlineModeActivationStrategies: [
+                    'appInstalled',
+                    'standalone',
+                    'queryString',
+                ],
+                pwaHead: [{
+                        tagName: 'link',
+                        rel: 'icon',
+                        href: '/img/icons/icon-512x512.png',
+                    },
+                    {
+                        tagName: 'link',
+                        rel: 'manifest',
+                        href: '/manifest.json',
+                    },
+                    {
+                        tagName: 'meta',
+                        name: 'theme-color',
+                        content: '#8e4bbc',
+                    },
+                    {
+                        tagName: 'meta',
+                        name: 'apple-mobile-web-app-capable',
+                        content: 'yes',
+                    },
+                    {
+                        tagName: 'meta',
+                        name: 'apple-mobile-web-app-status-bar-style',
+                        content: '#000',
+                    },
+                    {
+                        tagName: 'link',
+                        rel: 'apple-touch-icon',
+                        href: '/img/icons/icon-512x512.png',
+                    },
+                    {
+                        tagName: 'link',
+                        rel: 'mask-icon',
+                        href: '/img/lowlight_maid.svg',
+                        color: '#8e4bbc',
+                    },
+                    {
+                        tagName: 'meta',
+                        name: 'msapplication-TileImage',
+                        content: '/img/icons/icon-512x512.png',
+                    },
+                    {
+                        tagName: 'meta',
+                        name: 'msapplication-TileColor',
+                        content: '#000',
+                    },
+                ],
+            },
+        ],
+    ],
     presets: [
         [
             '@docusaurus/preset-classic',
