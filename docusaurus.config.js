@@ -249,6 +249,10 @@ const config = {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
         },
+        gtag: {
+            trackingID: 'G-8T8LT5XQ63',
+            anonymizeIP: true,
+        },
     }),
 };
 
