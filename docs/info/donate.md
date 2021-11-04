@@ -26,25 +26,13 @@ If you find my work valuable, and would like to encourage the development of the
 
 由于本站收入比较杂乱，因此只公布支出事宜。
 
-### 本站已支持的项目
-
-没打勾的项目，代表未来有捐赠这个项目的计划。
-
-您也可以点击对应的链接进行捐赠。
-
-- [x] [Pigeon Games - Rizline](https://afdian.net/@pigeongames)
-- [x] [Sekai Viewer | 爱发电](https://afdian.net/@sekaiviewer)
-- [x] [Sekai Viewer | Patreon](https://www.patreon.com/SekaiViewer)
-- [ ] [Burrito - Sonolus](https://afdian.net/@Sonolus)
-- [ ] [TunerGames - Dynamite & Paradigm](https://afdian.net/@TunerGames)
-- [ ] [ReiKohaku - Sonolus Tools](https://afdian.net/@ReiKohaku)
-
 ### 服务支撑开销
 
 #### 服务器
 
 - Linode - Fremont | US$10/mo
 - Linode - Tokyo | US$10/mo
+- DigitalOcean - San Francisco | US$10/mo
 - Hong Kong CMI | US$50/yr
 
 #### 域名
@@ -52,3 +40,7 @@ If you find my work valuable, and would like to encourage the development of the
 - nhe.lv | US$12.25/yr
 - lowi.ro | US$9.69/yr
 - sega.sbs | US$7.52/yr
+
+### Project Delight
+
+参见[Lowlight Delight](/blog/2021/10/30/about-delight)。
