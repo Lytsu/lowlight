@@ -156,18 +156,6 @@ const config = {
         footer: {
             style: 'dark',
             links: [{
-                    title: '站点信息',
-                    items: [{
-                            label: '服务器状态',
-                            href: 'https://status.lowi.ro/status/',
-                        },
-                        {
-                            label: '更新日志',
-                            to: 'changelog',
-                        },
-                    ],
-                },
-                {
                     title: '网站政策',
                     items: [{
                             label: '使用条款',
@@ -190,6 +178,23 @@ const config = {
                             to: 'policies/inclusion',
                         },
                     ]
+                },
+                {
+                    title: '站点相关',
+                    items: [{
+                            label: '服务器状态',
+                            href: 'https://status.lowi.ro/status/',
+                        },
+                        {
+                            label: '更新日志',
+                            to: 'changelog',
+                        },
+                        {
+                            html: `
+                            <a href="blog/2021/10/30/about-delight" target="_blank"><img src="https://i.loli.net/2021/11/06/WxgVckqR3Je5BHt.png" alt="academy_logo.png" style="zoom:66%;"></a>
+                            `
+                        },
+                    ],
                 },
                 {
                     title: '关注我们',
@@ -232,14 +237,14 @@ const config = {
                         {
                             label: '空白白白白白',
                             href: 'https://thneden.github.io',
-                        }
+                        },
                     ],
                 },
             ],
             logo: {
-                alt: 'Lowlight Academy Logo',
-                src: 'img/academy_logo.png',
-                href: 'https://space.bilibili.com/319171871',
+                alt: 'Lowlight Delight Logo',
+                src: 'img/delight_logo.png',
+                href: 'blog/2021/10/30/about-delight',
             },
             copyright: `Copyright © ${new Date().getFullYear()} Lowlight Academy, a proud part of Intelligence office of <a href="https://sailoud.com">Sailoud LLC</a>. <br>
             本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。<br>
