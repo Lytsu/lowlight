@@ -118,7 +118,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '使用微光 Lowlight 的服务，即代表您已知悉并同意本站的<a href="policies/tos">使用条款</a>和<a href="policies/privacy">隐私政策</a>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '自 11 月 8 日起，访问 616.sb 和 www.616.sb 将会跳转至本站，<a href="https://t.bilibili.com/590635346978932941">查看详情</a>。您仍然可以通过访问 <a href="https://konmai.cn">konmai.cn</a> 进入 Konmai 音游下载站。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
@@ -246,7 +246,8 @@ const config = {
                 src: 'img/delight_logo.png',
                 href: 'blog/2021/10/30/about-delight',
             },
-            copyright: `Copyright © ${new Date().getFullYear()} Lowlight Academy, a proud part of Intelligence office of <a href="https://sailoud.com">Sailoud LLC</a>. <br>
+            copyright: `Copyright © ${new Date().getFullYear()} Lowlight Operating Team.<br>
+            Lowlight Operating Team (LOT) is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
             本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。<br>
             首页封面图 Pixiv ID: <a href="https://www.pixiv.net/artworks/79558921">79558921</a> | <a href="https://www.pixiv.net/artworks/82358027">82358027</a> `,
         },
