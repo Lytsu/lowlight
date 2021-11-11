@@ -43,6 +43,10 @@ Email: yuk1zuna@outlook.com
 - [sega.sbs](https://sega.sbs)
 - [arcaea.me](https://arcaea.me)
 
+### Held by Maverick
+
+- [616.sb](https://616.sb)
+
 ### CloudFlare Pages
 
 - [lowlight.pages.dev](https://lowlight.pages.dev)
@@ -54,7 +58,7 @@ Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a p
 
 This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/lowlight](https://github.com/Lytsu/lowlight). 
 
-This site hosted on [Github Pages](https://pages.github.com/) and [Cloudflare Pages](https://pages.cloudflare.com/).
+This site hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 [Rsplwe](https://github.com/Rsplwe) and [Forte.EXE](https://github.com/ForteEXE) made a huge contribution to this project.
 
