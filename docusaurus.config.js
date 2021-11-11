@@ -189,11 +189,6 @@ const config = {
                             label: '更新日志',
                             to: 'changelog',
                         },
-                        {
-                            html: `
-                            <a href="blog/2021/10/30/about-delight" target="_blank"><img src="https://i.loli.net/2021/11/06/WxgVckqR3Je5BHt.png" alt="academy_logo.png" style="zoom:66%;"></a>
-                            `
-                        },
                     ],
                 },
                 {
