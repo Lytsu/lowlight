@@ -49,6 +49,7 @@ $ GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
 访问以下域名中的一个，即可进入本站：
 
 - [lowi.ro](https://lowi.ro/)
+- [616.sb](https://616.sb/)
 - [nhe.lv](https://nhe.lv/)
 - [sega.sbs](https://sega.sbs/)
 - [arcaea.me](https://arcaea.me/)
