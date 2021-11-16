@@ -42,6 +42,7 @@ Email: yuk1zuna@outlook.com
 - [nhe.lv](https://nhe.lv)
 - [sega.sbs](https://sega.sbs)
 - [arcaea.me](https://arcaea.me)
+- [lowlight.net](https://lowlight.net)
 
 ### Held by Maverick
 
