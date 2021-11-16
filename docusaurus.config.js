@@ -118,7 +118,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '自 11 月 8 日起，访问 616.sb 和 www.616.sb 将会跳转至本站，<a href="https://t.bilibili.com/590635346978932941">查看详情</a>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '为符合中国大陆地区的法律法规，本站的<a href="policies/tos">用户条款</a>和<a href="policies/privacy">隐私政策</a>已于 11 月 16 日更新。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,

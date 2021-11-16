@@ -38,11 +38,11 @@ Email: yuk1zuna@outlook.com
 
 ### Held by Rytsu
 
-- [lowi.ro](https://lowi.ro)
+- **[lowlight.net](https://lowlight.net)**
+- **[lowi.ro](https://lowi.ro)**
 - [nhe.lv](https://nhe.lv)
 - [sega.sbs](https://sega.sbs)
 - [arcaea.me](https://arcaea.me)
-- [lowlight.net](https://lowlight.net)
 
 ### Held by Maverick
 
