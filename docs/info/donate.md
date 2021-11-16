@@ -4,12 +4,10 @@ If you find my work valuable, and would like to encourage the development of the
 
 ## 捐赠方式
 
-- 加密货币捐赠：
-
 <details>
-<summary><b>点击查看</b></summary>
+<summary><b>加密货币捐赠</b></summary>
 
-- ETH (USDT-ERC20): 
+- ETH: 
 
   `0x620FC0D815DE319c17aF6b3B9Cf7db8d217926C1`
 
@@ -17,15 +15,13 @@ If you find my work valuable, and would like to encourage the development of the
 
   `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
   
-- TRX (USDT-TRC20):
+- TRX:
 
   `TY5oXjM3GcxhmR8TZJvBEP5DcbW6nfZbyc`
 
 </details>
 
-- [爱发电](https://afdian.net/@toyamaworks)
-
-- [Patreon](https://www.patreon.com/lowlight_delight)
+[爱发电（支付宝、微信）](https://afdian.net/@toyamaworks) | [Patreon（PayPal、信用卡）](https://www.patreon.com/lowlight_delight)
 
 ## 钱款去向
 
@@ -51,6 +47,7 @@ If you find my work valuable, and would like to encourage the development of the
 - nhe.lv | US$12.25/yr
 - lowi.ro | US$9.69/yr
 - sega.sbs | US$7.52/yr
+- lowlight.net | US$9.69/yr
 
 ### Project Delight
 
