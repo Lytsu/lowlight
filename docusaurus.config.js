@@ -183,7 +183,7 @@ const config = {
                     title: '站点相关',
                     items: [{
                             label: '服务器状态',
-                            href: 'https://status.lowi.ro/status/',
+                            href: 'https://stat.lowi.ro',
                         },
                         {
                             label: '更新日志',
