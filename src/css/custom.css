@@ -60,3 +60,18 @@ hr {
 html[data-theme='dark'] hr {
     border-color: #595959;
 }
+
+
+/* 网页黑白*/
+
+
+/* html,
+body {
+    filter: progid: DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+} */

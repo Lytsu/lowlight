@@ -118,7 +118,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '为符合中国大陆地区的法律法规，本站的<a href="policies/tos">用户条款</a>和<a href="policies/privacy">隐私政策</a>已于 11 月 16 日更新。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '下载站准备了多个下载节点，如果您无法下载或觉得下载速度较慢，可以先尝试<b>更换下载节点</b>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
@@ -136,6 +136,11 @@ const config = {
                     label: 'A Faint Light',
                 },
                 { to: '/blog', label: '博客', position: 'left' },
+                {
+                    label: '站点导航',
+                    to: 'nav',
+                    position: 'right',
+                },
                 {
                     label: '更新日志',
                     to: 'changelog',
@@ -218,11 +223,11 @@ const config = {
                             href: 'https://www.rsplwe.com',
                         },
                         {
-                            label: 'VicACG Community',
+                            label: 'VikACG Community',
                             href: 'https://vikacg.com',
                         },
                         {
-                            label: 'Karyl 工具箱',
+                            label: '哔哩哔哩工具箱',
                             href: 'https://bilibili.red',
                         },
                         {
