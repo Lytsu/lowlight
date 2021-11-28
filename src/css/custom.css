@@ -37,19 +37,22 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 a.button.button--secondary {
     color: white!important;
-    background-color: #0e1d47;
+    background-color: rgba(0, 0, 0, 0.3);
     border: none;
 }
 
 a.button.button--primary {
     color: white!important;
-    background-color: #1748b1;
+    background-color: rgba(0, 0, 0, 0.3);
     border: none;
 }
 
 .footer {
     background-color: #262626;
 }
+
+
+/* 分割线样式 */
 
 hr {
     border-color: #0002;
@@ -62,7 +65,7 @@ html[data-theme='dark'] hr {
 }
 
 
-/* 网页黑白*/
+/* 特殊时期时网页黑白 */
 
 
 /* html,

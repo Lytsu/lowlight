@@ -3,11 +3,28 @@
  * and scoped locally.
  */
 
+
+/* Banner 样式 */
+
 .heroBanner {
     text-align: center;
+    text-shadow: 2px 2px 2px #666;
     position: relative;
     overflow: hidden;
-    background-image: url(/img/bg.jpg);
+    background-image: url(/img/bg_light.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+    color: white;
+}
+
+html[data-theme='dark'] .heroBanner {
+    text-align: center;
+    text-shadow: 2px 2px 2px #666;
+    position: relative;
+    overflow: hidden;
+    background-image: url(/img/bg_dark.jpg);
     background-position: center 10%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,9 +32,18 @@
     color: white;
 }
 
-@media screen and (max-width: 966px) {
+@media screen and (max-width: 600px) {
     .heroBanner {
-        background-image: url(/img/bg_mobi.jpg);
+        text-shadow: 2px 2px 2px #666;
+        background-image: url(/img/bg_light_mobi.jpg);
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 16rem 0;
+    }
+    html[data-theme='dark'] .heroBanner {
+        text-shadow: 2px 2px 2px #666;
+        background-image: url(/img/bg_dark_mobi.jpg);
         background-position: 50%;
         background-repeat: no-repeat;
         background-size: cover;
@@ -30,6 +56,9 @@
     align-items: center;
     justify-content: center;
 }
+
+
+/* 顶部通知条样式 */
 
 div[class^="announcementBar"] {
     height: auto;

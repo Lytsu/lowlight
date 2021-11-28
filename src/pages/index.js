@@ -16,7 +16,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="games">
-            前往下载游戏
+            开始下载游戏
           </Link>
         </div>
       </div>
