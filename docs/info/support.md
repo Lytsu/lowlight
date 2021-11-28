@@ -11,10 +11,7 @@
 
 - [Kuriko](https://space.bilibili.com/7847180) ：站点任务形象绘制。
 
-## 开源项目支持
-
-- Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a project for building, deploying, and maintaining open source project websites easily.
-- The [server status page](https://status.lowi.ro/status/) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
+-----
 
 ## 赞助者
 

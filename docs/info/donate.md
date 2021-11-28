@@ -33,6 +33,8 @@ If you find my work valuable, and would like to encourage the development of the
 
 支持很多网课平台，部分平台的价格如下（**没列出来的平台不代表不能刷，可以直接问我**）：
 
+不保证价格一成不变，**可能会因为外界因素（比如：其他卖课的涨价、服务器流量涨价等）调整价格**。但我会严格控制价格在大家可接受的范围内。
+
 |      平台名称       |                            描述                            | 单价/门  |
 | :-----------------: | :--------------------------------------------------------: | :------: |
 |   学习通（秒刷）    |   包章节任务、测验、考试；**不包学习次数，不包观看时长**   |  ￥2.00  |
@@ -45,7 +47,7 @@ If you find my work valuable, and would like to encourage the development of the
 |        Utalk        |               **半天左右完成**，包时长、作业               |  ￥7.00  |
 |      智慧职教       |                  包课件、测验、作业、考试                  |  ￥3.00  |
 
-可以通过以下方式联系我：
+可以通过以下方式联系我（**不需要加好友，临时会话即可，**）：
 
 <a target="_blank" href="http://sighttp.qq.com/authd?IDKEY=a83f64fcbb186c6e48ffed15f19011313ede1a8770423404"><img border="0"  src="http://wpa.qq.com/imgd?IDKEY=a83f64fcbb186c6e48ffed15f19011313ede1a8770423404&pic=51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>（1136894425）
 

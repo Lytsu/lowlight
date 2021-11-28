@@ -135,11 +135,15 @@ const config = {
                     position: 'left',
                     label: 'A Faint Light',
                 },
-                { to: '/blog', label: '博客', position: 'left' },
                 {
                     label: '站点导航',
                     to: 'nav',
-                    position: 'right',
+                    position: 'left',
+                },
+                {
+                    to: '/blog',
+                    label: '博客',
+                    position: 'left'
                 },
                 {
                     label: '更新日志',
@@ -182,6 +186,10 @@ const config = {
                             label: '游戏收录标准',
                             to: 'policies/inclusion',
                         },
+                        {
+                            label: '资源使用许可证明',
+                            to: 'policies/licenses',
+                        },
                     ]
                 },
                 {
@@ -193,6 +201,10 @@ const config = {
                         {
                             label: '更新日志',
                             to: 'changelog',
+                        },
+                        {
+                            label: '捐赠支持',
+                            to: 'info/donate',
                         },
                     ],
                 },
@@ -248,8 +260,7 @@ const config = {
             },
             copyright: `Copyright © ${new Date().getFullYear()} Lowlight Operating Team (LOT).<br>
             LOT is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
-            本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。<br>
-            首页封面图已获得作者使用许可。Pixiv PID: <a href="https://www.pixiv.net/artworks/79558921">79558921</a> | <a href="https://www.pixiv.net/artworks/82358027">82358027</a> `,
+            本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。`,
         },
         prism: {
             theme: lightCodeTheme,
