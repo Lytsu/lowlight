@@ -104,7 +104,7 @@ const config = {
                         copyright: `Copyright © ${new Date().getFullYear()} LOT.`,
                     },
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/blog/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
