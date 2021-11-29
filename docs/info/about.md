@@ -20,7 +20,7 @@
 
 ## 运营与控制
 
-微光 Lowlight 下载站由来自 [Sailoud LLC](https://sailoud.com/) 智慧办公组的 Lowlight 运营团队（Lowlight Operating Team, LOT）维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、日本国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
+微光 Lowlight 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组中的 Lowlight 运营团队（Lowlight Operating Team, LOT）维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、日本国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
 
 ## 联系方式
 
@@ -30,7 +30,7 @@
 
 Email: yuk1zuna@outlook.com 
 
-## Domains
+## 域名列表
 
 ### Held by Rytsu
 
@@ -42,20 +42,9 @@ Email: yuk1zuna@outlook.com
 
 ### Held by Maverick
 
-- [616.sb](https://616.sb)
+- **[616.sb](https://616.sb)**
 
 ### CloudFlare Pages
 
 - [lowlight.pages.dev](https://lowlight.pages.dev)
-
-
-## Technical Details
-
-Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a project for building, deploying, and maintaining open source project websites easily.
-
-This project is maintained by [Lytsu](https://github.com/Lytsu), you can view the project on [Lytsu/lowlight](https://github.com/Lytsu/lowlight). 
-
-This site hosted on [Cloudflare Pages](https://pages.cloudflare.com/).
-
-[Rsplwe](https://github.com/Rsplwe) and [Forte.EXE](https://github.com/ForteEXE) made a huge contribution to this project.
 

@@ -15,11 +15,6 @@
 - Pixiv PID: [79558921](https://www.pixiv.net/artworks/79558921) - by [0end_R](https://www.pixiv.net/users/39099818)
 - Pixiv PID: [82358027](https://www.pixiv.net/artworks/82358027) - by [苮宇xy_Wang](https://www.pixiv.net/users/30486172)
 - Pixiv PID: [92056267](https://www.pixiv.net/artworks/92056267) - by [苮宇xy_Wang](https://www.pixiv.net/users/30486172)
-
-以下首页 Banner 使用的背景图片，正在征求原作者的非商业使用授权；
-
-在未征得授权前，本站仅将该图片用作测试和学习使用，若原作者不同意或认定为侵权，我们将删除侵权素材。
-
 - Pixiv PID: [92308235](https://www.pixiv.net/artworks/92308235) - by [tsubaki](https://www.pixiv.net/users/7879226)
 
 ## 开源项目使用
