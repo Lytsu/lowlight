@@ -37,13 +37,13 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 a.button.button--secondary {
     color: white!important;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.45);
     border: none;
 }
 
 a.button.button--primary {
     color: white!important;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.45);
     border: none;
 }
 
