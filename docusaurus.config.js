@@ -20,7 +20,7 @@ const config = {
     organizationName: 'Lytsu', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
     plugins: [
-        'docusaurus-plugin-google-adsense', [
+        [
             '@docusaurus/plugin-pwa',
             {
                 debug: true,
@@ -269,9 +269,6 @@ const config = {
         gtag: {
             trackingID: 'G-8T8LT5XQ63',
             anonymizeIP: true,
-        },
-        googleAdsense: {
-            dataAdClient: "ca-pub-2168690627594564",
         },
     }),
 };
