@@ -151,6 +151,11 @@ const config = {
                     position: 'right',
                 },
                 {
+                    label: '捐赠与支持',
+                    to: '/info/donate',
+                    position: 'right',
+                },
+                {
                     href: 'https://github.com/Lytsu/lowlight',
                     label: 'GitHub',
                     position: 'right',
