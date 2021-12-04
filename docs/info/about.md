@@ -30,6 +30,8 @@
 
 Email: yuk1zuna@outlook.com 
 
+恰饭/商务合作/其他事务，请加好友： [QQ: 1136892211](tencent://message/?uin=1136892211)
+
 ## 域名列表
 
 ### Held by Rytsu
