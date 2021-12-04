@@ -72,6 +72,6 @@
 
 ## 联系方式
 
-可以通过以下方式联系我：
+可以通过以下方式联系我（点击即可展开临时会话）：
 
-<a target="_blank" href="http://sighttp.qq.com/authd?IDKEY=a83f64fcbb186c6e48ffed15f19011313ede1a8770423404"><img border="0"  src="http://wpa.qq.com/imgd?IDKEY=a83f64fcbb186c6e48ffed15f19011313ede1a8770423404&pic=51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>（1136894425）
+QQ: [1136892211](tencent://message/?uin=1136894425)
