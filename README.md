@@ -17,21 +17,21 @@ Lowlight 1.x 已经不再在生产环境进行部署，但您仍然可以在 [Re
 ### 安装
 
 ```
-$ yarn
+yarn
 ```
 
 ### 本地开发
 
 ```
-$ yarn start
+yarn start
 ```
 
-这条命令会启动一个用于开发的本地服务器，并打开一个浏览器窗口。大多数变化都是实时反映在窗口上的，除非遇到问题，您不需要重新启动这个本地服务器。
+这条命令会启动一个用于开发的本地服务器，并打开一个浏览器窗口。大多数变化都是实时反映在页面上的，除非遇到问题，您不需要重启这个本地服务器。
 
 ### 构建
 
 ```
-$ yarn build
+yarn build
 ```
 
 这条命令会在 `build` 目录生成静态内容， 你可以使用任何静态内容托管服务（如 [Vercel](https://vercel.com/)、[GitHub Pages](https://pages.github.com/)、[Netlify](https://www.netlify.com/)、[Render](https://render.com/docs/static-sites) 及 [Surge](https://surge.sh/help/getting-started-with-surge) 等）来部署这些内容。
@@ -48,10 +48,10 @@ $ GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
 
 访问以下域名中的一个，即可进入本站：
 
-- [lowi.ro](https://lowi.ro/)
-- [616.sb](https://616.sb/)
+- **[lowi.ro](https://lowi.ro/)**
+- **[616.sb](https://616.sb/)**
+- **[lowlight.net](https://lowlight.net)**
 - [nhe.lv](https://nhe.lv/)
-- [sega.sbs](https://sega.sbs/)
 - [arcaea.me](https://arcaea.me/)
 
 ## 联系我们
