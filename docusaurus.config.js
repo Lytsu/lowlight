@@ -118,7 +118,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '我们对下载节点进行了合并，以提升体验并维护版面的整洁度，<a href="https://b23.tv/p8iXkcq">查看详情</a>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
