@@ -118,7 +118,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '我们对下载节点进行了合并，以提升体验并维护版面的整洁度，<a href="https://t.bilibili.com/602631736093177440">查看详情</a>。<br>本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
@@ -245,7 +245,7 @@ const config = {
                         },
                         {
                             label: '哔哩哔哩工具箱',
-                            href: 'https://bilibili.red',
+                            href: 'https://tool.rsplwe.com',
                         },
                         {
                             label: '空',
@@ -263,8 +263,8 @@ const config = {
                 src: 'img/delight_logo.png',
                 href: 'blog/2021/10/30/about-delight',
             },
-            copyright: `Copyright © ${new Date().getFullYear()} Lowlight Operating Team (LOT).<br>
-            LOT is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
+            copyright: `Copyright © ${new Date().getFullYear()} Team Lowlight.<br>
+            Lowlight is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
             本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。`,
         },
         prism: {
