@@ -52,6 +52,24 @@ a.button.button--primary {
 }
 
 
+/* 下载按钮样式 */
+
+.buttonDownload {
+    height: 46px;
+    padding: 10px 24px;
+    color: #8E4BBC;
+    font-size: 16px;
+    line-height: 46px;
+    border: 1px solid #8E4BBC;
+    border-radius: 6px;
+}
+
+.buttonDownload:hover {
+    background: #eee4f5;
+    color: #8e4bbc;
+}
+
+
 /* 分割线样式 */
 
 hr {
@@ -67,8 +85,7 @@ html[data-theme='dark'] hr {
 
 /* 特殊时期时网页黑白 */
 
-
-/* html,
+html,
 body {
     filter: progid: DXImageTransform.Microsoft.BasicImage(grayscale=1);
     -webkit-filter: grayscale(100%);
@@ -77,4 +94,4 @@ body {
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
     filter: gray;
-} */
+}
