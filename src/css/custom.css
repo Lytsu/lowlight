@@ -64,9 +64,19 @@ a.button.button--primary {
     border-radius: 6px;
 }
 
+html[data-theme='dark'] .buttonDownload {
+    color: #b990db;
+    border-color: #b990db;
+}
+
 .buttonDownload:hover {
     background: #eee4f5;
     color: #8e4bbc;
+}
+
+html[data-theme='dark'] .buttonDownload:hover {
+    background: #261237;
+    color: #b990db;
 }
 
 
@@ -85,7 +95,8 @@ html[data-theme='dark'] hr {
 
 /* 特殊时期时网页黑白 */
 
-html,
+
+/* html,
 body {
     filter: progid: DXImageTransform.Microsoft.BasicImage(grayscale=1);
     -webkit-filter: grayscale(100%);
@@ -94,4 +105,4 @@ body {
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
     filter: gray;
-}
+} */
