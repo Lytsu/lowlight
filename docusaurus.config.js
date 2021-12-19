@@ -136,11 +136,6 @@ const config = {
                     label: 'A Faint Light',
                 },
                 {
-                    label: '站点导航',
-                    to: 'nav',
-                    position: 'left',
-                },
-                {
                     to: '/blog',
                     label: '博客',
                     position: 'left'

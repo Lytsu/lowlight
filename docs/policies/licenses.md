@@ -21,3 +21,7 @@
 
 - Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a project for building, deploying, and maintaining open source project websites easily.
 - The [server status page](https://status.lowi.ro/status/) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
+
+## 域名使用授权
+
+本站在 Maverick Long / 马尾理科 示意下，授权取得 [616.sb](https://616.sb) 及 www.616.sb 域名的**部分使用权**，用于展开业务活动。Maverick 实际持有本域名，并有权利随时收回本站的使用权，而不需事先经由本站许可。
