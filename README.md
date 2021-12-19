@@ -1,28 +1,30 @@
-# 微光 Lowlight 下载站
+# Lowlight - 音乐节奏游戏下载站
 
 Lowlight 是一个提供音乐节奏游戏下载的下载站，为部分不便于下载游戏的玩家提供游戏的下载服务。
 
+此项目为 Lowlight 的前端部分，后端部分由于原理简单，不再单独建立项目。
+
 ## 版本更迭
 
-Lowlight 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，您可以前往其官网查看详情。
+Lowlight 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus.io/) 构建，使用 React 实现，您可以前往其网站和项目首页查看详情。
 
-Lowlight 1.x 已经不再在生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码并对其进行研究。
+Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](https://docsify.js.org) 构建，使用 Vue 实现；1.x 版本已不再在现今的生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码，并对其进行研究。
 
-## 如何使用
+## 如何安装使用
 
-下载本项目源码后，在源码所在的文件夹打开命令行并进行操作。建议事先查看 [Docusaurus 文档](https://docusaurus.io/zh-CN/docs/) 了解如何使用。
+建议事先查看 [Docusaurus 文档](https://docusaurus.io/zh-CN/docs/) 来了解如何使用。
 
-需要以下依赖：[Node.js](https://nodejs.org/en/download/) 版本 >= 14、[Yarn](https://yarnpkg.com/en/) 版本 >= 1.5。
+需要：[Node.js](https://nodejs.org/en/download/) 版本 >= 14、[Yarn](https://yarnpkg.com/en/) 版本 >= 1.5。
 
 ### 安装
 
-```
+```bash
 yarn
 ```
 
 ### 本地开发
 
-```
+```bash
 yarn start
 ```
 
@@ -30,7 +32,7 @@ yarn start
 
 ### 构建
 
-```
+```bash
 yarn build
 ```
 
@@ -38,8 +40,8 @@ yarn build
 
 ### 部署
 
-```
-$ GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
+```bash
+GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
 ```
 
 如果你需要使用 GitHub Pages 托管你的网页，这条命令可以方便地构建你的网站，并将内容推送到 `gh-pages` 分支。
