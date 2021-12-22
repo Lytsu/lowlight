@@ -21,7 +21,7 @@ image: /img/blog/delight_cover.png
 
 这里的第三点也就是这次的新企划 「Lowlight Delight」要做的。
 
-Lowlight Delight 相当于**提供一个帮助平台**，供各位对该页面上收录的**音游相关项目**进行快捷捐赠；当然您也可以直接捐赠给本站，我们也会从自己的收入中抽出一部分捐赠给这些项目。如果您是项目的开发者，也可以申请在这里收录捐赠通道或直接向本站寻求帮助。
+Lowlight Delight 相当于**提供一个帮助平台**，供各位对该页面上收录的**音游相关项目**进行快捷捐赠；当然您也可以直接捐赠给本站，我们也会从自己的收入中抽出一部分捐赠给这些项目。
 
 ## 出发点？
 
@@ -35,25 +35,31 @@ Lowlight Delight 相当于**提供一个帮助平台**，供各位对该页面�
 
 本列表随时有可能更新。没打勾的项目，代表未来有捐赠这个项目的计划。您可以点击对应的链接进行捐赠。
 
--  ~~[Lowlight - Lowlight Academy](https://afdian.net/@toyamaworks)~~ 自己的项目算个屁捐赠
 -  [Pigeon Games - Rizline](https://afdian.net/@pigeongames)
--  [Sekai Viewer | 爱发电](https://afdian.net/@sekaiviewer)
+-  [Sekai Viewer](https://afdian.net/@sekaiviewer)
 -  [Sekai Viewer | Patreon](https://www.patreon.com/SekaiViewer)
 -  [Burrito - Sonolus](https://afdian.net/@Sonolus)
 -  [TunerGames - Dynamite & Paradigm](https://afdian.net/@TunerGames)
 -  [ReiKohaku - Sonolus Tools](https://afdian.net/@ReiKohaku)
+-  [TigerHix - Cytoid | Patreon](https://www.patreon.com/tigerhix)
+-  [Burrito - Bestdori | Patreon](https://www.patreon.com/Bestdori)
+
+### 捐赠信息存档
+
+<details>
+<summary><b>点击展开</b></summary>
+
+![image-20211221231429625](https://s2.loli.net/2021/12/21/zg1WjOIe4C3maNQ.png)
+
+![image-20211221231658356](https://s2.loli.net/2021/12/21/4sRY6fGqNwjavHV.png)
+
+</details>
 
 ## 怎么做？
-
-### 如果您是一般路过群众
 
 直接向上面列表上的项目捐赠即可。
 
 您也可以帮助我们完善此列表！直接告诉我们你想要在此页面收录的创作者即可，请前往[联络方式](/info/about#联系方式)。
-
-### 如果您是音游相关项目创作者
-
-如果您需要在本页面收录您的音游相关项目，请发邮件至 yuk1zuna@outlook.com 。在核验您的项目具备资格后，我们将会为您提供一定的帮助，包括但不限于技术支持和资金援助等。
 
 ## 须知
 
