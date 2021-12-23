@@ -12,15 +12,19 @@
 
 由于不可明说的原因，使用的并不是境内服务器，如果下载不稳定，还请多担待。
 
-⠀
+***2021/10/7***
 
-**Rytsu**
+-----
 
-**2021 年 10 月 7 日**
+你好，我是微光 Lowlight 下载站的站长梨梓。
 
-## 运营与控制
+感谢您还能继续支持本站。三个月的时间发生了很多，而现在本站也成了新的 616.sb。
 
-微光 Lowlight 下载站由 [Sailoud LLC](https://sailoud.com/) 智慧办公组中的 Lowlight 运营团队（Lowlight Operating Team, LOT）维护运营，其实体在马来西亚联邦、新加坡共和国和中华人民共和国香港特别行政区境内。同时，本站通过新加坡共和国、日本国、中国台湾、马来西亚联邦和美利坚合众国境内的设施提供和控制服务。
+时至今日，Lowlight 已经拥有了数量相当可观的用户群~~（虽然我觉得更多是先发优势及引流）~~，现今每个月的流量支出也十分可观。
+
+让所有人更方便的体验到游戏的乐趣是本站的目标之一。马上就到 2022 年了，一起加油。
+
+***2021/12/23***
 
 ## 联系方式
 
@@ -39,8 +43,6 @@ Email: yuk1zuna@outlook.com
 - **[lowlight.net](https://lowlight.net)**
 - **[lowi.ro](https://lowi.ro)**
 - [nhe.lv](https://nhe.lv)
-- [sega.sbs](https://sega.sbs)
-- [arcaea.me](https://arcaea.me)
 
 ### Held by Maverick
 
