@@ -101,7 +101,7 @@ const config = {
                     postsPerPage: 5,
                     feedOptions: {
                         type: 'all',
-                        copyright: `Copyright © ${new Date().getFullYear()} LOT.`,
+                        copyright: `Copyright © ${new Date().getFullYear()} Lowlight.`,
                     },
                     // Please change this to your repo.
                     editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
@@ -137,7 +137,7 @@ const config = {
                 },
                 {
                     to: '/blog',
-                    label: '博客',
+                    label: '站点博客',
                     position: 'left'
                 },
                 {
@@ -167,15 +167,15 @@ const config = {
             links: [{
                     title: '网站政策',
                     items: [{
-                            label: '使用条款',
+                            label: '用户使用条款',
                             to: 'policies/tos',
                         },
                         {
-                            label: '隐私政策',
+                            label: '隐私保护政策',
                             to: 'policies/privacy',
                         },
                         {
-                            label: '未成年人健康守护',
+                            label: '未成年人保护',
                             to: 'policies/minor',
                         },
                         {
@@ -187,14 +187,19 @@ const config = {
                             to: 'policies/inclusion',
                         },
                         {
-                            label: '资源使用许可证明',
+                            label: '资源使用许可',
                             to: 'policies/licenses',
                         },
                     ]
                 },
                 {
                     title: '站点相关',
-                    items: [{
+                    items: [
+                        {
+                            label: '站点博客',
+                            to: '/blog',
+                        },
+                        {
                             label: '服务器状态',
                             href: 'https://stat.lowi.ro',
                         },
@@ -210,10 +215,7 @@ const config = {
                 },
                 {
                     title: '关注我们',
-                    items: [{
-                            label: '博客',
-                            to: '/blog',
-                        },
+                    items: [
                         {
                             label: 'GitHub',
                             href: 'https://github.com/Lytsu/lowlight',
@@ -226,7 +228,12 @@ const config = {
                 },
                 {
                     title: '友情链接',
-                    items: [{
+                    items: [
+                        {
+                            label: 'Rytsu Blog',
+                            href: 'https://rytsu.org',
+                        },
+                        {
                             label: 'Konmai 音游下载站',
                             href: 'https://konmai.cn',
                         },
