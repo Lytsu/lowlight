@@ -4,6 +4,10 @@
 
 更新日志实际上是对过去一段时间内众多 commits 的总结，更详细的改动记录可以查看 [GitHub 上本项目的 commits](https://github.com/Lytsu/lowlight) 。
 
+## 项目状态
+
+![Alt](https://repobeats.axiom.co/api/embed/a48a232966f2b6d199d3a99adeb7a357c3cd118e.svg "Repobeats analytics image")
+
 ## 2.x
 
 ### 2021 年 12 月
