@@ -10,6 +10,10 @@ Lowlight 2.x 是目前正使用的版本，由 [Docusaurus 2](https://docusaurus
 
 Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](https://docsify.js.org) 构建，使用 Vue 实现；1.x 版本已不再在现今的生产环境进行部署，但您仍然可以在 [Releases](https://github.com/Lytsu/lowlight/releases/tag/1.0.0) 中获取到 1.x 版本的源码，并对其进行研究。
 
+## 项目状态
+
+![Alt](https://repobeats.axiom.co/api/embed/a48a232966f2b6d199d3a99adeb7a357c3cd118e.svg "Repobeats analytics image")
+
 ## 如何安装使用
 
 建议事先查看 [Docusaurus 文档](https://docusaurus.io/zh-CN/docs/) 来了解如何使用。
