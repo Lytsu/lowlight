@@ -21,6 +21,19 @@ const config = {
     projectName: 'lowlight', // Usually your repo name.
     plugins: [
         [
+            '@easyops-cn/docusaurus-search-local',
+            {
+              // `hashed` is recommended as long-term-cache of index file is possible.
+              hashed: true,
+              // For Docs using Chinese, The `language` is recommended to set to:
+              language: ["en", "zh"],
+              // When applying `zh` in language, please install `nodejieba` in your project
+              highlightSearchTermsOnTargetPage: false,
+              indexDocs:true,
+              indexPages:true,
+            },
+        ],
+        [
             '@docusaurus/plugin-pwa',
             {
                 debug: true,
