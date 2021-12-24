@@ -60,7 +60,6 @@ GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
 - **[616.sb](https://616.sb/)**
 - **[lowlight.net](https://lowlight.net)**
 - [nhe.lv](https://nhe.lv/)
-- [arcaea.me](https://arcaea.me/)
 
 ## 联系我们
 
@@ -69,4 +68,3 @@ GIT_USER=<你的 GitHub 用户名> USE_SSH=true yarn deploy
 [QQ群: 582810347](https://jq.qq.com/?_wv=1027&k=WAZFYeVn)
 
 Email: [yuk1zuna@outlook.com](mailto:yuk1zuna@outlook.com)
-
