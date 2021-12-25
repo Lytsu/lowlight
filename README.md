@@ -1,6 +1,6 @@
 # Lowlight - 音乐节奏游戏下载站
 
-<img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/Lytsu/lowlight/main?style=flat-square"><img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flowlight.pages.dev"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lytsu/lowlight?style=flat-square"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Lytsu/lowlight?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Lytsu/lowlight?style=flat-square">
+<img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Flowlight.pages.dev"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lytsu/lowlight?style=flat-square"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Lytsu/lowlight?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Lytsu/lowlight?style=flat-square">
 
 Lowlight 是一个提供音乐节奏游戏下载的下载站，为部分不便于下载游戏的玩家提供游戏的下载服务。
 
