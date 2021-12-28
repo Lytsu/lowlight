@@ -287,7 +287,7 @@ const config = {
             darkTheme: darkCodeTheme,
         },
         gtag: {
-            trackingID: 'G-8T8LT5XQ63',
+            trackingID: 'G-GYBNM0NDE5',
             anonymizeIP: true,
         },
     }),
