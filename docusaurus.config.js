@@ -23,14 +23,14 @@ const config = {
         [
             '@easyops-cn/docusaurus-search-local',
             {
-              // `hashed` is recommended as long-term-cache of index file is possible.
-              hashed: true,
-              // For Docs using Chinese, The `language` is recommended to set to:
-              language: ["en", "zh"],
-              // When applying `zh` in language, please install `nodejieba` in your project
-              highlightSearchTermsOnTargetPage: false,
-              indexDocs:true,
-              indexPages:true,
+                // `hashed` is recommended as long-term-cache of index file is possible.
+                hashed: true,
+                // For Docs using Chinese, The `language` is recommended to set to:
+                language: ["en", "zh"],
+                // When applying `zh` in language, please install `nodejieba` in your project
+                highlightSearchTermsOnTargetPage: false,
+                indexDocs: true,
+                indexPages: true,
             },
         ],
         [
@@ -207,8 +207,7 @@ const config = {
                 },
                 {
                     title: '站点相关',
-                    items: [
-                        {
+                    items: [{
                             label: '站点博客',
                             to: '/blog',
                         },
@@ -228,8 +227,7 @@ const config = {
                 },
                 {
                     title: '关注我们',
-                    items: [
-                        {
+                    items: [{
                             label: 'GitHub',
                             href: 'https://github.com/Lytsu/lowlight',
                         },
@@ -241,8 +239,7 @@ const config = {
                 },
                 {
                     title: '友情链接',
-                    items: [
-                        {
+                    items: [{
                             label: 'Rytsu Blog',
                             href: 'https://rytsu.org',
                         },
@@ -276,7 +273,7 @@ const config = {
             logo: {
                 alt: 'Lowlight Delight Logo',
                 src: 'img/delight_logo.png',
-                href: 'blog/2021/10/30/about-delight',
+                href: 'https://lowi.ro/blog/2021/10/30/about-delight',
             },
             copyright: `Copyright © ${new Date().getFullYear()} Team Lowlight.<br>
             Lowlight is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
