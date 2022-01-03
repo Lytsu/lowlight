@@ -109,9 +109,10 @@ h3,
 h4,
 h5,
 h6,
-div,
+div.footer__title,
 body {
     font-family: Roboto, sans-serif;
+    letter-spacing: 0.2px;
 }
 
 h1,
@@ -120,9 +121,10 @@ h3,
 h4,
 h5,
 h6,
-div,
+div.footer__title,
 body:lang(zh-hans) {
     font-family: Roboto, 'Noto Sans SC', sans-serif;
+    letter-spacing: 0.2px;
 }
 
 h1,
@@ -131,9 +133,10 @@ h3,
 h4,
 h5,
 h6,
-div,
+div.footer__title,
 body:lang(zh-hant) {
     font-family: Roboto, 'Noto Sans TC', sans-serif;
+    letter-spacing: 0.2px;
 }
 
 
