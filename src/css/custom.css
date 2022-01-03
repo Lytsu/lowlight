@@ -103,45 +103,36 @@ code {
     word-wrap: break-word;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
 body {
     font-family: Roboto, sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
 body:lang(zh-hans) {
     font-family: Roboto, 'Noto Sans SC', sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
 body:lang(zh-hant) {
-    font-family: Roboto, 'Noto Sans TC', sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div {
-    font-family: Roboto, sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div:lang(zh-hans) {
-    font-family: Roboto, 'Noto Sans SC', sans-serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div:lang(zh-hant) {
     font-family: Roboto, 'Noto Sans TC', sans-serif;
 }
 
