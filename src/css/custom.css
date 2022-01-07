@@ -93,53 +93,6 @@ html[data-theme='dark'] hr {
 }
 
 
-/* 引用字体 */
-
-@import url(https://cdn.jsdelivr.net/gh/RikkaW/webfonts@4/css/Roboto-VF.css);
-@import url(https://cdn.jsdelivr.net/gh/RikkaW/webfonts@4/css/NotoSansCJK-SC-VF.css);
-@import url(https://cdn.jsdelivr.net/gh/RikkaW/webfonts@4/css/NotoSansCJK-TC-VF.css);
-code {
-    overflow: auto;
-    word-wrap: break-word;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div.footer__title,
-body {
-    font-family: Roboto, sans-serif;
-    letter-spacing: 0.2px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div.footer__title,
-body:lang(zh-hans) {
-    font-family: Roboto, 'Noto Sans SC', sans-serif;
-    letter-spacing: 0.2px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div.footer__title,
-body:lang(zh-hant) {
-    font-family: Roboto, 'Noto Sans TC', sans-serif;
-    letter-spacing: 0.2px;
-}
-
-
 /* 特殊时期时网页黑白 */
 
 
