@@ -140,7 +140,7 @@ const config = {
             title: '微光 Lowlight',
             logo: {
                 alt: 'Lowlight Logo',
-                src: 'img/lowlight_maid.png',
+                src: 'img/lowlight_maid.webp',
             },
             items: [{
                     type: 'doc',
