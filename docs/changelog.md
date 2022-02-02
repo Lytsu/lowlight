@@ -17,9 +17,9 @@
 - 更新游戏：
   - D4DJ 日服:jp: → 3.2.4；
   - BanG Dream 日服:jp: → 5.10.0；
+  - KALPA → 1.0.106；
 - 下架游戏：
-  - KALPA（直接提取的 xapk 大多数人无法直接安装）；
-  - PJSK 英文国际服:earth_americas: （没人下载，占服务器空间）；
+  - PJSK 国际服（英文）:earth_americas: （没人下载，占服务器空间）；
 
 ### 2022 年 1 月
 
