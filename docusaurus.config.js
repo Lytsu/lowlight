@@ -122,6 +122,10 @@ const config = {
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
                 },
+                gtag: {
+                    trackingID: 'G-GYBNM0NDE5',
+                    anonymizeIP: true,
+                },
             }),
         ],
     ],
@@ -131,10 +135,10 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '本站目前处于公开测试运营阶段，欢迎填写<a href="https://wj.qq.com/s2/1091099/5c62">问卷调查</a>来支持我们的工作。',
+            content: '微光 Lowlight 祝您新年快乐，早日收歌，远离手癖！',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: false,
+            isCloseable: true,
         },
         navbar: {
             title: '微光 Lowlight',
@@ -282,10 +286,6 @@ const config = {
         prism: {
             theme: lightCodeTheme,
             darkTheme: darkCodeTheme,
-        },
-        gtag: {
-            trackingID: 'G-GYBNM0NDE5',
-            anonymizeIP: true,
         },
     }),
 };
