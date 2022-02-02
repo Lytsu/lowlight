@@ -4,22 +4,23 @@ If you find my work valuable, and would like to encourage the development of the
 
 ## 直接捐赠
 
+### 直接向我付款
+
 <details>
-<summary><b>加密货币捐赠</b></summary>
+<summary><b>微信</b></summary>
 
-- ETH: 
-
-  `0x620FC0D815DE319c17aF6b3B9Cf7db8d217926C1`
-
-- BTC: 
-
-  `34VD7Qxa2J5yvs7yVtLrqvXF7ecaqs61Ac`
-  
-- TRX:
-
-  `TY5oXjM3GcxhmR8TZJvBEP5DcbW6nfZbyc`
+![mm_facetoface_collect_qrcode_1643810148603](https://s2.loli.net/2022/02/02/MCjSRDBY8bndmvW.png)
 
 </details>
+
+<details>
+<summary><b>支付宝</b></summary>
+
+![1643810141700](https://s2.loli.net/2022/02/02/a5MBeXhLJyxz6tm.jpg)
+
+</details>
+
+### 按月订阅付款
 
 [爱发电（支付宝、微信）](https://afdian.net/@toyamaworks) 
 
@@ -30,7 +31,6 @@ If you find my work valuable, and would like to encourage the development of the
 ### 大学生网课代刷
 
 请查看[网课代刷](/info/donate_wangke)页面。
-
 
 -----
 
@@ -48,17 +48,18 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### 服务器
 
-- Linode - Fremont | US$10/mo
-- Linode - Tokyo | US$10/mo
-- DigitalOcean - San Francisco | US$10/mo
-- Hong Kong CMI | US$50/yr
+- Linode - 菲利蒙 | US$10/月
+- CERA - 洛杉矶 | CN￥30/月
+- DigitalOcean - 旧金山 | US$10/月
+- CMI - 香港 | US$50/年
+- AWS - 新加坡 | US$10/月
+- 腾讯云 - 香港 | CN￥34/月
 
 #### 域名
 
-- nhe.lv | US$12.25/yr
-- lowi.ro | US$9.69/yr
-- sega.sbs | US$7.52/yr
-- lowlight.net | US$9.69/yr
+- nhe.lv | US$12.25/年
+- lowi.ro | US$9.69/年
+- lowlight.net | US$9.69/年
 
 #### Project Delight
 

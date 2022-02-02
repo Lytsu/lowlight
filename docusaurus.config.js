@@ -135,10 +135,10 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '微光 Lowlight 祝您新年快乐，早日收歌，远离手癖！',
+            content: '微光 Lowlight 祝您性年快乐，早日收歌，远离手癖！',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: true,
+            isCloseable: false,
         },
         navbar: {
             title: '微光 Lowlight',
