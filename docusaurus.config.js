@@ -135,7 +135,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '微光 Lowlight 祝您性年快乐，早日收歌，远离手癖！',
+            content: '您的支持可以帮助微光 Lowlight 健康发展，最终实现互助互利。<a href="https://lowi.ro/info/donate">点击此处</a>前往捐赠页面。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
@@ -279,9 +279,9 @@ const config = {
                 src: 'img/delight_logo.png',
                 href: 'https://lowi.ro/blog/2021/10/30/about-delight',
             },
-            copyright: `Copyright © ${new Date().getFullYear()} Team Lowlight.<br>
-            Lowlight is a proud part of <a href="https://sailoud.com">Sailoud LLC</a> Intelligence office.<br>
-            本项目使用 <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a> 构建，并托管于 <a href="https://pages.cloudflare.com">CloudFlare Pages</a>。`,
+            copyright: `<p>Copyright © ${new Date().getFullYear()} Team Lowlight.<br>
+            Powered by <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a>.<br></p>
+            <p>微光 Lowlight 倡导人人平等，反对对出身地、民族、残障人士、性別认同、性取向、年龄、游玩水平的歧视。</p>`,
         },
         prism: {
             theme: lightCodeTheme,
