@@ -17,7 +17,6 @@ const sidebars = {
     tutorialSidebar: [
         "games",
         "desktop",
-        "nav",
         "faq",
         "academy",
         {

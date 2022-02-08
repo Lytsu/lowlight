@@ -2,6 +2,16 @@
 
 If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
 
+:::caution 捐赠注意事项
+
+**请在游戏下载完成后再考虑自愿打赏或捐助，本站无法承诺任何责任与义务。**
+
+**如果您只是为了获得安装/游玩教程或下载破解版游戏，恕本站无法满足您的要求，请您谅解。**
+
+如需退款，请将带有付款单号的截图和您的收款码图片一并附上邮件，并发送邮件至 yuk1zuna@outlook.com 。
+
+:::
+
 ## 直接捐赠
 
 ### 直接向我付款
