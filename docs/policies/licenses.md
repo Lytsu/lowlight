@@ -24,9 +24,10 @@
 
 ## 域名使用授权
 
-本站在 Maverick / 马尾理科 授意下，授权取得 [616.sb](https://616.sb) 及 www.616.sb 域名**受限制的使用权**，用于展开业务活动[^1][^2]。
+本站在 Maverick / 马尾理科 授意下，授权取得 [616.sb](https://616.sb) 及 www.616.sb 域名**受限制的使用权**，用于展开业务活动[^1]。
 
-Maverick 实际持有「616.sb」域名及其所有相关资产，并随时有权利中止本站使用本域名，而不需事先经由本站许可。
+Maverick 实际持有「616.sb」域名及其所有相关资产，并随时有权利中止本站使用本域名，而不需事先经由本站许可[^2]。
 
-[^1]: [Konmai音游下载站的动态-哔哩哔哩 (bilibili.com)](https://t.bilibili.com/599686668433319819)
-[^2]: [Konmai音游下载站的动态-哔哩哔哩 (bilibili.com)](https://t.bilibili.com/590635346978932941)
+[^1]: [Konmai音游下载站的动态-哔哩哔哩 (bilibili.com)](https://t.bilibili.com/590635346978932941)
+[^2]: [Konmai音游下载站的动态-哔哩哔哩 (bilibili.com)](https://t.bilibili.com/599686668433319819)
+
