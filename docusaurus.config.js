@@ -135,7 +135,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '您的支持可以帮助微光 Lowlight 的健康发展，促进玩家社群整体受益。<a href="https://lowi.ro/info/donate">点此</a>前往捐赠页面。',
+            content: '您的支持可以帮助微光 Lowlight 健康发展，促进玩家社群整体受益。<a href="https://lowi.ro/info/donate">点此</a>前往捐赠页面。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
@@ -276,10 +276,10 @@ const config = {
                 href: 'https://lowi.ro/blog/2021/10/30/about-delight',
             },
             copyright: `
-            <p>Copyright © ${new Date().getFullYear()} Team Lowlight. Powered by <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a>.<br>
-            本网站中所使用的数据、图片等素材，其著作权属于原著作权人，本站仅以介绍为目的进行非商业的个人使用。<br>
-            域名「616.sb」及其所有相关资产由 Maverick（马尾理科）所持有，本站仅拥有其部分受限使用权。</p>
-            <p>微光 Lowlight 倡导人人平等：<i>我们反对任何对出身地、民族、身体残障、年龄、性別认同和性取向的歧视。</i></p>`,
+            <p>Copyright © ${new Date().getFullYear()} Team Lowlight. Powered by <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a>.<br></p>
+            <p><small>本网站中所使用的数据、图片等素材，其著作权属于原著作权人，本站仅以介绍为目的进行非商业的个人使用。</small><br>
+            <small>域名「616.sb」及其所有相关资产由 Maverick（马尾理科）所持有，本站仅拥有其部分受限使用权。</small></p>
+            <p><small>微光 Lowlight 倡导人人平等：<i>我们反对任何对出身地、民族、身体残障、年龄、性別认同和性取向的歧视。</small></i></p>`,
         },
         prism: {
             theme: lightCodeTheme,
