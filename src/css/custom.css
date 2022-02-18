@@ -52,6 +52,28 @@ a.button.button--primary {
 }
 
 
+/* 顶部通知条样式 */
+
+div[class^="announcementBar"] {
+    height: auto;
+}
+
+div[class^="announcementBarContent"] {
+    font-size: 14px;
+    padding: 8px 30px;
+}
+
+div[class^="announcementBarContent"] a {
+    text-decoration: underline;
+    display: inline-block;
+    color: #f5abff !important;
+}
+
+div[class^="announcementBarContent"] a:hover {
+    color: #fff !important;
+}
+
+
 /* 下载按钮样式 */
 
 .buttonDownload {
@@ -90,6 +112,16 @@ hr {
 
 html[data-theme='dark'] hr {
     border-color: #595959;
+}
+
+
+/* 图标样式 */
+
+.gameicon {
+    width: 52px;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-right: 6px;
 }
 
 

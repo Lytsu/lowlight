@@ -4,34 +4,21 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: '使用简单方便',
+    title: '下载安装方便快捷',
     description: (
       <>
-      Lowlight 提供的游戏点击即可进行下载，大多数游戏都不需要下载另外的 app 安装，方便又简单。
+      Lowlight 页面上提供的游戏点击即可下载，方便又简单。
+      同时，Lowlight 部署了数个遍布于全球各地的节点，可以为您提供优质的下载服务。
       </>
     ),
   },
   {
-    title: '下载体验良好',
+    title: '非商业的兴趣项目',
     description: (
       <>
-        Lowlight 部署了数个遍布于全球各地的节点，可以为您提供优质的下载服务。
-      </>
-    ),
-  },
-  {
-    title: '跟随最新游戏版本',
-    description: (
-      <>
-        Lowlight 会尽力追随最新的游戏版本，争取让用户体验到最新的游戏。
-      </>
-    ),
-  },
-  {
-    title: '纯净的使用体验',
-    description: (
-      <>
-        Lowlight 承诺在自身生命周期内不会添加任何广告，保证网页的清爽。
+        Lowlight 是<b>开源、非商业、非盈利向</b>的兴趣项目；
+        我们承诺在自身生命周期内不会添加任何广告*，保证您的下载体验。
+        <p><i><small>* 不包括捐赠项目</small></i></p>
       </>
     ),
   },
@@ -39,17 +26,8 @@ const FeatureList = [
     title: '大家一起实现的故事',
     description: (
       <>
-        Lowlight 是<b>开源</b>的<b>免费</b>项目。您可以将本项目自由修改分发使用。
-        <p><small>* 仅前端部分开源，后端原理过于简单，不做说明</small></p>
-      </>
-    ),
-  },
-  {
-    title: '非商业的个人兴趣项目',
-    description: (
-      <>
-        Lowlight 是<b>非商业、目标不为盈利</b>的音乐节奏游戏资源分享站点项目。
-        <p><small>* 但如果真的能盈利更好</small></p>
+        Lowlight 的健康发展离不开各位玩家的大力支持。
+        我们希望通过 Lowlight 这个项目，为部分不方便下载游戏的玩家提供一定的便利，最终使玩家社群整体受益。
       </>
     ),
   },

@@ -56,25 +56,3 @@ html[data-theme='dark'] .heroBanner {
     align-items: center;
     justify-content: center;
 }
-
-
-/* 顶部通知条样式 */
-
-div[class^="announcementBar"] {
-    height: auto;
-}
-
-div[class^="announcementBarContent"] {
-    font-size: 14px;
-    padding: 8px 30px;
-}
-
-div[class^="announcementBarContent"] a {
-    text-decoration: underline;
-    display: inline-block;
-    color: #f5abff !important;
-}
-
-div[class^="announcementBarContent"] a:hover {
-    color: #fff !important;
-}
