@@ -182,7 +182,7 @@ const config = {
         footer: {
             style: 'dark',
             links: [{
-                    title: '网站政策',
+                    title: '条款',
                     items: [{
                             label: '用户使用条款',
                             to: 'policies/tos',
@@ -210,29 +210,13 @@ const config = {
                     ]
                 },
                 {
-                    title: '站点相关',
+                    title: '社群',
                     items: [{
                             label: '站点博客',
                             to: '/blog',
                         },
                         {
-                            label: '服务器状态',
-                            href: 'https://stat.lowi.ro',
-                        },
-                        {
-                            label: '更新日志',
-                            to: 'changelog',
-                        },
-                        {
-                            label: '捐赠支持',
-                            to: 'info/donate',
-                        },
-                    ],
-                },
-                {
-                    title: '关注我们',
-                    items: [{
-                            label: 'GitHub',
+                            label: 'GitHub Repo',
                             href: 'https://github.com/Lytsu/lowlight',
                         },
                         {
@@ -242,7 +226,23 @@ const config = {
                     ],
                 },
                 {
-                    title: '友情链接',
+                    title: '更多',
+                    items: [{
+                            label: '服务器状态',
+                            href: 'https://stat.lowi.ro',
+                        },
+                        {
+                            label: '更新日志',
+                            to: 'changelog',
+                        },
+                        {
+                            label: '使用帮助',
+                            to: 'faq',
+                        },
+                    ],
+                },
+                {
+                    title: '友链',
                     items: [{
                             label: 'Rytsu Blog',
                             href: 'https://rytsu.org',
@@ -275,13 +275,11 @@ const config = {
                 src: 'img/delight_logo.png',
                 href: 'https://lowi.ro/blog/2021/10/30/about-delight',
             },
-            copyright: `
-            <p><small>Copyright © ${new Date().getFullYear()} Team Lowlight. Powered by <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a>.<br></small></p>
-            <p><small>本网站中所使用的图片等素材，其著作权属于原著作权人，本站仅以展示为目的进行非商业使用。</small><br>
-            <small>域名「616.sb」及其所有相关资产由 Maverick 所持有。</small></p>
-            <p><small><i>
-            凝视着此刻烂漫的春天 依然像那时温暖的模样
-            </i></small></p>`,
+            copyright: `<p><small>
+            Copyright © ${new Date().getFullYear()} Rytsu with Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a> from <a href="https://opensource.fb.com/">Meta</a>.<br>
+            本网站中所使用的图片等素材，其著作权属于原著作权人，本站仅以展示为目的进行非商业使用。<br>
+            域名「616.sb」及其所有相关资产由 Maverick 所持有。
+            </small><p>`,
         },
         prism: {
             theme: lightCodeTheme,
