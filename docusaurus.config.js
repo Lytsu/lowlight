@@ -277,9 +277,11 @@ const config = {
             },
             copyright: `
             <p><small>Copyright © ${new Date().getFullYear()} Team Lowlight. Powered by <a href="https://docusaurus.io/zh-CN">Docusaurus v2</a>.<br></small></p>
-            <p><small>本网站中所使用的数据、图片等素材，其著作权属于原著作权人，本站仅以介绍为目的进行非商业的个人使用。</small><br>
-            <small>域名「616.sb」及其所有相关资产由 Maverick（马尾理科）所持有，本站仅拥有其部分受限使用权。</small></p>
-            <p><small>微光 Lowlight 倡导人人平等：<i>我们反对任何对出身地、民族、身体残障、年龄、性別认同和性取向的歧视。</small></i></p>`,
+            <p><small>本网站中所使用的图片等素材，其著作权属于原著作权人，本站仅以展示为目的进行非商业使用。</small><br>
+            <small>域名「616.sb」及其所有相关资产由 Maverick 所持有。</small></p>
+            <p><small><i>
+            凝视着此刻烂漫的春天 依然像那时温暖的模样
+            </i></small></p>`,
         },
         prism: {
             theme: lightCodeTheme,
