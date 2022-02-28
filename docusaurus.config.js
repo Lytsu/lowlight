@@ -45,7 +45,7 @@ const config = {
                 pwaHead: [{
                         tagName: 'link',
                         rel: 'icon',
-                        href: '/img/icons/icon-512x512.png',
+                        href: '/img/pwa/icon-512x512.png',
                     },
                     {
                         tagName: 'link',
@@ -70,7 +70,7 @@ const config = {
                     {
                         tagName: 'link',
                         rel: 'apple-touch-icon',
-                        href: '/img/icons/icon-512x512.png',
+                        href: '/img/pwa/icon-512x512.png',
                     },
                     {
                         tagName: 'link',
@@ -81,7 +81,7 @@ const config = {
                     {
                         tagName: 'meta',
                         name: 'msapplication-TileImage',
-                        content: '/img/icons/icon-512x512.png',
+                        content: '/img/pwa/icon-512x512.png',
                     },
                     {
                         tagName: 'meta',
@@ -138,7 +138,7 @@ const config = {
             content: '您的支持可以帮助微光 Lowlight 健康发展，促进玩家社群整体受益。<a href="https://lowi.ro/info/donate">点此</a>前往捐赠页面。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: false,
+            isCloseable: true,
         },
         navbar: {
             title: '微光 Lowlight',
