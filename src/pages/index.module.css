@@ -11,7 +11,7 @@
     text-shadow: 2px 2px 2px #666;
     position: relative;
     overflow: hidden;
-    background-image: url(/img/bg_light.webp);
+    background-image: url(/img/bg/bg_light.webp);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,7 +24,7 @@ html[data-theme='dark'] .heroBanner {
     text-shadow: 2px 2px 2px #666;
     position: relative;
     overflow: hidden;
-    background-image: url(/img/bg_dark.webp);
+    background-image: url(/img/bg/bg_dark.webp);
     background-position: center 10%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,7 +35,7 @@ html[data-theme='dark'] .heroBanner {
 @media screen and (max-width: 600px) {
     .heroBanner {
         text-shadow: 2px 2px 2px #666;
-        background-image: url(/img/bg_light_mobi.webp);
+        background-image: url(/img/bg/bg_light_mobi.webp);
         background-position: 50%;
         background-repeat: no-repeat;
         background-size: cover;
@@ -43,7 +43,7 @@ html[data-theme='dark'] .heroBanner {
     }
     html[data-theme='dark'] .heroBanner {
         text-shadow: 2px 2px 2px #666;
-        background-image: url(/img/bg_dark_mobi.webp);
+        background-image: url(/img/bg/bg_dark_mobi.webp);
         background-position: 50%;
         background-repeat: no-repeat;
         background-size: cover;

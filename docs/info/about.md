@@ -80,4 +80,5 @@ Email: yuk1zuna@outlook.com
 
 ### 静态网站托管
 
-- [lowlight.pages.dev](https://lowlight.pages.dev)
+- CF Pages: [lowlight.pages.dev](https://lowlight.pages.dev)
+- Vercel: [lowlight.vercel.app](https://lowlight.vercel.app)
