@@ -11,22 +11,20 @@
         "clear": "docusaurus clear",
         "serve": "docusaurus serve",
         "write-translations": "docusaurus write-translations",
-        "write-heading-ids": "docusaurus write-heading-ids"
+        "write-heading-ids": "docusaurus write-heading-ids",
+        "dev": "docusaurus start"
     },
     "dependencies": {
-        "@docusaurus/core": "^2.0.0-beta.15",
-        "@docusaurus/plugin-pwa": "^2.0.0-beta.15",
-        "@docusaurus/preset-classic": "^2.0.0-beta.15",
-        "@easyops-cn/docusaurus-search-local": "^0.21.4",
-        "@mdx-js/react": "^1.6.21",
-        "@svgr/webpack": "^5.5.0",
+        "@docusaurus/core": "2.0.0-beta.17",
+        "@docusaurus/plugin-pwa": "^2.0.0-beta.17",
+        "@docusaurus/preset-classic": "2.0.0-beta.17",
+        "@easyops-cn/docusaurus-search-local": "^0.22.0",
+        "@mdx-js/react": "^1.6.22",
         "clsx": "^1.1.1",
-        "file-loader": "^6.2.0",
-        "nodejieba": "^2.5.2",
+        "nodejieba": "^2.6.0",
         "prism-react-renderer": "^1.2.1",
         "react": "^17.0.1",
-        "react-dom": "^17.0.1",
-        "url-loader": "^4.1.1"
+        "react-dom": "^17.0.1"
     },
     "browserslist": {
         "production": [
@@ -40,5 +38,5 @@
             "last 1 safari version"
         ]
     },
-    "devDependencies": {}
+    "description": "Docusaurus example project"
 }
