@@ -14,8 +14,8 @@ const config = {
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     i18n: {
-        defaultLocale: "zh-Hans",
-        locales: ["zh-Hans"],
+        defaultLocale: 'zh-Hans',
+        locales: ['zh-Hans'],
     },
     organizationName: 'Lytsu', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
@@ -164,7 +164,7 @@ const config = {
                 },
                 {
                     label: '捐赠与支持',
-                    to: '/info/donate',
+                    to: 'info/donate',
                     position: 'right',
                 },
                 {
@@ -226,7 +226,7 @@ const config = {
                     ],
                 },
                 {
-                    title: '更多',
+                    title: '站点相关',
                     items: [{
                             label: '服务器状态',
                             href: 'https://stat.lowi.ro',
@@ -238,11 +238,26 @@ const config = {
                         {
                             label: '使用帮助',
                             to: 'faq',
+                        }, {
+                            label: '捐赠支持',
+                            to: 'info/donate'
+                        }
+                    ],
+                },
+                {
+                    title: '赞助商',
+                    items: [{
+                            label: 'PicACG 游戏区',
+                            href: 'https://616.ro/',
+                        },
+                        {
+                            label: 'VikACG 二次元社区',
+                            href: 'https://vikacg.com',
                         },
                     ],
                 },
                 {
-                    title: '友链',
+                    title: '友情链接',
                     items: [{
                             label: 'Rytsu Blog',
                             href: 'https://rytsu.org',
@@ -276,7 +291,7 @@ const config = {
                 href: 'https://lowi.ro/blog/2021/10/30/about-delight',
             },
             copyright: `<p><small>
-            Copyright © ${new Date().getFullYear()} Rytsu with Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a> from <a href="https://opensource.fb.com/">Meta</a>.<br>
+            Copyright © ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本网站中所使用的图片等素材，其著作权属于原著作权人，本站仅以展示为目的进行非商业使用。<br>
             域名「616.sb」及其所有相关资产由 Maverick 所持有。
             </small><p>`,
