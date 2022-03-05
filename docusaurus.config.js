@@ -210,22 +210,6 @@ const config = {
                     ]
                 },
                 {
-                    title: '社群',
-                    items: [{
-                            label: '站点博客',
-                            to: '/blog',
-                        },
-                        {
-                            label: 'GitHub Repo',
-                            href: 'https://github.com/Lytsu/lowlight',
-                        },
-                        {
-                            label: '哔哩哔哩',
-                            href: 'https://space.bilibili.com/319171871',
-                        },
-                    ],
-                },
-                {
                     title: '站点相关',
                     items: [{
                             label: '服务器状态',
@@ -242,6 +226,22 @@ const config = {
                             label: '捐赠支持',
                             to: 'info/donate'
                         }
+                    ],
+                },
+                {
+                    title: '社群',
+                    items: [{
+                            label: '站点博客',
+                            to: '/blog',
+                        },
+                        {
+                            label: 'GitHub Repo',
+                            href: 'https://github.com/Lytsu/lowlight',
+                        },
+                        {
+                            label: '哔哩哔哩',
+                            href: 'https://space.bilibili.com/319171871',
+                        },
                     ],
                 },
                 {
