@@ -30,6 +30,15 @@ export default function Home() {
     <Layout
       title={`首页`}
       description="Lowlight - A Faint Light">
+        <div>
+        <div className={styles.HomepageTips}>
+            您的反馈对微光 Lowlight 至关重要。
+            <Link to="https://wj.qq.com/s2/9800745/6e90">
+              点此填写问卷
+            </Link>
+            ，让微光 Lowlight 变得更好。
+          </div>
+        </div>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
