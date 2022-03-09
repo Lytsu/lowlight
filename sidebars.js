@@ -18,7 +18,6 @@ const sidebars = {
         "games",
         "desktop",
         "faq",
-        "academy",
         {
             type: 'category',
             label: '站点信息',
