@@ -8,7 +8,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 **如果您只是为了获得安装/游玩教程或下载破解版游戏，恕本站无法满足您的要求，请您谅解。**
 
-如需退款，请将带有付款单号的截图和您的收款码图片一并附上邮件，并发送邮件至 yuk1zuna@outlook.com 。
+如需退款，请将带有付款单号的截图和您的收款码图片一并附上，并发送邮件至 yuk1zuna@outlook.com 。
 
 :::
 
@@ -35,12 +35,6 @@ If you find my work valuable, and would like to encourage the development of the
 [爱发电（支付宝、微信）](https://afdian.net/@toyamaworks) 
 
 [Patreon（PayPal、信用卡）](https://www.patreon.com/lowlight_delight)
-
-## 通过其他方式支持
-
-### 大学生网课代刷
-
-请查看[网课代刷](/info/donate_wangke)页面。
 
 -----
 
