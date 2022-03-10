@@ -292,8 +292,7 @@ const config = {
             },
             copyright: `<p><small>
             Copyright © ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
-            本网站中所使用的图片等素材，其著作权属于原著作权人，本站仅以展示为目的进行非商业使用。<br>
-            域名「616.sb」及其所有相关资产由 Maverick 所持有。
+            本站与 lowiro limited 无任何关联。
             </small><p>`,
         },
         prism: {
