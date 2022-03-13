@@ -20,8 +20,8 @@ const sidebars = {
         "faq",
         {
             type: 'category',
-            label: '站点信息',
-            collapsed: true,
+            label: 'ℹ️站点信息',
+            collapsed: false,
             items: [
                 'info/about',
                 'info/donate',
@@ -29,6 +29,18 @@ const sidebars = {
             ],
         },
         "changelog",
+        {
+            type: 'category',
+            label: '📜使用条款',
+            collapsed: false,
+            items: ['policies/tos',
+                'policies/privacy',
+                'policies/minor',
+                'policies/repost',
+                'policies/inclusion',
+                'policies/licenses',
+            ],
+        },
     ],
     // But you can create a sidebar manually
     /*
