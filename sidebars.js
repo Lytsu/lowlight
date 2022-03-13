@@ -14,10 +14,21 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
     // By default, Docusaurus generates a sidebar from the docs folder structure
-    tutorialSidebar: [
-        "games",
-        "desktop",
-        "faq",
+    tutorialSidebar: [{
+            type: 'doc',
+            id: 'games',
+            label: '🎮游戏下载',
+        },
+        {
+            type: 'doc',
+            id: 'desktop',
+            label: '🖥️桌面端游戏',
+        },
+        {
+            type: 'doc',
+            id: 'faq',
+            label: '❓疑难解答',
+        },
         {
             type: 'category',
             label: 'ℹ️站点信息',
@@ -28,7 +39,11 @@ const sidebars = {
                 'info/support',
             ],
         },
-        "changelog",
+        {
+            type: 'doc',
+            id: 'changelog',
+            label: '📝更新日志',
+        },
         {
             type: 'category',
             label: '📜使用条款',
