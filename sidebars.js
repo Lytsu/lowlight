@@ -32,7 +32,7 @@ const sidebars = {
         {
             type: 'category',
             label: 'ℹ️站点信息',
-            collapsed: false,
+            collapsed: true,
             items: [
                 'info/about',
                 'info/donate',
@@ -47,7 +47,7 @@ const sidebars = {
         {
             type: 'category',
             label: '📜使用条款',
-            collapsed: false,
+            collapsed: true,
             items: ['policies/tos',
                 'policies/privacy',
                 'policies/minor',
