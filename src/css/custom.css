@@ -127,8 +127,7 @@ html[data-theme='dark'] hr {
 
 /* 特殊时期时网页黑白 */
 
-
-/* html,
+html,
 body {
     filter: progid: DXImageTransform.Microsoft.BasicImage(grayscale=1);
     -webkit-filter: grayscale(100%);
@@ -137,4 +136,4 @@ body {
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
     filter: gray;
-} */
+}
