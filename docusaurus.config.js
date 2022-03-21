@@ -135,10 +135,10 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '您的支持可以帮助微光 Lowlight 健康发展，促进玩家社群整体受益。<a href="https://lowi.ro/info/donate">点此</a>前往捐赠页面。',
+            content: '为所有 MU5735 航班事故中的遇难者默哀，Rest in Peace.',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: true,
+            isCloseable: false,
         },
         navbar: {
             title: '微光 Lowlight',
