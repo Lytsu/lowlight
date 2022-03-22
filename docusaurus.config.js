@@ -133,13 +133,13 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-        announcementBar: {
+        /*announcementBar: {
             id: 'support_us',
-            content: '为所有 MU5735 航班事故中的遇难者默哀，Rest in Peace.',
+            content: '您的反馈对微光 Lowlight 至关重要。<a href="https://wj.qq.com/s2/9800745/6e90">点此填写问卷</a>，让微光 Lowlight 变得更好。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: false,
-        },
+        },*/
         navbar: {
             title: '微光 Lowlight',
             logo: {

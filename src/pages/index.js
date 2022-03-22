@@ -32,11 +32,7 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-            您的反馈对微光 Lowlight 至关重要。
-            <Link to="https://wj.qq.com/s2/9800745/6e90">
-              点此填写问卷
-            </Link>
-            ，让微光 Lowlight 变得更好。
+            为东航 MU5735 坠机事故中的罹难者默哀。愿逝者安息。
           </div>
         </div>
       <HomepageHeader />
