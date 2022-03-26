@@ -133,13 +133,13 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-        /*announcementBar: {
+        announcementBar: {
             id: 'support_us',
-            content: '您的反馈对微光 Lowlight 至关重要。<a href="https://wj.qq.com/s2/9800745/6e90">点此填写问卷</a>，让微光 Lowlight 变得更好。',
+            content: '在<a href="https://space.bilibili.com/319171871">哔哩哔哩</a>关注我们，向我们回报您的意见和反馈。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
-            isCloseable: false,
-        },*/
+            isCloseable: true,
+        },
         navbar: {
             title: '微光 Lowlight',
             logo: {

@@ -127,7 +127,8 @@ html[data-theme='dark'] hr {
 
 /* 特殊时期时网页黑白 */
 
-html {
+
+/*html {
     filter: grayscale(1);
     filter: gray;
-}
+}*/
