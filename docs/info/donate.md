@@ -1,4 +1,7 @@
-# 捐赠与支持
+---
+id: donate
+title:  捐赠支持
+---
 
 If you find my work valuable, and would like to encourage the development of the site, you can do it by sponsor this project.
 

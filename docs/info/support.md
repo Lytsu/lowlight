@@ -1,9 +1,13 @@
-# 感谢页
+---
+id: support
+title:  感谢页
+---
 
 没有你们的力量，本项目是完成不下去的。
 
 ## Lowlight 运营团队
 
+- [Rytsu](https://github.com/Lytsu) - 站长；
 - [Rsplwe](https://github.com/Rsplwe) - 站点技术支持；
 - [Forte.EXE](https://github.com/ForteEXE) - 站点协助运营；
 

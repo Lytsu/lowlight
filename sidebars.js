@@ -44,18 +44,6 @@ const sidebars = {
             id: 'changelog',
             label: '📝更新日志',
         },
-        {
-            type: 'category',
-            label: '📜使用条款',
-            collapsed: true,
-            items: ['policies/tos',
-                'policies/privacy',
-                'policies/minor',
-                'policies/repost',
-                'policies/inclusion',
-                'policies/licenses',
-            ],
-        },
     ],
     // But you can create a sidebar manually
     /*
