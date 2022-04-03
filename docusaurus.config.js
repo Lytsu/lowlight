@@ -282,6 +282,10 @@ const config = {
                             label: '空白白白白白',
                             href: 'https://thneden.github.io',
                         },
+                        {
+                            label: 'KOMANI 工具箱',
+                            href: 'https://komani.moe'
+                        }
                     ],
                 },
             ],
