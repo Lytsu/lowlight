@@ -17,7 +17,7 @@ const config = {
         defaultLocale: 'zh-Hans',
         locales: ['zh-Hans'],
     },
-    organizationName: 'TeamLowlight', // Usually your GitHub org/user name.
+    organizationName: 'Lytsu', // Usually your GitHub org/user name.
     projectName: 'lowlight', // Usually your repo name.
     plugins: [
         [
@@ -100,7 +100,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/TeamLowlight/lowlight/edit/main/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
                     routeBasePath: "/",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
@@ -117,7 +117,7 @@ const config = {
                         copyright: `Copyright © ${new Date().getFullYear()} Lowlight.`,
                     },
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/TeamLowlight/lowlight/edit/main/',
+                    editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -168,7 +168,7 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/TeamLowlight/lowlight',
+                    href: 'https://github.com/Lytsu/lowlight',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -236,7 +236,7 @@ const config = {
                         },
                         {
                             label: 'GitHub Repo',
-                            href: 'https://github.com/TeamLowlight/lowlight',
+                            href: 'https://github.com/Lytsu/lowlight',
                         },
                         {
                             label: '哔哩哔哩',
