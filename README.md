@@ -20,6 +20,8 @@ Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](ht
 
 建议事先查看 [Docusaurus 文档](https://docusaurus.io/zh-CN/docs/) 来了解如何使用。
 
+以下命令以 `bash` 为例，`PowerShell` 或 `CMD` 命令请参阅 [Docusaurus 部署文档](https://docusaurus.io/zh-CN/docs/deployment)。
+
 需要：[Node.js](https://nodejs.org/en/download/) 版本 >= 14、[Yarn](https://yarnpkg.com/en/) 版本 >= 1.5。
 
 ### 安装

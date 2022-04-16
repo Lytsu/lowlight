@@ -32,9 +32,9 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-          微光 Lowlight 预计于 2023 年 3 月 1 日终止运营。
-          <Link to="blog/2022/04/03/end-of-service">
-          点此查看详情→
+        微光 Lowlight 十分重视您的意见与反馈。
+          <Link to="https://wj.qq.com/s2/9800745/6e90">
+          点此填写反馈问卷→
           </Link>
           </div>
         </div>

@@ -77,13 +77,17 @@ Email: yuk1zuna@outlook.com
 
 ### Held by Rytsu
 
-- **[lowlight.net](https://lowlight.net)**
-- **[lowi.ro](https://lowi.ro)**
+- [lowlight.net](https://lowlight.net)
+- [lowi.ro](https://lowi.ro)
 - [nhe.lv](https://nhe.lv)
 
 ### Held by Maverick
 
-- **[616.sb](https://616.sb)**
+- [616.sb](https://616.sb)
+
+### Held by ForteEXE
+
+- [sega.sb](https://sega.sb)
 
 ### 静态网站托管
 

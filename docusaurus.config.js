@@ -135,7 +135,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '在<a href="https://space.bilibili.com/319171871">哔哩哔哩</a>关注我们，向我们回报您的意见和反馈。',
+            content: '微光 Lowlight 预计于 2023 年 3 月 1 日终止运营。<a href="blog/2022/04/03/end-of-service">点此查看详情</a>。',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: true,
@@ -296,7 +296,7 @@ const config = {
             },
             copyright: `<p><small>
             Copyright © ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
-            本站与 lowiro limited 无任何关联。
+            本站与 lowiro limited 和 SEGA Corporation 无任何关联。
             </small><p>`,
         },
         prism: {
