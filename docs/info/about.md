@@ -75,17 +75,19 @@ Email: yuk1zuna@outlook.com
 
 ## 域名列表
 
-### Held by Rytsu
+按域名持有者排序。
+
+### 梨梓 Rytsu
 
 - [lowlight.net](https://lowlight.net)
 - [lowi.ro](https://lowi.ro)
 - [nhe.lv](https://nhe.lv)
 
-### Held by Maverick
+### 马尾理科
 
 - [616.sb](https://616.sb)
 
-### Held by ForteEXE
+### 偷税师柑柑
 
 - [sega.sb](https://sega.sb)
 

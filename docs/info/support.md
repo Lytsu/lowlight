@@ -23,10 +23,6 @@ title:  感谢页
 
 [爱发电上的赞助者们](https://afdian.net/@toyamaworks?tab=sponsor)
 
-### Patreon
-
-N/A
-
 ## 特别感谢
 
 > 排名不分先后。

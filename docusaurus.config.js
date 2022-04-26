@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: '微光 Lowlight',
-    tagline: '提供一些音游下载的小站',
+    tagline: '「简单的移动端音游下载站」',
     url: 'https://lowi.ro',
     baseUrl: '/',
     onBrokenLinks: 'warn',
@@ -150,7 +150,7 @@ const config = {
                     type: 'doc',
                     docId: 'games',
                     position: 'left',
-                    label: 'A Faint Light',
+                    label: '游戏下载',
                 },
                 {
                     to: '/blog',
