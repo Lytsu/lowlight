@@ -22,6 +22,7 @@ title: 更新日志
   - D4DJ 日服:jp: → 4.0.1；
   - D4DJ 国际服:earth_americas: → 3.3.60；
   - LLSIF → 9.6.2；
+  - Sonolus → 0.5.13 Alpha；
 
 #### 2022/04/24
 
