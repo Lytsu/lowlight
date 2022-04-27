@@ -20,11 +20,12 @@ title: 更新日志
 - 更新游戏：
   - ES2 日服:jp: → 1.0.71；
   - PJSK 亚服:earth_asia: → 1.9.8；
+  - DanceRail3 → 1.54；
 
 #### 2022/04/26
 
 - 更新游戏：
-  - Lanota → 2.12.0；
+  - Lanota → 2.12.1；
   - D4DJ 日服:jp: → 4.0.1；
   - D4DJ 国际服:earth_americas: → 3.3.60；
   - LLSIF → 9.6.2；
