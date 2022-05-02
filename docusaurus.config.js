@@ -122,6 +122,10 @@ const config = {
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
                 },
+                sitemap: {
+                    changefreq: 'weekly',
+                    priority: 0.5,
+                },
                 gtag: {
                     trackingID: 'G-GYBNM0NDE5',
                     anonymizeIP: true,
@@ -259,10 +263,6 @@ const config = {
                 {
                     title: '友情链接',
                     items: [{
-                            label: 'Rytsu Blog',
-                            href: 'https://rytsu.org',
-                        },
-                        {
                             label: 'Konmai 音游下载站',
                             href: 'https://konmai.cn',
                         },
@@ -275,10 +275,6 @@ const config = {
                             href: 'https://tool.rsplwe.com',
                         },
                         {
-                            label: '空',
-                            href: 'https://minasan.xyz',
-                        },
-                        {
                             label: '空白白白白白',
                             href: 'https://thneden.github.io',
                         },
@@ -289,11 +285,6 @@ const config = {
                     ],
                 },
             ],
-            logo: {
-                alt: 'Lowlight Delight Logo',
-                src: 'img/delight_logo.png',
-                href: 'https://lowi.ro/blog/2021/10/30/about-delight',
-            },
             copyright: `<p><small>
             Copyright © ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited 和 SEGA Corporation 无任何关联。

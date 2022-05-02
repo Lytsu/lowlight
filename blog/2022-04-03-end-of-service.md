@@ -1,5 +1,5 @@
 ---
-title:  关于微光 Lowlight 音游下载站预计在 2023 年年初终止运营活动的通知
+title:  微光 Lowlight 预计在 2023 年年初终止运营活动的通知
 authors: [LOT, Lytsu]
 tags: [通知]
 ---
