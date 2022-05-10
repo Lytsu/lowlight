@@ -28,7 +28,7 @@ title:  疑问解答
 
 如果您是 iOS 用户，请在 App Store 下载您想下载的游戏。**本站不会提供任何 iOS 端游戏下载。**
 
-部分游戏在部分地区的 App Store 不可用，需要切换 App Store 所在地区；有关如何注册 App Store 其他地区账号并进入下载游戏，[请参考本教程](blog/2021/09/30/appleid)。
+部分游戏在部分地区的 App Store 不可用，需要切换 App Store 所在地区；有关如何注册 App Store 其他地区账号并进入下载游戏，[请参考本教程](../blog/2021/09/30/appleid)。
 
 ### 历史版本和愚人节版本
 

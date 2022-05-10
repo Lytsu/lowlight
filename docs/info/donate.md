@@ -37,8 +37,6 @@ If you find my work valuable, and would like to encourage the development of the
 
 [爱发电（支付宝、微信）](https://afdian.net/@toyamaworks) 
 
-[Patreon（PayPal、信用卡）](https://www.patreon.com/lowlight_delight)
-
 -----
 
 ## 钱款去向
@@ -47,7 +45,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 - ~~贪污~~用作站长的一部分生活费；
 - 服务器、域名等的正常开销；
-- 捐赠给其他音游项目和本站使用过的开源项目（[Lowlight Delight](/blog/2021/10/30/about-delight)）。
+- 捐赠给其他音游项目和本站使用过的开源项目（[Lowlight Delight](../blog/2021/10/30/about-delight)）。
 
 由于本站收入比较杂乱，因此只公布支出事宜。
 
@@ -70,4 +68,4 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### Project Delight
 
-参见[Lowlight Delight](/blog/2021/10/30/about-delight)。
+参见[Lowlight Delight](../blog/2021/10/30/about-delight)。

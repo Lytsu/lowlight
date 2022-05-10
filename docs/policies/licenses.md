@@ -20,7 +20,7 @@
 ## 开源项目使用
 
 - Powered by [Docusaurus v2](https://github.com/facebook/docusaurus), which is a project for building, deploying, and maintaining open source project websites easily.
-- The [server status page](https://status.lowi.ro/status/) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
+- The [server status page](https://stat.lowi.ro) is powered by [ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru).
 
 ## 域名使用授权
 
