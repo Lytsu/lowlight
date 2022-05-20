@@ -31,14 +31,14 @@ const config = {
                 indexDocs: true,
                 indexPages: true,
                 translations: {
-                        "search_placeholder": "搜索",
-                        "see_all_results": "查看全部结果",
-                        "no_results": "无结果。",
-                        "search_results_for": "\"{{ keyword }}\"的搜索结果",
-                        "search_the_documentation": "搜索文档",
-                        "count_documents_found": "找到{{ count }}篇文档中含有关键词\"{{ keyword }}\"。",
-                        "count_documents_found_plural": "找到{{ count }}篇文档",
-                        "no_documents_were_found": "没有找到相关文档"
+                    "search_placeholder": "搜索",
+                    "see_all_results": "查看全部结果",
+                    "no_results": "无结果。",
+                    "search_results_for": "\"{{ keyword }}\"的搜索结果",
+                    "search_the_documentation": "搜索文档",
+                    "count_documents_found": "找到{{ count }}篇文档中含有关键词\"{{ keyword }}\"。",
+                    "count_documents_found_plural": "找到{{ count }}篇文档中含有关键词\"{{ keyword }}\"。",
+                    "no_documents_were_found": "没有找到相关文档。"
                 }
             },
         ],
