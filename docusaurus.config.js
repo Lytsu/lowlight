@@ -148,7 +148,7 @@ const config = {
         ({
         announcementBar: {
             id: 'support_us',
-            content: '微光 Lowlight 预计于 2023 年 3 月 1 日终止运营。<a href="blog/2022/04/03/end-of-service">点此查看详情</a>。',
+            content: '下载站的健康发展离不开您的支持。<a href="/info/donate">前往捐赠页→</a>',
             backgroundColor: '#a26ac8',
             textColor: '#fff',
             isCloseable: true,
