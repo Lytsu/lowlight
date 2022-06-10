@@ -36,15 +36,23 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 a.button.button--secondary {
-    color: white!important;
-    background-color: rgba(0, 0, 0, 0.45);
+    color: black!important;
+    background-color: rgba(0, 0, 0, 0.05);
     border: none;
+}
+
+a.button.button--secondary:hover {
+    background-color: rgba(0, 0, 0, 0.15);
 }
 
 a.button.button--primary {
     color: white!important;
     background-color: rgba(0, 0, 0, 0.45);
     border: none;
+}
+
+a.button.button--primary:hover {
+    background-color: rgba(0, 0, 0, 0.65);
 }
 
 .footer {

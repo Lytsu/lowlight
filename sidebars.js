@@ -35,8 +35,8 @@ const sidebars = {
             collapsed: true,
             items: [
                 'info/about',
+                'info/project',
                 'info/donate',
-                'info/support',
             ],
         },
         {
