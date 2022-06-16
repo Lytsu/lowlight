@@ -53,7 +53,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### 服务器
 
-- Linode - 菲利蒙 | US$10/月
+- LayerHost | US$10/月
 - CERA - 洛杉矶 | CN￥30/月
 - DigitalOcean - 旧金山 | US$10/月
 - CMI - 香港 | US$50/年
@@ -65,7 +65,3 @@ If you find my work valuable, and would like to encourage the development of the
 - nhe.lv | US$12.25/年
 - lowi.ro | US$9.69/年
 - lowlight.net | US$9.69/年
-
-#### Project Delight
-
-参见[Lowlight Delight](../blog/2021/10/30/about-delight)。
