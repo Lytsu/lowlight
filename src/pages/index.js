@@ -32,9 +32,9 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-        我们更新了微光 Lowlight 的使用条款。
-          <Link to="/policies/tos">
-          点此查看→
+          我们修订了未成年人保护政策。
+          <Link to="/policies/minor">
+          点此了解→
           </Link>
           </div>
         </div>
