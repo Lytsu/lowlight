@@ -123,7 +123,7 @@ const config = {
                     postsPerPage: 5,
                     feedOptions: {
                         type: 'all',
-                        copyright: `Copyright © ${new Date().getFullYear()} Lowlight.`,
+                        copyright: `Copyright © 2021 - ${new Date().getFullYear()} Lowlight.`,
                     },
                     // Please change this to your repo.
                     editUrl: 'https://github.com/Lytsu/lowlight/edit/main/',
@@ -197,27 +197,27 @@ const config = {
             links: [{
                     title: '条款',
                     items: [{
-                            label: '用户使用条款',
+                            label: '使用条款',
                             to: 'policies/tos',
                         },
                         {
-                            label: '隐私保护政策',
+                            label: '隐私政策',
                             to: 'policies/privacy',
                         },
                         {
-                            label: '未成年人保护',
+                            label: '未成年人保护指引',
                             to: 'policies/minor',
                         },
                         {
-                            label: '资源转载规范',
+                            label: '站点内容转载规范',
                             to: 'policies/repost',
                         },
                         {
-                            label: '游戏收录标准',
+                            label: '站点游戏收录标准',
                             to: 'policies/inclusion',
                         },
                         {
-                            label: '资源使用许可',
+                            label: '版权与许可',
                             to: 'policies/licenses',
                         },
                     ]

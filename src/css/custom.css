@@ -72,13 +72,14 @@ div[class^="announcementBarContent"] {
 }
 
 div[class^="announcementBarContent"] a {
-    text-decoration: underline;
     display: inline-block;
     color: #f5abff !important;
+    text-decoration: none;
 }
 
 div[class^="announcementBarContent"] a:hover {
     color: #fff !important;
+    text-decoration: underline;
 }
 
 
@@ -125,7 +126,7 @@ html[data-theme='dark'] hr {
 }
 
 
-/* 图标样式 */
+/* 主页图标样式 */
 
 .gameicon {
     width: 52px;

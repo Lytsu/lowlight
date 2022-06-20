@@ -35,7 +35,7 @@ If you find my work valuable, and would like to encourage the development of the
 
 ### 按月订阅付款
 
-[爱发电（支付宝、微信）](https://afdian.net/@toyamaworks) 
+[爱发电（支付宝、微信）](https://afdian.net/@toyamaworks)
 
 -----
 
