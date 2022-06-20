@@ -45,7 +45,6 @@ If you find my work valuable, and would like to encourage the development of the
 
 - ~~贪污~~用作站长的一部分生活费；
 - 服务器、域名等的正常开销；
-- 捐赠给其他音游项目和本站使用过的开源项目（[Lowlight Delight](../blog/2021/10/30/about-delight)）。
 
 由于本站收入比较杂乱，因此只公布支出事宜。
 
@@ -53,19 +52,24 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### 服务器
 
-- Linode - 菲利蒙 | US$10/月
-- CERA - 洛杉矶 | CN￥30/月
-- DigitalOcean - 旧金山 | US$10/月
-- CMI - 香港 | US$50/年
-- AWS - 新加坡 | US$10/月
-- 腾讯云 - 香港 | CN￥34/月
+| 运营商/机房   | 所处地区 | 开销（人民币/月） |
+| ------------- | -------- | ----------------- |
+| LayerHost     | 美国     | 65                |
+| DigitalOcean  | 美国     | 65                |
+| CERA Networks | 美国     | 60                |
+| SpartanHost   | 美国     | 30                |
+| AWS           | 新加坡   | 30                |
+| Skylink       | 荷兰     | 30                |
+| 腾讯云        | 中国香港 | 34                |
 
 #### 域名
 
-- nhe.lv | US$12.25/年
-- lowi.ro | US$9.69/年
-- lowlight.net | US$9.69/年
-
-#### Project Delight
-
-参见[Lowlight Delight](../blog/2021/10/30/about-delight)。
+| 域名         | 用途               | 开销（人民币/年） |
+| ------------ | ------------------ | ----------------- |
+| lowi.ro      | 站点访问域名       | 65                |
+| nhe.lv       | 站点访问域名       | 80                |
+| lowlight.net | 站点访问域名       | 65                |
+| 4396.eu      | CAPTCHA 跳转页     | 80                |
+| rytsu.org    | 节点使用的主要域名 | 75                |
+| 616.sb       | 站点访问域名       | 其他玩家提供      |
+| sega.sb      | 站点访问域名       | 其他玩家提供      |

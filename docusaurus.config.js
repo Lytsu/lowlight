@@ -294,8 +294,16 @@ const config = {
                     ],
                 },
             ],
-            copyright: `<p><small>
-            Copyright © ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
+            logo: {
+                alt: 'Team Lowlight Logo',
+                src: 'img/team.png',
+                href: '/info/project',
+            },
+            copyright: `
+            <p><p>
+            <p><small>
+            Copyright © 2021 - ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
+            Google Play™ is a Trademark of Google Inc.<br>
             本站与 lowiro limited 和 SEGA Corporation 无任何关联。
             </small><p>`,
         },
