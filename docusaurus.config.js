@@ -153,13 +153,20 @@ const config = {
             textColor: '#fff',
             isCloseable: true,
         },
+        docs: {
+            sidebar: {
+                hideable: true,
+            },
+        },
         navbar: {
             title: '微光 Lowlight',
             logo: {
                 alt: 'Lowlight Logo',
                 src: 'img/lowlight_maid.webp',
             },
-            items: [{
+            items: [
+                // left
+                {
                     type: 'doc',
                     docId: 'games',
                     position: 'left',
@@ -170,6 +177,7 @@ const config = {
                     label: '站点博客',
                     position: 'left'
                 },
+                // right
                 {
                     label: '更新日志',
                     to: 'changelog',
@@ -181,15 +189,17 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/Lytsu/lowlight',
-                    label: 'GitHub',
-                    position: 'right',
-                },
-                {
-                    label: '哔哩哔哩',
                     href: 'https://space.bilibili.com/319171871',
                     position: 'right',
-                }
+                    className: 'header-bili-link',
+                    'aria-label': 'Bilibili',
+                },
+                {
+                    href: 'https://github.com/Lytsu/lowlight',
+                    position: 'right',
+                    className: 'header-github-link',
+                    'aria-label': 'GitHub repository',
+                },
             ],
         },
         footer: {
