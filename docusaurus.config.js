@@ -106,7 +106,6 @@ const config = {
             '@docusaurus/preset-classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
-                debug: true,
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
@@ -206,7 +205,7 @@ const config = {
         footer: {
             style: 'dark',
             links: [{
-                    title: '条款',
+                    title: '法律信息',
                     items: [{
                             label: '使用条款',
                             to: 'policies/tos',
