@@ -52,15 +52,15 @@ If you find my work valuable, and would like to encourage the development of the
 
 #### 服务器
 
-| 运营商/机房   | 所处地区 | 开销（人民币/月） |
-| ------------- | -------- | ----------------- |
-| LayerHost     | 美国     | 65                |
-| DigitalOcean  | 美国     | 65                |
-| CERA Networks | 美国     | 60                |
-| SpartanHost   | 美国     | 30                |
-| AWS           | 新加坡   | 30                |
-| Skylink       | 荷兰     | 30                |
-| 腾讯云        | 中国香港 | 34                |
+| 运营商/机房   | 所处地区 | 用途          | 开销（人民币/月） |
+| ------------- | -------- | ------------- | ----------------- |
+| UOVZ CMI      | 中国香港 | 主站前后端    | 24                |
+| LayerHost     | 美国     | 下载节点      | 65                |
+| DigitalOcean  | 美国     | 下载节点/测试 | 65                |
+| CERA Networks | 美国     | 下载节点      | 60                |
+| SpartanHost   | 美国     | 下载节点      | 30                |
+| AWS           | 新加坡   | 下载节点      | 30                |
+| Skylink       | 荷兰     | 备用节点      | 30                |
 
 #### 域名
 
@@ -73,3 +73,12 @@ If you find my work valuable, and would like to encourage the development of the
 | rytsu.org    | 节点使用的主要域名 | 75                |
 | 616.sb       | 站点访问域名       | 其他玩家提供      |
 | sega.sb      | 站点访问域名       | 其他玩家提供      |
+
+#### 其他开支
+
+| 名称          | 用途         | 开销（人民币/年） |
+| ------------- | ------------ | ----------------- |
+| Server 酱推送 | 推送掉线警报 | 40                |
+|               |              |                   |
+|               |              |                   |
+
