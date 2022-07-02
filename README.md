@@ -88,10 +88,18 @@ cmd /C 'set "GIT_USER=<你的 GitHub 用户名>" && yarn deploy'
 
 访问以下域名中的一个，即可进入本站：
 
-- **[lowi.ro](https://lowi.ro/)**
-- **[616.sb](https://616.sb/)**
 - **[lowlight.net](https://lowlight.net)**
+- **[lowi.ro](https://lowi.ro)**
 - [nhe.lv](https://nhe.lv/)
+
+以下为其他用户赞助的域名：
+
+- **[616.sb](https:/616.sb)** （@马尾理科）
+- **[sega.sb](https://sega.sb)** （@偷税师柑柑）
+
+## Stargazers over time 
+
+[![Stargazers over time](https://starchart.cc/Lytsu/lowlight.svg)](https://starchart.cc/Lytsu/lowlight) 
 
 ## 联系我们
 
