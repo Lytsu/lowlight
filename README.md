@@ -14,13 +14,13 @@ Lowlight 1.x 是本站上一个在生产环境部署的版本，由 [docsify](ht
 
 ## 项目状态
 
-![Alt](https://repobeats.axiom.co/api/embed/a48a232966f2b6d199d3a99adeb7a357c3cd118e.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/1346b06cd07c3ce11ccba830b506b7829adf33d5.svg "Repobeats analytics image")
 
 ## 安装使用
 
 建议事先查看 [Docusaurus 文档](https://docusaurus.io/zh-CN/docs/) 来了解如何使用。
 
-至少需要安装：[Node.js](https://nodejs.org/en/download/) 版本 >= 14、[Yarn](https://yarnpkg.com/en/) 版本 >= 1.5。
+至少需要安装：[Node.js](https://nodejs.org/en/download/) 版本 >= 16.14、[Yarn](https://yarnpkg.com/en/) 版本 >= 1.5。
 
 ### 获取项目文件
 
@@ -97,9 +97,9 @@ cmd /C 'set "GIT_USER=<你的 GitHub 用户名>" && yarn deploy'
 - **[616.sb](https:/616.sb)** （@马尾理科）
 - **[sega.sb](https://sega.sb)** （@偷税师柑柑）
 
-## Stargazers over time 
+## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Lytsu/lowlight.svg)](https://starchart.cc/Lytsu/lowlight) 
+[![Stargazers over time](https://starchart.cc/Lytsu/lowlight.svg)](https://starchart.cc/Lytsu/lowlight)
 
 ## 联系我们
 
