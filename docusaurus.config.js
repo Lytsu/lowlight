@@ -310,7 +310,6 @@ const config = {
                 href: '/info/project',
             },
             copyright: `
-            <p>微光 Lowlight 坚定地保护未成年人用户的权益。请查看本站的<a href="/policies/minor">未成年人政策</a>进一步了解。</p>
             <p><small>
             Copyright © 2021 - ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
             本站与 lowiro limited 和 SEGA Corporation 无任何关联。
