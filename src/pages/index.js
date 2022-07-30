@@ -30,14 +30,14 @@ export default function Home() {
     <Layout
       title={`首页`}
       description="Lowlight - A Faint Light">
-        <div>
+        {/* <div>
         <div className={styles.HomepageTips}>
-          我们修订了未成年人保护政策。
+          一年间，感谢有你。微光 Lowlight 一周年活动→
           <Link to="/policies/minor">
           点此了解→
           </Link>
           </div>
-        </div>
+        </div> */}
       <HomepageHeader />
       <main>
         <HomepageFeatures />
