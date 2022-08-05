@@ -19,6 +19,7 @@ title: 更新日志
   - D4DJ 国际服:earth_americas: → 4.1.40；
   - LLSIF → 9.8；
   - TAKUMI³ → 4.8.10；
+- 对 Arcaea 进行重新排版。
 
 ### 2022 年 7 月
 
