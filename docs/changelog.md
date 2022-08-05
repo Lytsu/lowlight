@@ -18,6 +18,7 @@ title: 更新日志
   - D4DJ 日服:jp: → 4.2.1；
   - D4DJ 国际服:earth_americas: → 4.1.40；
   - LLSIF → 9.8；
+  - PJSK 日服:jp: → 2.2.1；
   - TAKUMI³ → 4.8.10；
 - 对 Arcaea 进行重新排版。
 
