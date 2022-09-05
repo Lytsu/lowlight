@@ -312,7 +312,7 @@ const config = {
             copyright: `
             <p><small>
             Copyright © 2021 - ${new Date().getFullYear()} Team Lowlight. Bulit with <a href="https://docusaurus.io/zh-CN">Docusaurus</a>.<br>
-            本站与 lowiro limited 和 SEGA Corporation 无任何关联。
+            本站与 lowiro limited、SEGA Corporation 及 Pigeon Games 无任何关联与往来。
             </small><p>`,
         },
         prism: {

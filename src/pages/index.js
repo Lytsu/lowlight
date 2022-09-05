@@ -30,19 +30,11 @@ export default function Home() {
     <Layout
       title={`首页`}
       description="Lowlight - A Faint Light">
-        {/* <div>
-        <div className={styles.HomepageTips}>
-          一年间，感谢有你。微光 Lowlight 一周年活动
-          <Link to="/policies/minor">
-          点此了解→
-          </Link>
-          </div>
-        </div> */}
         <div>
         <div className={styles.HomepageTips}>
-          我们对游戏 Arcaea 进行了调整。
-          <Link to="../blog/2022/08/06/change-of-arcaea">
-          了解详情→
+          微光 Lowlight 一周年抽奖活动开启！
+          <Link to="https://t.bilibili.com/702393900840517634">
+          点此了解→
           </Link>
           </div>
         </div>
