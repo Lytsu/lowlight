@@ -16,7 +16,7 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="games">
-            前往下载游戏
+            下载游戏
           </Link>
         </div>
       </div>
@@ -32,9 +32,8 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-          微光 Lowlight 一周年抽奖活动开启！
-          <Link to="https://t.bilibili.com/702393900840517634">
-          点此了解→
+          <Link to="https://t.bilibili.com/706579234814951447">
+          点此查看过去一年微光 Lowlight 的工作成果
           </Link>
           </div>
         </div>
