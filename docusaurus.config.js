@@ -286,10 +286,6 @@ const config = {
                             href: 'https://konmai.cn',
                         },
                         {
-                            label: 'Rsplwe Blog',
-                            href: 'https://www.rsplwe.com',
-                        },
-                        {
                             label: '哔哩哔哩工具箱',
                             href: 'https://tool.rsplwe.com',
                         },
