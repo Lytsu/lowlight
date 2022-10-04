@@ -32,9 +32,11 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-          <Link to="https://t.bilibili.com/706579234814951447">
-          点此查看过去一年微光 Lowlight 的工作成果
+          关注微光 Lowlight 的
+          <Link to="https://space.bilibili.com/319171871">
+          哔哩哔哩频道
           </Link>
+          ，直接向微光提出你的意见。
           </div>
         </div>
       <HomepageHeader />
