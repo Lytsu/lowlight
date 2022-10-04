@@ -17,6 +17,7 @@ title: 更新日志
   - Arcaea → 4.1.0；
   - Sonolus → 0.6.2；
   - Orzmic → 2.10.1；
+  - BanG Dream 日服:jp: → 6.3.1；
 
 #### 2022/10/03
 - 更新游戏：
