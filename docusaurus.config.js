@@ -54,7 +54,7 @@ const config = {
                 pwaHead: [{
                         tagName: 'link',
                         rel: 'icon',
-                        href: '/img/pwa/icon-512x512.png',
+                        href: '/img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'link',
@@ -79,7 +79,7 @@ const config = {
                     {
                         tagName: 'link',
                         rel: 'apple-touch-icon',
-                        href: '/img/pwa/icon-512x512.png',
+                        href: '/img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'link',
@@ -90,7 +90,7 @@ const config = {
                     {
                         tagName: 'meta',
                         name: 'msapplication-TileImage',
-                        content: '/img/pwa/icon-512x512.png',
+                        content: '/img/pwa/icon-192x192.png',
                     },
                     {
                         tagName: 'meta',
