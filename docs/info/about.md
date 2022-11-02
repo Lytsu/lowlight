@@ -62,6 +62,11 @@ Email: yuk1zuna@outlook.com
 
 - [sega.sb](https://sega.sb)
 
+### 秋葉亜里沙
+
+- [arcaea.moe](https://arcaea.moe)
+- [616.gay](https://616.gay)
+
 ### 静态网站托管
 
 - CF Pages: [lowlight.pages.dev](https://lowlight.pages.dev)
