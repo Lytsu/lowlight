@@ -114,7 +114,9 @@ cmd /C 'set "GIT_USER=<你的 GitHub 用户名>" && yarn deploy'
 
 - **[616.sb](https:/616.sb)** （@马尾理科）
 - **[sega.sb](https://sega.sb)** （@偷税师柑柑）
-
+- **[arcaea.moe](https://arcaea.moe)** （[@秋葉亜里沙](https://github.com/zhanbao2000)）
+- **[616.gay](https://616.gay)** （[@秋葉亜里沙](https://github.com/zhanbao2000)）
+- 
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Lytsu/lowlight.svg)](https://starchart.cc/Lytsu/lowlight)
