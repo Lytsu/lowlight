@@ -84,6 +84,24 @@ cmd /C 'set "GIT_USER=<你的 GitHub 用户名>" && yarn deploy'
 
 详情请参阅 [Docusaurus 部署文档](https://docusaurus.io/zh-CN/docs/deployment)。
 
+#### Cloudflare Pages
+
+在所有的步骤开始之前，你需要：
+
+- fork 该项目到你的 GitHub 仓库
+- 将你的 Github 账户关联到 Cloudflare Pages
+- 在 GitHub 上为 Cloudflare Pages [应用](https://github.com/settings/installations/24751745) 配置存储库访问权限
+
+之后，进入 Cloudflare Pages 控制台，点击 `创建项目` 按钮，选择 `连接到 Git` 作为源，然后选择你之前 fork 的仓库，点击 `开始设置` 按钮。
+
+在构建设置中，请将 `架构预设` 设置为 `Docusaurus`，并将 `构建命令` 设置为 `yarn install && yarn build`。
+
+（**重要**）然后添加一个名为 `NODE_VERSION` 的环境变量，其值为 `16.14`。
+
+在等待 Cloudflare Pages 构建并部署完成后，在 `自定义域` 选项中配置你准备部署到的实际域名。
+
+其他关于 Cloudflare Pages 的信息，请参阅 [Cloudflare Pages 文档](https://developers.cloudflare.com/pages/how-to)。
+
 ## 访问本站
 
 访问以下域名中的一个，即可进入本站：
