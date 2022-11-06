@@ -33,9 +33,13 @@ If you find my work valuable, and would like to encourage the development of the
 
 </details>
 
-### 按月订阅付款
+### 其他方式
 
-[爱发电（支付宝、微信）](https://afdian.net/@toyamaworks)
+#### 网课助力（大学）
+
+支持超星/学习通、知到/智慧树、中国大学 MOOC、U 校园/Utalk 等网课的助力，以及步道乐跑、运动世界校园等校园跑助力。
+
+<p><a href="https://sb616.k100.top" class="buttonDownload">点击进入网站</a></p>
 
 -----
 
