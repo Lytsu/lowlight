@@ -32,11 +32,10 @@ export default function Home() {
       description="Lowlight - A Faint Light">
         <div>
         <div className={styles.HomepageTips}>
-          关注微光 Lowlight 的
-          <Link to="https://space.bilibili.com/319171871">
-          哔哩哔哩频道
+        微光 Lowlight 将于 2022 年 12 月 1 日终止运营。
+          <Link to="/blog/2022/11/06/terminal-of-service">
+          查看详情
           </Link>
-          ，直接向微光提出你的意见。
           </div>
         </div>
       <HomepageHeader />
